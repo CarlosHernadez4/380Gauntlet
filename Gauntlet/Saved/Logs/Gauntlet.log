@@ -715,3 +715,163 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.04.07-20.32.21:667][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2025.04.07-20.33.58:259][805]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.248 and deleted 0 file(s) with total size 0 MiB.
 [2025.04.07-20.36.06:176][854]LogSlate: Window 'Source Control Login' being destroyed
+[2025.04.07-20.36.54:503][191]LogSlate: Took 0.001483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.07-20.37.07:679][868]LogViewport: Scene viewport resized to 984x360, mode Windowed.
+[2025.04.07-20.37.08:536][868]LogViewport: Scene viewport resized to 1481x584, mode Windowed.
+[2025.04.07-20.37.21:073][454]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.07-20.37.21:091][454]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.07-20.37.21:146][456]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.07-20.37.23:260][568]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2025.04.07-20.37.23:267][568]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.07-20.37.26:351][723]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.04.07-20.37.26:362][723]LogContentBrowser: Creating deferred item: NewWorld
+[2025.04.07-20.37.26:415][725]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.04.07-20.37.41:029][559]LogContentBrowser: Attempting asset rename: NewWorld -> CarlosTestScene
+[2025.04.07-20.37.41:424][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.07-20.37.41:530][559]LogContentBrowser: End creating deferred item NewWorld
+[2025.04.07-20.37.42:720][601]LogUObjectHash: Compacting FUObjectHashTables data took  26.01ms
+[2025.04.07-20.37.47:737][601]LogSlate: Window 'Save Content' being destroyed
+[2025.04.07-20.37.48:080][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.04.07-20.37.48:110][601]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.022736 seconds
+[2025.04.07-20.37.48:142][601]LogSavePackage: Moving output files for package: /Game/Maps/CarlosTestScene
+[2025.04.07-20.37.48:143][601]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/CarlosTestSceneB357B1FD47D8A1CA37863BB21751EE77.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/CarlosTestScene.umap'
+[2025.04.07-20.37.48:675][601]LogFileHelpers: Saving map 'CarlosTestScene' took 0.622
+[2025.04.07-20.37.48:687][601]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/CarlosTestScene.CarlosTestScene
+[2025.04.07-20.37.48:690][601]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/CarlosTestScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.04.07-20.37.48:692][601]LightingResults: New page: Lighting Build
+[2025.04.07-20.37.48:694][601]LoadErrors: New page: Loading map: CarlosTestScene.umap
+[2025.04.07-20.37.48:901][601]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-20.37.48:915][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-20.37.48:943][601]MapCheck: New page: Map Check
+[2025.04.07-20.37.48:943][601]LightingResults: New page: Lighting Build
+[2025.04.07-20.37.48:964][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.07-20.37.49:406][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.04.07-20.37.49:427][601]LogWorld: UWorld::CleanupWorld for CarlosTestScene, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-20.37.49:428][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-20.37.49:442][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.04.07-20.37.49:457][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.04.07-20.37.49:470][601]LogAudio: Display: Audio Device (ID: 1) registered with world 'CarlosTestScene'.
+[2025.04.07-20.37.49:471][601]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.04.07-20.37.49:477][601]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.07-20.37.49:480][601]LogAIModule: Creating AISystem for world CarlosTestScene
+[2025.04.07-20.37.49:687][601]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.07-20.37.49:711][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.04.07-20.37.49:728][601]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.07-20.37.49:731][601]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.718ms to complete.
+[2025.04.07-20.37.49:731][601]LogFileHelpers: Loading map 'CarlosTestScene' took 1.044
+[2025.04.07-20.37.49:745][601]AssetCheck: New page: Asset Save: CarlosTestScene
+[2025.04.07-20.37.49:746][601]LogContentValidation: Display: Validating World /Game/Maps/CarlosTestScene.CarlosTestScene
+[2025.04.07-20.37.53:829][795]LogObjectTools: Deleting 1 worlds: /Game/Maps/CarlosTestScene.CarlosTestScene
+[2025.04.07-20.37.53:829][795]LogObjectTools: Currently 1 active worlds: /Game/Maps/CarlosTestScene.CarlosTestScene
+[2025.04.07-20.37.54:773][795]LogSlate: Window 'Unable to delete level' being destroyed
+[2025.04.07-20.37.54:785][795]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2025.04.07-20.37.57:932][959]LogObjectTools: Deleting 1 worlds: /Game/Maps/CarlosTestScene.CarlosTestScene
+[2025.04.07-20.37.57:932][959]LogObjectTools: Currently 1 active worlds: /Game/Maps/CarlosTestScene.CarlosTestScene
+[2025.04.07-20.37.58:683][959]LogSlate: Window 'Unable to delete level' being destroyed
+[2025.04.07-20.37.58:697][959]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2025.04.07-20.38.04:068][ 90]LogSlate: Window 'New Level' being destroyed
+[2025.04.07-20.38.04:080][ 90]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.04.07-20.38.04:081][ 90]LightingResults: New page: Lighting Build
+[2025.04.07-20.38.04:081][ 90]LoadErrors: New page: Loading map: Template_Default.umap
+[2025.04.07-20.38.04:083][ 90]LogWorld: UWorld::CleanupWorld for CarlosTestScene, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-20.38.04:083][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-20.38.04:083][ 90]MapCheck: New page: Map Check
+[2025.04.07-20.38.04:083][ 90]LightingResults: New page: Lighting Build
+[2025.04.07-20.38.04:095][ 90]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.07-20.38.04:097][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.07-20.38.04:200][ 90]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2025.04.07-20.38.04:200][ 90]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.04.07-20.38.04:201][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.07-20.38.04:201][ 90]LogAIModule: Creating AISystem for world Untitled_2
+[2025.04.07-20.38.04:506][ 90]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.07-20.38.04:516][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.04.07-20.38.04:516][ 90]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.07-20.38.04:517][ 90]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.238ms to complete.
+[2025.04.07-20.38.04:517][ 90]LogFileHelpers: Loading map 'Template_Default' took 0.437
+[2025.04.07-20.38.09:451][328]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.15:785][328]LogSlate: Window 'Message' being destroyed
+[2025.04.07-20.38.15:795][328]Message dialog closed, result: Yes, title: Message, text: CarlosTestScene already exists. Do you want to replace it?
+[2025.04.07-20.38.15:796][328]LogSlate: Window 'Save Level As' being destroyed
+[2025.04.07-20.38.15:911][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.07-20.38.15:924][328]LogSavePackage: Moving output files for package: /Game/Maps/CarlosTestScene
+[2025.04.07-20.38.15:926][328]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/CarlosTestScene1F9E4D264589FEE3CE79339888B35F5A.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/CarlosTestScene.umap'
+[2025.04.07-20.38.16:158][328]LogSavePackage: Moving output files for package: /Game/Maps/CarlosTestScene_BuiltData
+[2025.04.07-20.38.16:158][328]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/CarlosTestScene_BuiltDataC7EF615C49BC0A55CB2B13A5301D47EA.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/CarlosTestScene_BuiltData.uasset'
+[2025.04.07-20.38.16:540][328]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2025.04.07-20.38.16:540][328]SourceControl: Error: Gauntlet/Content/Maps/CarlosTestScene_BuiltData.uasset
+[2025.04.07-20.38.16:540][328]SourceControl: Error: hint: Use -f if you really want to add them.
+[2025.04.07-20.38.16:540][328]SourceControl: Error: hint: Disable this message with "git config set advice.addIgnoredFile false"
+[2025.04.07-20.38.16:778][328]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/CarlosTestScene_BuiltData
+[2025.04.07-20.38.16:788][328]LogFileHelpers: Saving map 'CarlosTestScene' took 0.970
+[2025.04.07-20.38.16:797][328]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.07-20.38.16:797][328]LogContentValidation: Display: Validating World /Game/Maps/CarlosTestScene.CarlosTestScene
+[2025.04.07-20.38.16:797][328]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CarlosTestScene_BuiltData.CarlosTestScene_BuiltData
+[2025.04.07-20.38.17:085][338]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.18:241][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.04.07-20.38.18:244][401]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/CarlosTestScene.CarlosTestScene
+[2025.04.07-20.38.18:244][401]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/CarlosTestScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.04.07-20.38.18:244][401]LightingResults: New page: Lighting Build
+[2025.04.07-20.38.18:244][401]LoadErrors: New page: Loading map: CarlosTestScene.umap
+[2025.04.07-20.38.18:247][401]LogWorld: UWorld::CleanupWorld for CarlosTestScene, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-20.38.18:247][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-20.38.18:248][401]MapCheck: New page: Map Check
+[2025.04.07-20.38.18:248][401]LightingResults: New page: Lighting Build
+[2025.04.07-20.38.18:261][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.07-20.38.18:265][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.07-20.38.18:276][401]LogAudio: Display: Audio Device (ID: 1) registered with world 'CarlosTestScene'.
+[2025.04.07-20.38.18:276][401]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.04.07-20.38.18:276][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.07-20.38.18:277][401]LogAIModule: Creating AISystem for world CarlosTestScene
+[2025.04.07-20.38.18:379][401]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.07-20.38.18:390][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.04.07-20.38.18:397][401]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.07-20.38.18:397][401]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.226ms to complete.
+[2025.04.07-20.38.18:398][401]LogFileHelpers: Loading map 'CarlosTestScene' took 0.154
+[2025.04.07-20.38.26:461][810]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.07-20.38.26:530][810]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.07-20.38.26:539][811]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.07-20.38.32:514][161]LogContentBrowser: Attempting asset rename: NewFolder -> Scripts
+[2025.04.07-20.38.32:515][161]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Content: 'C:/Unreal Folder/UE_5.0/Engine/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Bridge/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:446][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.44:447][681]SourceControl: fatal: C:/Unreal Folder/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Unreal Folder/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet'
+[2025.04.07-20.38.45:685][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.04.07-20.38.45:699][681]LogSavePackage: Moving output files for package: /Game/Maps/CarlosTestScene
+[2025.04.07-20.38.45:701][681]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/CarlosTestScene8D852C6B46401F1482E9BA8AE753F3B8.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/CarlosTestScene.umap'
+[2025.04.07-20.38.45:714][681]LogFileHelpers: No new changes to save!
+[2025.04.07-20.38.45:714][681]LogFileHelpers: Saving map 'CarlosTestScene' took 0.045
+[2025.04.07-20.38.58:988][681]LogSlate: Window 'Submit Files' being destroyed
+[2025.04.07-20.38.59:615][681]LogSourceControl: commit successful: [main db1a909] Added My Test Scene to try things out
+[2025.04.07-20.38.59:773][681]SourceControl: [main db1a909] Added My Test Scene to try things out
+[2025.04.07-20.38.59:773][681]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2025.04.07-20.38.59:773][681]SourceControl:  create mode 100644 Gauntlet/Content/Maps/CarlosTestScene.umap
+[2025.04.07-20.38.59:806][681]SourceControl: Commited [main db1a909] Added My Test Scene to try things out.
+[2025.04.07-20.38.59:842][682]AssetCheck: New page: Asset Save: CarlosTestScene
+[2025.04.07-20.38.59:842][682]LogContentValidation: Display: Validating World /Game/Maps/CarlosTestScene.CarlosTestScene
