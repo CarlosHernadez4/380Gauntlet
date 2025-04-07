@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Gauntlet",
+			"Path": "C:\\Users\\sonsi\\Game Development GitHub\\School\\Unreal\\Gauntlet\\380Gauntlet\\Gauntlet\\Source\\Gauntlet.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GauntletEditor",
+			"Path": "C:\\Users\\sonsi\\Game Development GitHub\\School\\Unreal\\Gauntlet\\380Gauntlet\\Gauntlet\\Source\\GauntletEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

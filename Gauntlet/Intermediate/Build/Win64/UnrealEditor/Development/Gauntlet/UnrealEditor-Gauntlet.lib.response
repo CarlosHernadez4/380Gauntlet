@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Gauntlet.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Intermediate\Build\Win64\GauntletEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Intermediate\Build\Win64\UnrealEditor\Development\Gauntlet\Gauntlet.cpp.obj"
+"C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Intermediate\Build\Win64\UnrealEditor\Development\Gauntlet\GauntletGameModeBase.cpp.obj"
+"C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Intermediate\Build\Win64\UnrealEditor\Development\Gauntlet\Gauntlet.init.gen.cpp.obj"
+"C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Intermediate\Build\Win64\UnrealEditor\Development\Gauntlet\GauntletGameModeBase.gen.cpp.obj"
+"C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Intermediate\Build\Win64\UnrealEditor\Development\Gauntlet\Default.rc2.res"
+/OUT:"C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Intermediate\Build\Win64\UnrealEditor\Development\Gauntlet\UnrealEditor-Gauntlet.lib"

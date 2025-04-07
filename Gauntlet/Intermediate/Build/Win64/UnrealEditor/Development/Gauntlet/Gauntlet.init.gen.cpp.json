@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\sonsi\\game development github\\school\\unreal\\gauntlet\\380gauntlet\\gauntlet\\intermediate\\build\\win64\\unrealeditor\\inc\\gauntlet\\gauntlet.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sonsi\\game development github\\school\\unreal\\gauntlet\\380gauntlet\\gauntlet\\intermediate\\build\\win64\\gauntleteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\sonsi\\game development github\\school\\unreal\\gauntlet\\380gauntlet\\gauntlet\\intermediate\\build\\win64\\unrealeditor\\development\\gauntlet\\definitions.gauntlet.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\sonsi\\game development github\\school\\unreal\\gauntlet\\380gauntlet\\gauntlet\\source\\gauntlet\\gauntletgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sonsi\\game development github\\school\\unreal\\gauntlet\\380gauntlet\\gauntlet\\intermediate\\build\\win64\\gauntleteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\sonsi\\game development github\\school\\unreal\\gauntlet\\380gauntlet\\gauntlet\\intermediate\\build\\win64\\unrealeditor\\development\\gauntlet\\definitions.gauntlet.h",
+            "c:\\users\\sonsi\\game development github\\school\\unreal\\gauntlet\\380gauntlet\\gauntlet\\source\\gauntlet\\gauntletgamemodebase.h",
+            "c:\\unreal folder\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\unreal folder\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\unreal folder\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\unreal folder\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\sonsi\\game development github\\school\\unreal\\gauntlet\\380gauntlet\\gauntlet\\intermediate\\build\\win64\\unrealeditor\\inc\\gauntlet\\gauntletgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
