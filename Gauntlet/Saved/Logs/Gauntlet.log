@@ -11871,3 +11871,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.05.09-19.28.06:903][208]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_EnemyFollow1F53D1904BDE70495894A9878846CD84.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Enemies/Blueprints/BP_EnemyFollow.uasset'
 [2025.05.09-19.28.06:934][208]AssetCheck: New page: Asset Save: BP_EnemyFollow
 [2025.05.09-19.28.06:934][208]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Blueprints/BP_EnemyFollow.BP_EnemyFollow
+[2025.05.09-19.31.55:457][835]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
