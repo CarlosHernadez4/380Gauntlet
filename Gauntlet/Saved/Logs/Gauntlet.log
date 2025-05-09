@@ -11874,3 +11874,25 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.05.09-19.31.55:457][835]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
 [2025.05.09-19.34.33:079][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
 [2025.05.09-19.34.33:081][682]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.073
+[2025.05.09-19.39.16:557][395]LogSavePackage: Moving output files for package: /Game/Enemies/Blueprints/BP_Ghost
+[2025.05.09-19.39.16:557][395]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_GhostD899FD3142DE4CD540455D81FE82140C.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Enemies/Blueprints/BP_Ghost.uasset'
+[2025.05.09-19.39.16:846][395]AssetCheck: New page: Asset Save: BP_Ghost
+[2025.05.09-19.39.16:846][395]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Blueprints/BP_Ghost.BP_Ghost
+[2025.05.09-19.39.17:492][415]LogSavePackage: Moving output files for package: /Game/Enemies/Blueprints/BP_Ghost
+[2025.05.09-19.39.17:494][415]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_Ghost9A387BDB446CEF2C428286BA6D24F815.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Enemies/Blueprints/BP_Ghost.uasset'
+[2025.05.09-19.39.17:523][415]AssetCheck: New page: Asset Save: BP_Ghost
+[2025.05.09-19.39.17:523][415]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Blueprints/BP_Ghost.BP_Ghost
+[2025.05.09-19.39.18:827][471]LogSavePackage: Moving output files for package: /Game/Enemies/Blueprints/BP_EnemyFollow
+[2025.05.09-19.39.18:827][471]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_EnemyFollowDF4F907C44178DD3B79D949D29688146.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Enemies/Blueprints/BP_EnemyFollow.uasset'
+[2025.05.09-19.39.19:135][471]AssetCheck: New page: Asset Save: BP_EnemyFollow
+[2025.05.09-19.39.19:135][471]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Blueprints/BP_EnemyFollow.BP_EnemyFollow
+[2025.05.09-19.39.20:165][505]LogSavePackage: Moving output files for package: /Game/Enemies/Blueprints/BP_Block
+[2025.05.09-19.39.20:165][505]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_Block2CF3A8624120BADCC71142BF796885CF.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Enemies/Blueprints/BP_Block.uasset'
+[2025.05.09-19.39.20:481][505]AssetCheck: New page: Asset Save: BP_Block
+[2025.05.09-19.39.20:481][505]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Blueprints/BP_Block.BP_Block
+[2025.05.09-19.39.23:422][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/Blueprints/BP_Projectile.BP_Projectile
+[2025.05.09-19.39.23:422][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.09-19.39.26:582][690]LogSavePackage: Moving output files for package: /Game/Enemies/Blueprints/BP_Projectile
+[2025.05.09-19.39.26:584][690]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_ProjectileBE64A0394B449132FFBCEEB093889171.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Enemies/Blueprints/BP_Projectile.uasset'
+[2025.05.09-19.39.26:616][690]AssetCheck: New page: Asset Save: BP_Projectile
+[2025.05.09-19.39.26:616][690]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Blueprints/BP_Projectile.BP_Projectile
