@@ -11872,3 +11872,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.05.09-19.28.06:934][208]AssetCheck: New page: Asset Save: BP_EnemyFollow
 [2025.05.09-19.28.06:934][208]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Blueprints/BP_EnemyFollow.BP_EnemyFollow
 [2025.05.09-19.31.55:457][835]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2025.05.09-19.34.33:079][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2025.05.09-19.34.33:081][682]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.073
