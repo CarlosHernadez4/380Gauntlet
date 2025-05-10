@@ -12786,3 +12786,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.05.10-19.24.41:142][738]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_EnemyFollow085A392D4E297B1A1945D3B2177E1427.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Enemies/Blueprints/BP_EnemyFollow.uasset'
 [2025.05.10-19.24.41:173][738]AssetCheck: New page: Asset Save: BP_EnemyFollow
 [2025.05.10-19.24.41:173][738]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Blueprints/BP_EnemyFollow.BP_EnemyFollow
+[2025.05.10-19.26.44:318][678]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2025.05.10-19.26.48:596][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Players/Elf_Bp.Elf_Bp
+[2025.05.10-19.26.48:615][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.10-19.26.58:981][365]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.10-19.26.58:985][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
