@@ -15705,3 +15705,1478 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.05.11-00.20.35:955][399]LogFileHelpers: No new changes to save!
 [2025.05.11-00.20.35:977][399]AssetCheck: New page: Asset Save: CarlosTestScene
 [2025.05.11-00.20.35:977][399]LogContentValidation: Display: Validating World /Game/Maps/CarlosTestScene.CarlosTestScene
+[2025.05.11-01.13.13:941][ 58]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.132 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-02.13.13:996][826]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.126 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-03.13.13:949][592]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.134 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-04.13.13:943][358]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.127 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-05.13.13:960][123]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.202 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-06.13.14:097][890]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.191 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-07.13.13:877][655]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.191 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-08.13.13:964][420]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.201 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-09.13.13:959][187]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.144 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-10.06.32:927][753]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.11-10.06.34:856][759]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0. Error code 37.
+[2025.05.11-10.06.34:856][759]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2025.05.11-10.06.34:961][759]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.11-10.06.36:320][764]LogHttp: Warning: 0000046C3D507300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B516D6A5C-4DFB-C2AE-FA64-AB9BA209EFE1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=9107db07419603046085f684d0dd4341%7Cdf3b96c1292e42d9aa194f193120ac38%7Cd7d24afe-f8b6-40b4-b32f-67465341039b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: request failed, libcurl error: 0 (No error)
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x46bfd8d0990 [can pipeline])
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 1 (Re-using existing connection! (#39) with host datarouter.ol.epicgames.com)
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.228.211.63) port 443 (#39))
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 6 (TLSv1.3 (IN), TLS Unknown, Unknown (21):)
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 7 (TLSv1.3 (IN), TLS alert, Client hello (1):)
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 8 (Connection died, retrying a fresh connect)
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 9 (necessary data rewind wasn't possible)
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 10 (Closing connection 39)
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 11 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.05.11-10.06.36:321][764]LogHttp: Warning: 0000046C3D507300: libcurl info message cache 12 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.05.11-10.06.36:322][764]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B516D6A5C-4DFB-C2AE-FA64-AB9BA209EFE1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=9107db07419603046085f684d0dd4341%7Cdf3b96c1292e42d9aa194f193120ac38%7Cd7d24afe-f8b6-40b4-b32f-67465341039b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.05.11-10.06.36:776][765]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0. Error code 37.
+[2025.05.11-10.06.36:776][765]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2025.05.11-10.06.36:984][765]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.11-10.13.14:093][953]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.141 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-10.48.56:458][359]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.11-11.13.14:091][718]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.130 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-12.13.14:106][484]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.133 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-13.13.13:785][250]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.144 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-14.13.14:131][ 16]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.199 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-15.13.13:777][781]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.128 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-16.13.13:861][534]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.139 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-17.13.13:892][270]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.143 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-18.13.13:926][ 36]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.124 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-19.13.13:871][803]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.128 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-20.13.13:839][569]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.125 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-20.26.19:360][917]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.11-21.13.13:856][334]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.127 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-22.13.13:802][ 99]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.127 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.11-23.13.14:044][866]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.209 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-00.13.13:934][631]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.212 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-01.13.13:870][397]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.134 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-02.13.13:942][162]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.190 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-03.13.13:906][928]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.129 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-04.13.13:906][678]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.141 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-04.36.57:355][444]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.12-04.36.58:689][522]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.12-04.36.59:140][544]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.12-04.37.04:430][812]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.12-04.37.59:525][840]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.37.59:899][846]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.00:070][850]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.00:555][879]Cmd: TRANSACTION UNDO
+[2025.05.12-04.38.00:556][879]LogEditorTransaction: Undo Move Elements
+[2025.05.12-04.38.00:654][879]LogMaterial: Display: Missing cached shadermap for Preview:Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 20E4703A5C5045A2B698C7DAE2D6D7CFB008BFD8), compiling. 
+[2025.05.12-04.38.00:719][879]LogMaterial: Display: Missing cached shadermap for Preview:TestPlayerMat in PCD3D_SM5, Default, SM5 (DDC key hash: AB85662F728ACCD92EA8A893A859D60A629BE043), compiling. 
+[2025.05.12-04.38.00:729][879]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 7C0E629475F4A1BFBA3B75B0F71CEF7ADB4BBB86), compiling. 
+[2025.05.12-04.38.00:787][879]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.38.00:787][879]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.38.00:787][879]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.38.00:788][879]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.38.00:788][879]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.38.00:788][879]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.38.00:788][879]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.38.00:788][879]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.38.00:788][879]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.38.01:014][881]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.01:028][881]LogShaderCompilers: Display: ================================================
+[2025.05.12-04.38.01:028][881]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.12-04.38.01:028][881]LogShaderCompilers: Display: Total job queries 641, among them cache hits 437 (68.17%)
+[2025.05.12-04.38.01:028][881]LogShaderCompilers: Display: Tracking 148 distinct input hashes that result in 80 distinct outputs (54.05%)
+[2025.05.12-04.38.01:028][881]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2025.05.12-04.38.01:028][881]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.12-04.38.01:028][881]LogShaderCompilers: Display: Shaders Compiled: 74
+[2025.05.12-04.38.01:028][881]LogShaderCompilers: Display: Jobs assigned 148, completed 148 (100.00%)
+[2025.05.12-04.38.01:028][881]LogShaderCompilers: Display: Average time worker was idle: 195.72 s
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 2.54 s
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display: Job execution time: average 2.43 s, max 5.59 s
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display: Job life time (pending + execution): average 2.56 s, max 5.62
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 62.10 s
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display: Jobs were issued in 137 batches (only local compilation was used), average 1.08 jobs/batch
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display: Average processing rate: 2.38 jobs/sec
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display: Effective parallelization: 3.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 2.51 sec, max 2.96 sec, min 1.68 sec)
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    6 times, average 2.46 sec, max 2.87 sec, min 1.78 sec)
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    6 times, average 2.31 sec, max 2.69 sec, min 1.60 sec)
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 2.30 sec, max 2.83 sec, min 1.12 sec)
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    6 times, average 2.29 sec, max 2.66 sec, min 1.60 sec)
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.65% of total time (compiled   18 times, average 1.60 sec, max 2.93 sec, min 1.14 sec)
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.17% of total time (compiled   18 times, average 1.53 sec, max 2.79 sec, min 1.08 sec)
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.50% of total time (compiled   17 times, average 1.54 sec, max 2.90 sec, min 1.10 sec)
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.62% of total time (compiled    6 times, average 2.51 sec, max 2.96 sec, min 1.68 sec)
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.51% of total time (compiled    6 times, average 2.46 sec, max 2.87 sec, min 1.78 sec)
+[2025.05.12-04.38.01:029][881]LogShaderCompilers: Display: ================================================
+[2025.05.12-04.38.01:071][882]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.38.01:071][882]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.38.01:071][882]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.38.01:071][882]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.38.01:071][882]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.38.01:071][882]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.38.01:071][882]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.38.01:071][882]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.38.01:071][882]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.38.19:524][928]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.20:062][935]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.20:445][945]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.20:925][964]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.21:367][987]Cmd: TRANSACTION UNDO
+[2025.05.12-04.38.21:367][987]LogEditorTransaction: Undo Move Elements
+[2025.05.12-04.38.21:425][987]LogMaterial: Display: Missing cached shadermap for Preview:Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 3DD07CD2F2F2770F077EA64A0A995CD19A66F94B), compiling. 
+[2025.05.12-04.38.21:432][987]LogMaterial: Display: Missing cached shadermap for Preview:TestPlayerMat in PCD3D_SM5, Default, SM5 (DDC key hash: 531D92A7A52E7458A02343172AAA67D0E3E6CB7F), compiling. 
+[2025.05.12-04.38.21:438][987]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 7C5DAAD420E288EDF37148FBA6BC783FCD5C7A9F), compiling. 
+[2025.05.12-04.38.21:475][987]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.38.21:475][987]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.38.21:475][987]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.38.21:475][987]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.38.21:475][987]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.38.21:475][987]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.38.21:476][987]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.38.21:476][987]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.38.21:476][987]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.38.21:523][988]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.21:718][990]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.38.21:718][990]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.38.21:718][990]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.38.21:718][990]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.38.21:718][990]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.38.21:718][990]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.38.21:718][990]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.38.21:718][990]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.38.21:718][990]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.38.24:715][102]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.28:800][319]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.28:922][325]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.29:438][352]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.30:445][408]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.12-04.38.30:923][433]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.12-04.38.53:304][707]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.53:398][711]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.53:702][727]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.54:204][753]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.59:298][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.38.59:702][ 65]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.00:208][ 94]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.00:908][135]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.01:344][157]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.06:301][441]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.06:754][467]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.07:324][500]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.07:879][532]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.08:901][592]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.09:280][611]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.25:157][503]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.39:722][332]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.40:007][337]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.46:562][709]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.46:617][711]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.46:735][717]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.46:890][725]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.47:335][747]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.39.56:784][214]Cmd: DUPLICATE
+[2025.05.12-04.39.56:784][214]Cmd: ACTOR DUPLICATE
+[2025.05.12-04.39.57:720][215]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.01:998][395]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.02:534][426]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.03:005][450]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.06:885][659]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.07:433][687]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.31:013][669]Cmd: DUPLICATE
+[2025.05.12-04.40.31:013][669]Cmd: ACTOR DUPLICATE
+[2025.05.12-04.40.31:790][670]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.33:378][742]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.33:580][749]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.33:795][760]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.34:178][783]Cmd: TRANSACTION UNDO
+[2025.05.12-04.40.34:178][783]LogEditorTransaction: Undo Move Elements
+[2025.05.12-04.40.34:197][783]LogMaterial: Display: Missing cached shadermap for Preview:Floor in PCD3D_SM5, Default, SM5 (DDC key hash: B5D1DA1DE863FB27FED0F450BC320D03B8629F2E), compiling. 
+[2025.05.12-04.40.34:210][783]LogMaterial: Display: Missing cached shadermap for Preview:TestPlayerMat in PCD3D_SM5, Default, SM5 (DDC key hash: ECE517589AECA735DF3E8761F79419AF7301A425), compiling. 
+[2025.05.12-04.40.34:219][783]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: F29D7BA0E23C40ADD4F73243485D56CF0193DCCE), compiling. 
+[2025.05.12-04.40.34:246][783]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.40.34:246][783]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.40.34:246][783]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.40.34:246][783]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.40.34:246][783]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.40.34:246][783]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.40.34:246][783]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.40.34:246][783]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.40.34:246][783]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.40.34:305][784]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.34:367][786]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.40.34:367][786]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.40.34:367][786]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.40.34:368][786]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.40.34:368][786]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.40.34:368][786]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.40.34:368][786]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.40.34:368][786]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.40.34:368][786]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.40.35:108][818]Cmd: TRANSACTION UNDO
+[2025.05.12-04.40.35:108][818]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.12-04.40.35:121][818]LogMaterial: Display: Missing cached shadermap for Preview:Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 16D8D8BB746090EB043A90755251207A8F7D9DA8), compiling. 
+[2025.05.12-04.40.35:128][818]LogMaterial: Display: Missing cached shadermap for Preview:TestPlayerMat in PCD3D_SM5, Default, SM5 (DDC key hash: 7FAA03D945186C3B4E4CF5067D4AECF64EFC71C4), compiling. 
+[2025.05.12-04.40.35:135][818]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: B0C30587F618804A4E8B5EE90F664514A5F69054), compiling. 
+[2025.05.12-04.40.35:143][818]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.40.35:143][818]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.40.35:143][818]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.40.35:143][818]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.40.35:143][818]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.40.35:143][818]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.40.35:144][818]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.40.35:144][818]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.40.35:144][818]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.40.35:242][821]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.40.35:242][821]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.40.35:242][821]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.40.35:242][821]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.40.35:242][821]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.40.35:242][821]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.40.35:288][822]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.40.35:288][822]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.40.35:288][822]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.40.37:145][898]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.37:246][902]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.38:048][943]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.39:169][  6]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.39:265][ 10]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.39:372][ 15]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.40:167][ 61]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.40:286][ 67]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.40:738][ 90]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.43:815][263]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.44:546][303]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.50:764][670]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.40.58:250][ 93]Cmd: DELETE
+[2025.05.12-04.40.58:251][ 93]Cmd: ACTOR DELETE
+[2025.05.12-04.40.58:309][ 93]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.40.59:128][ 93]LogUObjectHash: Compacting FUObjectHashTables data took  16.50ms
+[2025.05.12-04.40.59:143][ 93]LogEditorActor: Deleted 1 Actors (0.891 secs)
+[2025.05.12-04.41.00:681][180]Cmd: DELETE
+[2025.05.12-04.41.00:682][180]Cmd: ACTOR DELETE
+[2025.05.12-04.41.00:695][180]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.00:786][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.05.12-04.41.00:789][180]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2025.05.12-04.41.01:317][206]Cmd: DELETE
+[2025.05.12-04.41.01:317][206]Cmd: ACTOR DELETE
+[2025.05.12-04.41.01:328][206]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.01:412][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.05.12-04.41.01:416][206]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2025.05.12-04.41.17:880][118]Cmd: DELETE
+[2025.05.12-04.41.17:880][118]Cmd: ACTOR DELETE
+[2025.05.12-04.41.17:893][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:893][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:894][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:895][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:895][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:896][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:897][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:897][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:898][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:898][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:899][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:899][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:900][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:900][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:901][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:902][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:903][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:903][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:904][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:905][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:905][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:906][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:906][118]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.41.17:991][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2025.05.12-04.41.17:995][118]LogEditorActor: Deleted 23 Actors (0.114 secs)
+[2025.05.12-04.41.18:045][119]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.41.37:338][202]Cmd: DUPLICATE
+[2025.05.12-04.41.37:338][202]Cmd: ACTOR DUPLICATE
+[2025.05.12-04.41.39:108][205]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.41.44:176][435]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.41.48:801][629]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.41.49:643][664]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.41.52:980][848]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.41.54:322][914]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.41.54:935][943]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.42.15:635][129]Cmd: DELETE
+[2025.05.12-04.42.15:635][129]Cmd: ACTOR DELETE
+[2025.05.12-04.42.15:652][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:654][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:654][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:655][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:656][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:657][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:657][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:658][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:659][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:659][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:661][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:662][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:663][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:664][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:665][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:665][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:666][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:667][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:667][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:668][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:668][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:669][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:670][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:671][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:671][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:672][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:673][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:674][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:674][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:675][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:676][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:677][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:678][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:678][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:679][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:679][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:681][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:682][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:683][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:683][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:684][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:685][129]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.42.15:808][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.05.12-04.42.15:812][129]LogEditorActor: Deleted 42 Actors (0.177 secs)
+[2025.05.12-04.42.15:846][130]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.42.23:847][572]Cmd: DELETE
+[2025.05.12-04.42.23:847][572]Cmd: ACTOR DELETE
+[2025.05.12-04.43.15:979][540]Cmd: DUPLICATE
+[2025.05.12-04.43.15:979][540]Cmd: ACTOR DUPLICATE
+[2025.05.12-04.43.17:701][543]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.21:037][661]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.22:931][707]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.23:346][726]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.24:113][759]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.27:907][930]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.28:576][940]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.29:076][964]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.29:857][  1]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.34:384][187]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.37:922][307]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.38:588][341]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.39:216][369]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.43.47:745][856]Cmd: DELETE
+[2025.05.12-04.43.47:745][856]Cmd: ACTOR DELETE
+[2025.05.12-04.43.47:765][856]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.43.47:903][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2025.05.12-04.43.47:905][856]LogEditorActor: Deleted 1 Actors (0.160 secs)
+[2025.05.12-04.43.47:947][857]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.44.25:664][634]Cmd: DELETE
+[2025.05.12-04.44.25:664][634]Cmd: ACTOR DELETE
+[2025.05.12-04.44.25:680][634]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.25:770][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.05.12-04.44.25:773][634]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2025.05.12-04.44.25:806][635]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.44.48:218][949]Cmd: DELETE
+[2025.05.12-04.44.48:218][949]Cmd: ACTOR DELETE
+[2025.05.12-04.44.50:360][ 75]Cmd: TRANSACTION UNDO
+[2025.05.12-04.44.50:360][ 75]LogEditorTransaction: Undo Delete Elements
+[2025.05.12-04.44.50:412][ 75]LogMaterial: Display: Missing cached shadermap for Preview:Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 89F3ED48400DBA5EBEBD0DB9411B3F0BD8FD8953), compiling. 
+[2025.05.12-04.44.50:420][ 75]LogMaterial: Display: Missing cached shadermap for Preview:TestPlayerMat in PCD3D_SM5, Default, SM5 (DDC key hash: BD3440EA8A22A490F332D47084DDE7A106F35FD2), compiling. 
+[2025.05.12-04.44.50:428][ 75]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: FD56E1036950E0A39507289208A3042987102CED), compiling. 
+[2025.05.12-04.44.50:458][ 75]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.44.50:458][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.44.50:458][ 75]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.44.50:458][ 75]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.44.50:458][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.44.50:458][ 75]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.44.50:458][ 75]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-04.44.50:458][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.44.50:459][ 75]MaterialEditorStats: Shader Count: 0
+[2025.05.12-04.44.50:484][ 76]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: ================================================
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Total job queries 689, among them cache hits 485 (70.39%)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Tracking 148 distinct input hashes that result in 80 distinct outputs (54.05%)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Shaders Compiled: 74
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Jobs assigned 148, completed 148 (100.00%)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Average time worker was idle: 195.72 s
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 2.54 s
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Job execution time: average 2.43 s, max 5.59 s
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Job life time (pending + execution): average 2.56 s, max 5.62
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 62.10 s
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Jobs were issued in 137 batches (only local compilation was used), average 1.08 jobs/batch
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Average processing rate: 2.38 jobs/sec
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Effective parallelization: 3.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 2.51 sec, max 2.96 sec, min 1.68 sec)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    6 times, average 2.46 sec, max 2.87 sec, min 1.78 sec)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    6 times, average 2.31 sec, max 2.69 sec, min 1.60 sec)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 2.30 sec, max 2.83 sec, min 1.12 sec)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    6 times, average 2.29 sec, max 2.66 sec, min 1.60 sec)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.65% of total time (compiled   18 times, average 1.60 sec, max 2.93 sec, min 1.14 sec)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.17% of total time (compiled   18 times, average 1.53 sec, max 2.79 sec, min 1.08 sec)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.50% of total time (compiled   17 times, average 1.54 sec, max 2.90 sec, min 1.10 sec)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.62% of total time (compiled    6 times, average 2.51 sec, max 2.96 sec, min 1.68 sec)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.51% of total time (compiled    6 times, average 2.46 sec, max 2.87 sec, min 1.78 sec)
+[2025.05.12-04.44.50:517][ 77]LogShaderCompilers: Display: ================================================
+[2025.05.12-04.44.50:542][ 78]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.44.50:542][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.44.50:543][ 78]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.44.50:543][ 78]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.44.50:543][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.44.50:543][ 78]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.44.50:543][ 78]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-04.44.50:543][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-04.44.50:543][ 78]MaterialEditorStats: Shader Count: 4
+[2025.05.12-04.44.55:066][295]Cmd: DELETE
+[2025.05.12-04.44.55:066][295]Cmd: ACTOR DELETE
+[2025.05.12-04.44.55:082][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:082][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:083][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:084][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:084][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:085][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:085][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:086][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:086][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:087][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:087][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:088][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:088][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:089][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:090][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:090][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:090][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:091][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:091][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:092][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:092][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:093][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:093][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:094][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:094][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:095][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:095][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:096][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:096][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:097][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:097][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:098][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:098][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:098][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:100][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:100][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:101][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:101][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:102][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:102][295]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.44.55:196][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.05.12-04.44.55:198][295]LogEditorActor: Deleted 40 Actors (0.132 secs)
+[2025.05.12-04.44.55:232][296]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.44.56:448][369]Cmd: DELETE
+[2025.05.12-04.44.56:448][369]Cmd: ACTOR DELETE
+[2025.05.12-04.45.18:630][684]Cmd: DUPLICATE
+[2025.05.12-04.45.18:630][684]Cmd: ACTOR DUPLICATE
+[2025.05.12-04.45.20:415][687]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.23:904][795]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.24:356][808]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.27:228][941]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.27:831][958]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.28:360][981]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.29:458][ 41]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.29:807][ 58]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.30:079][ 68]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.30:708][100]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.30:888][107]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.31:164][116]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.32:062][165]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.32:551][185]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.36:445][406]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.53:748][404]Cmd: DELETE
+[2025.05.12-04.45.53:748][404]Cmd: ACTOR DELETE
+[2025.05.12-04.45.53:770][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:771][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:771][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:772][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:773][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:773][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:774][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:775][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:776][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:776][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:777][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:778][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:778][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:779][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:780][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:780][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:781][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:781][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:782][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:783][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:783][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:784][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:785][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:786][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:786][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:787][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:788][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:788][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:788][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:790][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:791][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:791][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:792][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:793][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:793][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:794][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:795][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:795][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:796][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:797][404]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-04.45.53:921][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.05.12-04.45.53:925][404]LogEditorActor: Deleted 40 Actors (0.176 secs)
+[2025.05.12-04.45.53:950][405]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.45.55:248][483]Cmd: DELETE
+[2025.05.12-04.45.55:248][483]Cmd: ACTOR DELETE
+[2025.05.12-04.46.30:935][887]Cmd: SELECT NONE
+[2025.05.12-04.46.32:502][970]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.46.40:202][363]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-04.47.38:185][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.05.12-04.47.39:159][222]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/CarlosTestScene_Auto9
+[2025.05.12-04.47.39:159][222]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/CarlosTestScene_Auto918D482554EFDFA2D108DF4974D9CA374.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Autosaves/Game/Maps/CarlosTestScene_Auto9.umap'
+[2025.05.12-04.47.39:266][222]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/CarlosTestScene' took 1.200
+[2025.05.12-04.47.39:266][222]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.200
+[2025.05.12-05.10.03:572][603]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (2- JVC HA-S75N), InstanceID=1
+[2025.05.12-05.10.03:572][603]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28432
+[2025.05.12-05.10.03:901][603]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{506c6bbb-7ba3-4a94-9ff4-8e6250271495}, Name=Headphones (2- JVC HA-S75N)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=95.65
+[2025.05.12-05.10.03:901][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.12-05.10.03:912][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.12-05.13.13:883][172]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.131 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-05.42.26:728][323]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.27:203][351]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.27:689][377]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.28:114][402]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.28:567][429]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.28:928][449]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.29:492][478]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.29:529][480]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.29:647][487]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.29:980][507]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.30:298][524]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.30:783][547]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.30:818][549]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.31:804][606]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.32:309][630]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.32:406][635]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.32:903][663]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.33:436][689]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.33:487][692]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.33:851][712]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.34:353][736]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.34:788][762]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.35:099][779]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.35:716][812]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.35:952][826]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.36:418][852]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.41:035][102]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.41:321][119]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.41:440][126]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.41:938][156]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.42:255][173]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.42:999][208]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.43:504][238]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.43:852][257]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.44:481][291]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.44:799][310]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.45:197][332]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.56:561][949]Cmd: DUPLICATE
+[2025.05.12-05.42.56:561][949]Cmd: ACTOR DUPLICATE
+[2025.05.12-05.42.56:811][950]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.58:237][ 32]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.58:709][ 53]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.59:320][ 88]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.59:360][ 90]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.59:399][ 92]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.59:440][ 94]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.42.59:729][104]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.00:218][117]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.00:274][119]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.00:350][123]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.00:475][130]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.00:582][136]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.01:217][168]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.05:204][392]Cmd: DUPLICATE
+[2025.05.12-05.43.05:204][392]Cmd: ACTOR DUPLICATE
+[2025.05.12-05.43.05:469][393]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.07:380][490]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.07:483][496]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.08:469][555]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.08:811][573]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.10:259][636]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.10:296][638]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.10:473][648]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.10:580][654]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.10:635][657]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.10:673][659]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.10:711][661]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.10:779][665]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.11:482][707]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.11:900][732]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.12:070][742]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.12:209][750]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.13:128][804]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.13:216][809]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.13:292][813]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.13:538][827]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.13:597][830]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.13:780][841]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.14:186][862]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.18:926][136]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.19:076][145]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.19:503][170]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.20:361][221]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.21:035][261]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.21:105][265]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.21:572][293]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.22:178][327]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.25:170][495]Cmd: DELETE
+[2025.05.12-05.43.25:170][495]Cmd: ACTOR DELETE
+[2025.05.12-05.43.25:190][495]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-05.43.25:298][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2025.05.12-05.43.25:300][495]LogEditorActor: Deleted 1 Actors (0.130 secs)
+[2025.05.12-05.43.29:720][751]Cmd: DELETE
+[2025.05.12-05.43.29:720][751]Cmd: ACTOR DELETE
+[2025.05.12-05.43.29:735][751]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-05.43.29:825][751]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2025.05.12-05.43.29:827][751]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2025.05.12-05.43.29:842][752]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.43.31:773][866]Cmd: DELETE
+[2025.05.12-05.43.31:773][866]Cmd: ACTOR DELETE
+[2025.05.12-05.43.31:790][866]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-05.43.31:874][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.05.12-05.43.31:877][866]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2025.05.12-05.43.32:907][926]Cmd: DELETE
+[2025.05.12-05.43.32:907][926]Cmd: ACTOR DELETE
+[2025.05.12-05.43.32:924][926]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-05.43.33:008][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.12-05.43.33:012][926]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2025.05.12-05.43.35:088][ 47]Cmd: DELETE
+[2025.05.12-05.43.35:088][ 47]Cmd: ACTOR DELETE
+[2025.05.12-05.43.35:106][ 47]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-05.43.35:197][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.05.12-05.43.35:200][ 47]LogEditorActor: Deleted 1 Actors (0.111 secs)
+[2025.05.12-05.43.35:224][ 48]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.44.15:233][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.12-05.44.15:484][380]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/CarlosTestScene_Auto0
+[2025.05.12-05.44.15:485][380]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/CarlosTestScene_Auto010BFB5954E2EA59760E7D7BA83740F55.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Autosaves/Game/Maps/CarlosTestScene_Auto0.umap'
+[2025.05.12-05.44.15:495][380]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/CarlosTestScene' took 0.347
+[2025.05.12-05.44.15:495][380]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.347
+[2025.05.12-05.45.39:953][143]Cmd: DUPLICATE
+[2025.05.12-05.45.39:953][143]Cmd: ACTOR DUPLICATE
+[2025.05.12-05.45.40:281][144]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.45.44:081][322]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.45.50:670][598]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.45.51:260][626]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.45.51:971][661]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.45.52:362][680]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.19:084][260]Cmd: DUPLICATE
+[2025.05.12-05.46.19:084][260]Cmd: ACTOR DUPLICATE
+[2025.05.12-05.46.19:503][261]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.21:315][324]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.21:611][336]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.21:703][340]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.21:883][348]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.22:351][366]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.23:481][419]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.23:567][422]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.24:576][479]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.24:677][484]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.25:587][537]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.25:974][556]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.33:732][972]Cmd: DELETE
+[2025.05.12-05.46.33:732][972]Cmd: ACTOR DELETE
+[2025.05.12-05.46.33:753][972]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-05.46.33:754][972]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-05.46.33:754][972]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-05.46.33:755][972]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-05.46.33:850][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2025.05.12-05.46.33:853][972]LogEditorActor: Deleted 4 Actors (0.120 secs)
+[2025.05.12-05.46.33:869][973]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.46.38:535][231]Cmd: DELETE
+[2025.05.12-05.46.38:535][231]Cmd: ACTOR DELETE
+[2025.05.12-05.46.38:553][231]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-05.46.38:644][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.05.12-05.46.38:646][231]LogEditorActor: Deleted 1 Actors (0.111 secs)
+[2025.05.12-05.46.38:665][232]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.51.44:675][488]Cmd: TRANSACTION UNDO
+[2025.05.12-05.51.44:675][488]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.12-05.51.44:695][488]LogMaterial: Display: Missing cached shadermap for Preview:Floor in PCD3D_SM5, Default, SM5 (DDC key hash: E6567B20EC236D45CD00F18B926DE15985BE5BD2), compiling. 
+[2025.05.12-05.51.44:701][488]LogMaterial: Display: Missing cached shadermap for Preview:TestPlayerMat in PCD3D_SM5, Default, SM5 (DDC key hash: 2CD1FD04A045CBB19A52ED0B23508016106A5BDB), compiling. 
+[2025.05.12-05.51.44:707][488]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 55831ED5A129A47FA7E2D9255FB7A6B711F36701), compiling. 
+[2025.05.12-05.51.44:729][488]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.51.44:729][488]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.51.44:729][488]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.51.44:729][488]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.51.44:729][488]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.51.44:729][488]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.51.44:729][488]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.51.44:729][488]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.51.44:729][488]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: ================================================
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Total job queries 693, among them cache hits 489 (70.56%)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Tracking 148 distinct input hashes that result in 80 distinct outputs (54.05%)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Shaders Compiled: 74
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Jobs assigned 148, completed 148 (100.00%)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Average time worker was idle: 195.72 s
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 2.54 s
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Job execution time: average 2.43 s, max 5.59 s
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Job life time (pending + execution): average 2.56 s, max 5.62
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 62.10 s
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Jobs were issued in 137 batches (only local compilation was used), average 1.08 jobs/batch
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Average processing rate: 2.38 jobs/sec
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Effective parallelization: 3.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 2.51 sec, max 2.96 sec, min 1.68 sec)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    6 times, average 2.46 sec, max 2.87 sec, min 1.78 sec)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    6 times, average 2.31 sec, max 2.69 sec, min 1.60 sec)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 2.30 sec, max 2.83 sec, min 1.12 sec)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    6 times, average 2.29 sec, max 2.66 sec, min 1.60 sec)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.65% of total time (compiled   18 times, average 1.60 sec, max 2.93 sec, min 1.14 sec)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.17% of total time (compiled   18 times, average 1.53 sec, max 2.79 sec, min 1.08 sec)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.50% of total time (compiled   17 times, average 1.54 sec, max 2.90 sec, min 1.10 sec)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.62% of total time (compiled    6 times, average 2.51 sec, max 2.96 sec, min 1.68 sec)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.51% of total time (compiled    6 times, average 2.46 sec, max 2.87 sec, min 1.78 sec)
+[2025.05.12-05.51.44:796][489]LogShaderCompilers: Display: ================================================
+[2025.05.12-05.51.44:828][490]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.51.44:828][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.51.44:828][490]MaterialEditorStats: Shader Count: 2
+[2025.05.12-05.51.44:858][491]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.51.44:858][491]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.51.44:858][491]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.51.44:858][491]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.51.44:858][491]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.51.44:858][491]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.51.53:530][941]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.51.56:144][ 90]Cmd: TRANSACTION UNDO
+[2025.05.12-05.51.56:144][ 90]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.12-05.51.56:155][ 90]LogMaterial: Display: Missing cached shadermap for Preview:Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 025987C18E0F6243FDFDFB9C4A103F6FEA886C74), compiling. 
+[2025.05.12-05.51.56:161][ 90]LogMaterial: Display: Missing cached shadermap for Preview:TestPlayerMat in PCD3D_SM5, Default, SM5 (DDC key hash: 106FA03A691489F0A68CF1113FC7CE0B68C36EE2), compiling. 
+[2025.05.12-05.51.56:167][ 90]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 9000C07741C718975F1913F6BE8B33F99D275F2E), compiling. 
+[2025.05.12-05.51.56:187][ 90]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.51.56:187][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.51.56:187][ 90]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.51.56:187][ 90]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.51.56:187][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.51.56:187][ 90]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.51.56:188][ 90]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.51.56:188][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.51.56:188][ 90]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.51.56:333][ 93]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.51.56:333][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.51.56:333][ 93]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.51.56:333][ 93]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.51.56:333][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.51.56:333][ 93]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.51.56:333][ 93]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.51.56:333][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.51.56:333][ 93]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.52.03:694][486]Cmd: TRANSACTION UNDO
+[2025.05.12-05.52.03:694][486]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.12-05.52.03:705][486]LogMaterial: Display: Missing cached shadermap for Preview:Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 25F2AA877A8327C40C94E6DDB8430658BF2A220D), compiling. 
+[2025.05.12-05.52.03:711][486]LogMaterial: Display: Missing cached shadermap for Preview:TestPlayerMat in PCD3D_SM5, Default, SM5 (DDC key hash: E59568201B495B258A05FC2B6CC259A51E5B8F98), compiling. 
+[2025.05.12-05.52.03:716][486]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 544A89AC05DDD2AD16BBDB94F8CC6F131D412DB1), compiling. 
+[2025.05.12-05.52.03:747][486]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.52.03:747][486]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.03:747][486]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.52.03:747][486]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.52.03:747][486]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.03:747][486]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.52.03:747][486]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.52.03:747][486]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.03:747][486]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.52.03:913][489]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.52.03:913][489]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.03:913][489]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.52.03:913][489]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.52.03:913][489]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.03:913][489]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.52.03:913][489]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.52.03:913][489]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.03:913][489]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.52.12:776][966]Cmd: TRANSACTION UNDO
+[2025.05.12-05.52.12:776][966]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.12-05.52.12:789][966]LogMaterial: Display: Missing cached shadermap for Preview:Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 51F52F16B99A40601F0F2501FA9D7DCB988D5E89), compiling. 
+[2025.05.12-05.52.12:795][966]LogMaterial: Display: Missing cached shadermap for Preview:TestPlayerMat in PCD3D_SM5, Default, SM5 (DDC key hash: 2FD2814574318F9757F9C8381F4F0BB8F2EE8E66), compiling. 
+[2025.05.12-05.52.12:800][966]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 0FE2F772DADDE1449A8B15346174AA2FC283F4C5), compiling. 
+[2025.05.12-05.52.12:819][966]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.52.12:819][966]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.12:819][966]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.52.12:819][966]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.52.12:819][966]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.12:819][966]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.52.12:819][966]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.52.12:819][966]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.12:819][966]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.52.12:962][968]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.52.12:962][968]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.12:962][968]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.52.12:962][968]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.52.12:962][968]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.12:962][968]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.52.12:962][968]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.52.12:962][968]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.12:962][968]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.52.13:136][971]Cmd: TRANSACTION UNDO
+[2025.05.12-05.52.13:136][971]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.12-05.52.13:152][971]LogMaterial: Display: Missing cached shadermap for Preview:Floor in PCD3D_SM5, Default, SM5 (DDC key hash: A368C0C433B5D95C195BC8AD26978A5F976ED0AF), compiling. 
+[2025.05.12-05.52.13:158][971]LogMaterial: Display: Missing cached shadermap for Preview:TestPlayerMat in PCD3D_SM5, Default, SM5 (DDC key hash: 6DF81B35CED233FFB7A8250E3C20803B378BBA67), compiling. 
+[2025.05.12-05.52.13:165][971]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: A038FB54FA429091B23A88A0336E1A4AE6C0FD04), compiling. 
+[2025.05.12-05.52.13:175][971]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.52.13:175][971]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.13:175][971]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.52.13:175][971]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.52.13:175][971]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.13:175][971]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.52.13:176][971]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.52.13:176][971]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.13:176][971]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.52.13:373][973]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.52.13:374][973]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.13:374][973]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.52.13:374][973]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.52.13:374][973]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.13:374][973]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.52.13:374][973]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.52.13:374][973]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.52.13:374][973]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.52.42:082][481]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.42:219][487]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.42:292][489]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.43:186][503]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.45:526][630]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.46:360][678]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.46:432][680]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.46:532][684]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.47:364][732]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.47:433][734]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.47:517][736]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.47:596][738]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.48:401][784]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.48:710][801]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.49:529][847]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.49:672][853]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.49:798][858]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.50:885][921]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.52.51:290][940]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.06:876][811]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.07:611][830]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.07:694][834]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.08:170][860]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.08:344][869]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.08:426][872]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.08:528][876]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.09:070][906]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.09:218][914]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.09:546][927]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.10:318][970]Cmd: TRANSACTION UNDO
+[2025.05.12-05.53.10:318][970]LogEditorTransaction: Undo Move Elements
+[2025.05.12-05.53.10:350][970]LogMaterial: Display: Missing cached shadermap for Preview:Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 899BF5C2F4B8D7866D7DD7AF3F5F39E653755215), compiling. 
+[2025.05.12-05.53.10:359][970]LogMaterial: Display: Missing cached shadermap for Preview:TestPlayerMat in PCD3D_SM5, Default, SM5 (DDC key hash: 233A3D8F4117443F8427624AAEC94BDA1432150E), compiling. 
+[2025.05.12-05.53.10:368][970]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: CFC4F83DE8E871A98B0875CBAE0A0E1805B65D8A), compiling. 
+[2025.05.12-05.53.10:392][970]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.53.10:392][970]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.53.10:392][970]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.53.10:392][970]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.53.10:392][970]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.53.10:392][970]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.53.10:392][970]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-05.53.10:392][970]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.53.10:392][970]MaterialEditorStats: Shader Count: 0
+[2025.05.12-05.53.10:426][971]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.10:534][973]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.53.10:534][973]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.53.10:534][973]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.53.10:534][973]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.53.10:534][973]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.53.10:534][973]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.53.10:534][973]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-05.53.10:534][973]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-05.53.10:534][973]MaterialEditorStats: Shader Count: 4
+[2025.05.12-05.53.15:011][204]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.15:797][222]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.15:833][224]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.16:125][239]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.16:267][246]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.16:637][264]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.16:837][273]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.17:240][292]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.33:124][168]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.33:180][170]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.33:425][176]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.33:588][183]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.34:059][208]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.38:325][406]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.38:403][409]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.38:439][411]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.38:573][419]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.39:705][477]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.54:178][316]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.54:285][322]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.54:803][351]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.55:202][374]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.55:309][380]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.55:609][397]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.55:656][400]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.56:044][421]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.56:680][454]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.56:799][461]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.57:262][484]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.57:789][511]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.57:858][515]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.58:281][538]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.58:888][571]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.59:024][579]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.53.59:412][600]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.00:022][632]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.00:098][635]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.00:487][656]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.01:058][686]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.01:178][693]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.01:575][714]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.02:768][781]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.02:886][788]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.03:452][820]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.04:043][851]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.04:227][862]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.04:694][888]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.05:402][925]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.05:621][938]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.06:040][961]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.06:684][995]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.07:191][ 23]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.07:788][ 55]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.08:178][ 78]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.08:582][100]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.09:510][151]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.09:711][163]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.10:184][187]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.10:770][217]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.11:172][241]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.11:582][264]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.11:923][281]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.12:865][331]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.13:014][340]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.13:749][379]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.48:140][ 75]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.50:732][208]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.54.51:351][238]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-05.55.22:183][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2025.05.12-05.55.22:508][915]LogSavePackage: Moving output files for package: /Game/Maps/CarlosTestScene
+[2025.05.12-05.55.22:511][915]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/CarlosTestScene2365A4674333C65CA099BF9D98B0A200.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/CarlosTestScene.umap'
+[2025.05.12-05.55.22:693][915]LogFileHelpers: No new changes to save!
+[2025.05.12-05.55.22:932][915]AssetCheck: New page: Asset Save: CarlosTestScene
+[2025.05.12-05.55.22:933][915]LogContentValidation: Display: Validating World /Game/Maps/CarlosTestScene.CarlosTestScene
+[2025.05.12-06.12.04:770][333]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.12-06.12.09:163][571]Cmd: DELETE
+[2025.05.12-06.12.09:163][571]Cmd: ACTOR DELETE
+[2025.05.12-06.12.09:181][571]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.12.09:290][571]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2025.05.12-06.12.09:297][571]LogEditorActor: Deleted 1 Actors (0.133 secs)
+[2025.05.12-06.12.09:341][572]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-06.12.09:862][593]Cmd: DELETE
+[2025.05.12-06.12.09:862][593]Cmd: ACTOR DELETE
+[2025.05.12-06.12.09:879][593]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.12.09:972][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.12-06.12.09:976][593]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2025.05.12-06.12.10:015][594]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-06.12.10:433][614]Cmd: DELETE
+[2025.05.12-06.12.10:433][614]Cmd: ACTOR DELETE
+[2025.05.12-06.12.10:459][614]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.12.10:548][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.05.12-06.12.10:552][614]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2025.05.12-06.12.10:592][615]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-06.12.10:916][631]Cmd: DELETE
+[2025.05.12-06.12.10:916][631]Cmd: ACTOR DELETE
+[2025.05.12-06.12.10:935][631]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.12.11:028][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.05.12-06.12.11:032][631]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2025.05.12-06.12.11:070][632]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-06.12.11:386][647]Cmd: DELETE
+[2025.05.12-06.12.11:386][647]Cmd: ACTOR DELETE
+[2025.05.12-06.12.11:405][647]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.12.11:493][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.12-06.12.11:496][647]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2025.05.12-06.12.11:532][648]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-06.12.12:097][677]Cmd: DELETE
+[2025.05.12-06.12.12:097][677]Cmd: ACTOR DELETE
+[2025.05.12-06.12.12:116][677]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.12.12:210][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.12-06.12.12:213][677]LogEditorActor: Deleted 1 Actors (0.116 secs)
+[2025.05.12-06.12.12:248][678]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-06.12.17:541][966]Cmd: DELETE
+[2025.05.12-06.12.17:541][966]Cmd: ACTOR DELETE
+[2025.05.12-06.12.17:557][966]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.12.17:649][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2025.05.12-06.12.17:652][966]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2025.05.12-06.12.17:689][967]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-06.12.18:951][ 37]Cmd: DELETE
+[2025.05.12-06.12.18:951][ 37]Cmd: ACTOR DELETE
+[2025.05.12-06.12.18:969][ 37]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.12.19:059][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2025.05.12-06.12.19:063][ 37]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2025.05.12-06.12.19:100][ 38]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/CarlosTestScene.
+[2025.05.12-06.12.28:442][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.05.12-06.12.28:745][463]LogSavePackage: Moving output files for package: /Game/Maps/CarlosTestScene
+[2025.05.12-06.12.28:747][463]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/CarlosTestScene707F37D740FE1192D061568FCEA3602E.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/CarlosTestScene.umap'
+[2025.05.12-06.12.28:773][463]LogFileHelpers: No new changes to save!
+[2025.05.12-06.12.28:817][463]AssetCheck: New page: Asset Save: CarlosTestScene
+[2025.05.12-06.12.28:817][463]LogContentValidation: Display: Validating World /Game/Maps/CarlosTestScene.CarlosTestScene
+[2025.05.12-06.13.13:924][369]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.268 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-06.13.37:919][272]LogSlate: Window 'Save Level As' being destroyed
+[2025.05.12-06.13.38:482][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.12-06.13.38:954][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2025.05.12-06.13.39:217][272]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2025.05.12-06.13.39:217][272]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level18F678BD5450FEDF41B82CDBB228F53C8.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level1.umap'
+[2025.05.12-06.13.39:753][272]LogFileHelpers: Saving map 'Level1' took 1.813
+[2025.05.12-06.13.39:754][272]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.12-06.13.39:756][272]LightingResults: New page: Lighting Build
+[2025.05.12-06.13.39:758][272]LoadErrors: New page: Loading map: Level1.umap
+[2025.05.12-06.13.39:774][272]LogWorld: UWorld::CleanupWorld for CarlosTestScene, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-06.13.39:784][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-06.13.39:797][272]MapCheck: New page: Map Check
+[2025.05.12-06.13.39:797][272]LightingResults: New page: Lighting Build
+[2025.05.12-06.13.39:903][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.12-06.13.39:986][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2025.05.12-06.13.40:000][272]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-06.13.40:003][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-06.13.40:113][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2025.05.12-06.13.40:200][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2025.05.12-06.13.40:354][272]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2025.05.12-06.13.40:355][272]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.12-06.13.40:359][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.12-06.13.40:363][272]LogAIModule: Creating AISystem for world Level1
+[2025.05.12-06.13.40:882][272]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.12-06.13.41:006][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2025.05.12-06.13.41:025][272]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.12-06.13.41:027][272]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.075ms to complete.
+[2025.05.12-06.13.41:027][272]LogFileHelpers: Loading map 'Level1' took 1.274
+[2025.05.12-06.13.41:042][272]AssetCheck: New page: Asset Save: Level1
+[2025.05.12-06.13.41:042][272]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2025.05.12-06.14.26:061][874]Cmd: DELETE
+[2025.05.12-06.14.26:061][874]Cmd: ACTOR DELETE
+[2025.05.12-06.14.26:080][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:081][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:083][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:083][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:084][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:085][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:086][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:087][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:088][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:089][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:089][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:090][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:091][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:091][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:092][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:094][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:095][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:095][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:096][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:097][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:097][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:098][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:099][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:100][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:100][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:101][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:102][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:102][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:103][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:104][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:104][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:105][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:106][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:107][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:107][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:108][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:108][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:110][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:111][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:112][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:113][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:114][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:114][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:115][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:116][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:116][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:116][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:116][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:119][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:120][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:120][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:121][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:122][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:122][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:123][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:124][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:125][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:126][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:126][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:127][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:128][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:128][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:128][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:128][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:130][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:131][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:132][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:133][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:133][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:134][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:134][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:135][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:136][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:136][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:137][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:137][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:138][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:139][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:139][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:140][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:141][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:142][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:142][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:143][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:143][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:144][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:145][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:145][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:146][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:147][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:147][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:147][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:148][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:149][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:149][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:150][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:151][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:152][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:153][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:153][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:154][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:154][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:155][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:155][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:156][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:156][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:158][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:158][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:159][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:160][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:160][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:161][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:161][874]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-06.14.26:256][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2025.05.12-06.14.26:262][874]LogEditorActor: Deleted 113 Actors (0.201 secs)
+[2025.05.12-06.14.26:345][877]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.14.58:920][706]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.14.59:143][718]Cmd: TRANSACTION UNDO
+[2025.05.12-06.14.59:143][718]LogEditorTransaction: Undo Move Elements
+[2025.05.12-06.14.59:244][718]LogMaterial: Display: Missing cached shadermap for Preview:Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 4BA35D240323E89542B1D71BB632162E244ADE8C), compiling. 
+[2025.05.12-06.14.59:252][718]LogMaterial: Display: Missing cached shadermap for Preview:TestPlayerMat in PCD3D_SM5, Default, SM5 (DDC key hash: 3830DFA27F0891A71127349C2CD3009D10497CAC), compiling. 
+[2025.05.12-06.14.59:259][718]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 1934031D3E85A0FF0C5C0BC23EE11F5703953F7B), compiling. 
+[2025.05.12-06.14.59:304][718]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-06.14.59:304][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-06.14.59:304][718]MaterialEditorStats: Shader Count: 0
+[2025.05.12-06.14.59:304][718]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-06.14.59:304][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-06.14.59:304][718]MaterialEditorStats: Shader Count: 0
+[2025.05.12-06.14.59:304][718]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.12-06.14.59:304][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-06.14.59:304][718]MaterialEditorStats: Shader Count: 0
+[2025.05.12-06.14.59:364][719]LogShaderCompilers: Display: ================================================
+[2025.05.12-06.14.59:364][719]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.12-06.14.59:364][719]LogShaderCompilers: Display: Total job queries 767, among them cache hits 563 (73.40%)
+[2025.05.12-06.14.59:364][719]LogShaderCompilers: Display: Tracking 148 distinct input hashes that result in 80 distinct outputs (54.05%)
+[2025.05.12-06.14.59:364][719]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2025.05.12-06.14.59:364][719]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.12-06.14.59:364][719]LogShaderCompilers: Display: Shaders Compiled: 74
+[2025.05.12-06.14.59:364][719]LogShaderCompilers: Display: Jobs assigned 148, completed 148 (100.00%)
+[2025.05.12-06.14.59:364][719]LogShaderCompilers: Display: Average time worker was idle: 195.72 s
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 2.54 s
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display: Job execution time: average 2.43 s, max 5.59 s
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display: Job life time (pending + execution): average 2.56 s, max 5.62
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 62.10 s
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display: Jobs were issued in 137 batches (only local compilation was used), average 1.08 jobs/batch
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display: Average processing rate: 2.38 jobs/sec
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display: Effective parallelization: 3.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 2.51 sec, max 2.96 sec, min 1.68 sec)
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    6 times, average 2.46 sec, max 2.87 sec, min 1.78 sec)
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    6 times, average 2.31 sec, max 2.69 sec, min 1.60 sec)
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 2.30 sec, max 2.83 sec, min 1.12 sec)
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    6 times, average 2.29 sec, max 2.66 sec, min 1.60 sec)
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.65% of total time (compiled   18 times, average 1.60 sec, max 2.93 sec, min 1.14 sec)
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.17% of total time (compiled   18 times, average 1.53 sec, max 2.79 sec, min 1.08 sec)
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.50% of total time (compiled   17 times, average 1.54 sec, max 2.90 sec, min 1.10 sec)
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.62% of total time (compiled    6 times, average 2.51 sec, max 2.96 sec, min 1.68 sec)
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.51% of total time (compiled    6 times, average 2.46 sec, max 2.87 sec, min 1.78 sec)
+[2025.05.12-06.14.59:365][719]LogShaderCompilers: Display: ================================================
+[2025.05.12-06.14.59:445][720]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-06.14.59:445][720]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-06.14.59:445][720]MaterialEditorStats: Shader Count: 4
+[2025.05.12-06.14.59:562][721]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-06.14.59:562][721]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-06.14.59:562][721]MaterialEditorStats: Shader Count: 4
+[2025.05.12-06.14.59:562][721]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.12-06.14.59:562][721]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.12-06.14.59:562][721]MaterialEditorStats: Shader Count: 4
+[2025.05.12-06.14.59:697][725]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.14:809][568]Cmd: DUPLICATE
+[2025.05.12-06.15.14:809][568]Cmd: ACTOR DUPLICATE
+[2025.05.12-06.15.16:583][571]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.23:991][928]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.28:313][145]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.28:489][152]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.29:041][176]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.29:521][200]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.30:017][222]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.35:110][464]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.35:430][478]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.35:575][482]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.36:365][515]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.38:722][641]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.40:210][712]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.15.40:805][740]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-06.23.29:986][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2025.05.12-06.23.30:227][113]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level1_Auto1
+[2025.05.12-06.23.30:227][113]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level1_Auto13232D51F499FBFCEDA21509E6C753FEE.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Autosaves/Game/Maps/Level1_Auto1.umap'
+[2025.05.12-06.23.30:243][113]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.413
+[2025.05.12-06.23.30:243][113]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.413
+[2025.05.12-07.13.13:974][ 37]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.184 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-08.13.13:863][801]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.151 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-09.13.13:794][566]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.131 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-10.13.13:962][334]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.136 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-11.13.13:976][ 99]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.143 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.12-11.42.00:183][487]Cmd: DUPLICATE
+[2025.05.12-11.42.00:183][487]Cmd: ACTOR DUPLICATE
+[2025.05.12-11.42.01:884][490]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.04:383][590]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.04:755][608]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.04:974][616]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.05:226][623]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.05:458][629]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.05:912][652]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.06:019][654]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.06:111][656]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.06:255][661]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.06:696][683]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.07:052][700]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.07:694][731]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.11:509][913]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.12:188][941]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.13:915][ 35]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.14:933][ 88]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.36:563][877]Cmd: DUPLICATE
+[2025.05.12-11.42.36:563][877]Cmd: ACTOR DUPLICATE
+[2025.05.12-11.42.38:252][880]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.40:813][964]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.41:088][969]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.49:294][405]Cmd: DUPLICATE
+[2025.05.12-11.42.49:294][405]Cmd: ACTOR DUPLICATE
+[2025.05.12-11.42.51:000][406]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.51:302][419]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.52:842][446]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.53:048][453]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.53:369][466]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.42.53:634][472]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.43.01:269][893]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.43.01:715][916]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.43.02:441][951]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.43.46:063][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2025.05.12-11.43.46:537][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level1_Auto2
+[2025.05.12-11.43.46:537][606]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level1_Auto2FF5DBBE14E513528232AF3AD6736ACE1.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Autosaves/Game/Maps/Level1_Auto2.umap'
+[2025.05.12-11.43.46:554][606]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.662
+[2025.05.12-11.43.46:554][606]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.662
+[2025.05.12-11.44.04:482][373]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.44.05:354][405]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.44.05:981][424]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.44.06:858][456]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.44.07:900][490]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.45.01:052][650]Cmd: DELETE
+[2025.05.12-11.45.01:052][650]Cmd: ACTOR DELETE
+[2025.05.12-11.45.01:086][650]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.45.01:087][650]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.45.01:088][650]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.45.01:089][650]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.45.01:089][650]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.45.01:090][650]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.45.01:225][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.05.12-11.45.01:228][650]LogEditorActor: Deleted 6 Actors (0.176 secs)
+[2025.05.12-11.45.01:247][651]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.45.32:394][906]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.45.33:603][943]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.45.36:973][116]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.45.55:566][152]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.45.56:298][178]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.46.00:434][405]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.46.11:849][817]Cmd: DELETE
+[2025.05.12-11.46.11:849][817]Cmd: ACTOR DELETE
+[2025.05.12-11.46.11:876][817]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.11:878][817]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.11:879][817]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.11:879][817]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.11:880][817]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.11:880][817]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.11:881][817]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.12:004][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2025.05.12-11.46.12:009][817]LogEditorActor: Deleted 7 Actors (0.159 secs)
+[2025.05.12-11.46.12:032][818]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.46.17:867][140]Cmd: DELETE
+[2025.05.12-11.46.17:867][140]Cmd: ACTOR DELETE
+[2025.05.12-11.46.17:896][140]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.17:990][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.05.12-11.46.17:993][140]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2025.05.12-11.46.18:006][141]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.46.25:095][479]Cmd: DELETE
+[2025.05.12-11.46.25:096][479]Cmd: ACTOR DELETE
+[2025.05.12-11.46.25:132][479]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.25:235][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.12-11.46.25:240][479]LogEditorActor: Deleted 1 Actors (0.144 secs)
+[2025.05.12-11.46.25:271][480]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.46.26:048][521]Cmd: DELETE
+[2025.05.12-11.46.26:048][521]Cmd: ACTOR DELETE
+[2025.05.12-11.46.26:079][521]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.26:178][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.05.12-11.46.26:182][521]LogEditorActor: Deleted 1 Actors (0.134 secs)
+[2025.05.12-11.46.26:220][522]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.46.26:697][545]Cmd: DELETE
+[2025.05.12-11.46.26:697][545]Cmd: ACTOR DELETE
+[2025.05.12-11.46.26:725][545]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.26:816][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.05.12-11.46.26:820][545]LogEditorActor: Deleted 1 Actors (0.122 secs)
+[2025.05.12-11.46.26:857][546]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.46.30:248][729]Cmd: DELETE
+[2025.05.12-11.46.30:248][729]Cmd: ACTOR DELETE
+[2025.05.12-11.46.30:288][729]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.30:378][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.05.12-11.46.30:381][729]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2025.05.12-11.46.30:392][730]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.46.38:732][178]Cmd: DELETE
+[2025.05.12-11.46.38:732][178]Cmd: ACTOR DELETE
+[2025.05.12-11.46.38:761][178]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.38:763][178]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.38:764][178]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.38:764][178]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.38:765][178]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.38:766][178]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.38:767][178]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.38:767][178]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.38:768][178]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.38:768][178]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.38:858][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.12-11.46.38:862][178]LogEditorActor: Deleted 10 Actors (0.130 secs)
+[2025.05.12-11.46.38:883][179]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.46.47:864][669]Cmd: DELETE
+[2025.05.12-11.46.47:865][669]Cmd: ACTOR DELETE
+[2025.05.12-11.46.47:888][669]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.47:889][669]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.47:889][669]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.47:889][669]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.47:890][669]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.47:891][669]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.47:891][669]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.47:892][669]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.47:892][669]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.47:893][669]LogEditorActor: Deleted Actor: BP_MapWall_C
+[2025.05.12-11.46.47:977][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.12-11.46.47:979][669]LogEditorActor: Deleted 10 Actors (0.114 secs)
+[2025.05.12-11.46.48:002][670]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.12-11.46.58:284][ 46]LogSlate: Window 'Save Level As' being destroyed
+[2025.05.12-11.46.59:008][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.12-11.46.59:674][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.05.12-11.47.00:090][ 46]LogSavePackage: Moving output files for package: /Game/Maps/Level2
+[2025.05.12-11.47.00:090][ 46]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level2B77FC4E944A1EAFF3946149D70DC14FE.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level2.umap'
+[2025.05.12-11.47.00:935][ 46]LogFileHelpers: Saving map 'Level2' took 2.632
+[2025.05.12-11.47.00:935][ 46]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.12-11.47.00:936][ 46]LightingResults: New page: Lighting Build
+[2025.05.12-11.47.00:936][ 46]LoadErrors: New page: Loading map: Level2.umap
+[2025.05.12-11.47.00:948][ 46]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-11.47.00:949][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-11.47.00:950][ 46]MapCheck: New page: Map Check
+[2025.05.12-11.47.00:950][ 46]LightingResults: New page: Lighting Build
+[2025.05.12-11.47.01:033][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.12-11.47.01:090][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2025.05.12-11.47.01:103][ 46]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-11.47.01:109][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-11.47.01:234][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2025.05.12-11.47.01:336][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2025.05.12-11.47.01:473][ 46]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2025.05.12-11.47.01:473][ 46]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.12-11.47.01:473][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.12-11.47.01:474][ 46]LogAIModule: Creating AISystem for world Level2
+[2025.05.12-11.47.02:173][ 46]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.12-11.47.02:295][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2025.05.12-11.47.02:313][ 46]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.12-11.47.02:313][ 46]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.271ms to complete.
+[2025.05.12-11.47.02:313][ 46]LogFileHelpers: Loading map 'Level2' took 1.378
+[2025.05.12-11.47.02:330][ 46]AssetCheck: New page: Asset Save: Level2
+[2025.05.12-11.47.02:330][ 46]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2025.05.12-11.47.04:946][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2025.05.12-11.47.05:325][169]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2025.05.12-11.47.05:326][169]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.12-11.47.05:326][169]LightingResults: New page: Lighting Build
+[2025.05.12-11.47.05:326][169]LoadErrors: New page: Loading map: Level1.umap
+[2025.05.12-11.47.05:339][169]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-11.47.05:339][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-11.47.05:340][169]MapCheck: New page: Map Check
+[2025.05.12-11.47.05:340][169]LightingResults: New page: Lighting Build
+[2025.05.12-11.47.05:433][169]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.12-11.47.05:465][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2025.05.12-11.47.05:473][169]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-11.47.05:476][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-11.47.05:582][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2025.05.12-11.47.05:667][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.05.12-11.47.05:754][169]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2025.05.12-11.47.05:754][169]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.12-11.47.05:754][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.12-11.47.05:755][169]LogAIModule: Creating AISystem for world Level1
+[2025.05.12-11.47.06:185][169]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.12-11.47.06:292][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2025.05.12-11.47.06:310][169]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.12-11.47.06:310][169]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.266ms to complete.
+[2025.05.12-11.47.06:310][169]LogFileHelpers: Loading map 'Level1' took 0.984
+[2025.05.12-11.47.08:189][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.05.12-11.47.08:781][265]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level2.Level2
+[2025.05.12-11.47.08:781][265]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.12-11.47.08:781][265]LightingResults: New page: Lighting Build
+[2025.05.12-11.47.08:781][265]LoadErrors: New page: Loading map: Level2.umap
+[2025.05.12-11.47.08:788][265]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-11.47.08:788][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-11.47.08:789][265]MapCheck: New page: Map Check
+[2025.05.12-11.47.08:789][265]LightingResults: New page: Lighting Build
+[2025.05.12-11.47.08:870][265]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.12-11.47.08:899][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2025.05.12-11.47.08:906][265]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-11.47.08:911][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-11.47.09:007][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2025.05.12-11.47.09:094][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.05.12-11.47.09:204][265]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2025.05.12-11.47.09:204][265]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.12-11.47.09:204][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.12-11.47.09:205][265]LogAIModule: Creating AISystem for world Level2
+[2025.05.12-11.47.09:818][265]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.12-11.47.09:933][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.05.12-11.47.09:951][265]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.12-11.47.09:952][265]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.296ms to complete.
+[2025.05.12-11.47.09:952][265]LogFileHelpers: Loading map 'Level2' took 1.171
