@@ -97623,3 +97623,60 @@ Make sure 'BP_Block_C' has been compiled for  Get Stats
 [2025.05.13-19.52.59:448][239]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_Block142A35B849FB56DC511B21B637DBD2B2.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Enemies/Blueprints/BP_Block.uasset'
 [2025.05.13-19.52.59:650][239]AssetCheck: New page: Asset Save: BP_Block
 [2025.05.13-19.52.59:650][239]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Enemies/Blueprints/BP_Block.BP_Block
+[2025.05.13-19.55.08:195][880]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.13-19.55.08:221][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.13-19.55.08:228][880]PIE: New page: PIE session: Level1 (May 13, 2025, 5:55:08 AM)
+[2025.05.13-19.55.08:233][880]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2025.05.13-19.55.08:374][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.140514s)
+[2025.05.13-19.55.08:374][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.141213s)
+[2025.05.13-19.55.08:375][880]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.13-19.55.08:383][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-19.55.08:392][880]LogAIModule: Creating AISystem for world Level1
+[2025.05.13-19.55.08:400][880]LogPlayLevel: PIE: World Init took: (0.025790s)
+[2025.05.13-19.55.08:522][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2025.05.13-19.55.08:532][880]LogAudio: Display: Creating Audio Device:                 Id: 138, Scope: Unique, Realtime: True
+[2025.05.13-19.55.08:534][880]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.13-19.55.08:534][880]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.13-19.55.08:534][880]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.13-19.55.08:534][880]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.13-19.55.08:534][880]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.13-19.55.08:534][880]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.13-19.55.08:534][880]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.13-19.55.08:535][880]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.13-19.55.08:538][880]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.13-19.55.08:538][880]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.13-19.55.08:538][880]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.13-19.55.08:546][880]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.13-19.55.08:596][880]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JVC HA-S75N)
+[2025.05.13-19.55.08:599][880]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.13-19.55.08:600][880]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.13-19.55.08:600][880]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.13-19.55.08:603][880]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=138
+[2025.05.13-19.55.08:603][880]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=138
+[2025.05.13-19.55.08:606][880]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=138
+[2025.05.13-19.55.08:606][880]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=138
+[2025.05.13-19.55.08:606][880]LogInit: FAudioDevice initialized.
+[2025.05.13-19.55.08:607][880]LogAudio: Display: Audio Device (ID: 138) registered with world 'Level1'.
+[2025.05.13-19.55.08:646][880]LogLoad: Game class is 'GameModeBase'
+[2025.05.13-19.55.08:702][880]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.13-12.55.08
+[2025.05.13-19.55.08:706][880]LogWorld: Bringing up level for play took: 0.058581
+[2025.05.13-19.55.08:718][880]LogOnline: OSS: Created online subsystem instance for: :Context_206
+[2025.05.13-19.55.08:787][880]PIE: Server logged in
+[2025.05.13-19.55.08:788][880]PIE: Play in editor total start time 0.572 seconds.
+[2025.05.13-19.55.11:276][994]LogBlueprintUserMessages: [BP_Key_C_1] DefaultPawn
+[2025.05.13-19.55.11:476][  6]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4287.859 Y=-13612.185 Z=50.000] for [BP_Ghost_C]
+[2025.05.13-19.55.11:476][  6]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ghost_C_15 via property K2Node_DynamicCast_AsBP_Ghost, but BP_Ghost_C_15 is not valid (pending kill or garbage)". Node:  Set members in S_EnemyStats Graph:  EventGraph Function:  Execute Ubergraph BP Block Blueprint:  BP_Block
+[2025.05.13-19.55.11:476][  6]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Level_13_B0432F0149067147026B04B503074291". Node:  Set members in S_EnemyStats Graph:  EventGraph Function:  Execute Ubergraph BP Block Blueprint:  BP_Block
+[2025.05.13-19.55.11:476][  6]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set members in S_EnemyStats Graph:  EventGraph Function:  Execute Ubergraph BP Block Blueprint:  BP_Block
+[2025.05.13-19.55.12:876][ 83]LogBlueprintUserMessages: [KeyWall_C_1] DefaultPawn
+[2025.05.13-19.55.19:103][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.13-19.55.19:103][416]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2025.05.13-19.55.19:105][416]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-19.55.19:111][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-19.55.19:173][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.13-19.55.19:180][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-19.55.19:310][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.13-19.55.19:320][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=138
+[2025.05.13-19.55.19:322][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=138
+[2025.05.13-19.55.19:354][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.13-19.55.19:504][417]LogPlayLevel: Display: Destroying online subsystem :Context_206
