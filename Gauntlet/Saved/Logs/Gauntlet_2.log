@@ -6164,3 +6164,65 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.05.13-22.19.56:250][308]LogSlate: Window 'Project Settings' being destroyed
 [2025.05.13-22.20.46:978][317]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2025.05.13-22.20.47:073][317]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2025.05.13-22.23.37:113][686]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.13-22.23.37:132][686]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.13-22.25.32:682][691]BlueprintLog: New page: Compile Bp_Player_Class
+[2025.05.13-22.25.32:689][691]LogBlueprint: Error: [AssetLog] E:\380Gauntlet\Gauntlet\Content\Players\Bp_Player_Class.uasset: [Compiler] The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2025.05.13-22.25.32:774][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.05.13-22.25.39:121][331]BlueprintLog: New page: Compile Bp_Player_Class
+[2025.05.13-22.25.39:211][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.05.13-22.25.40:545][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Player_Class" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Player_Class.uasset" SILENT=true
+[2025.05.13-22.25.40:558][459]LogSavePackage: Moving output files for package: /Game/Players/Bp_Player_Class
+[2025.05.13-22.25.40:559][459]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Player_Class432472904B7C7B854F7C2AAF2C9BCE86.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Player_Class.uasset'
+[2025.05.13-22.25.40:575][459]AssetCheck: New page: Asset Save: Bp_Player_Class
+[2025.05.13-22.25.40:575][459]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Player_Class.Bp_Player_Class
+[2025.05.13-22.25.56:146][591]LogContentBrowser: Deferred new asset file creation: Bp_Player_Class_Child
+[2025.05.13-22.25.56:182][591]LogContentBrowser: Creating deferred item: Bp_Player_Class_Child
+[2025.05.13-22.25.56:193][592]LogContentBrowser: Renaming the item being created (Deferred Item: Bp_Player_Class_Child).
+[2025.05.13-22.26.10:543][685]LogContentBrowser: Attempting asset rename: Bp_Player_Class_Child -> Bp_Elf
+[2025.05.13-22.26.10:650][685]LogContentBrowser: End creating deferred item Bp_Player_Class_Child
+[2025.05.13-22.26.15:164][  3]LogContentBrowser: Deferred new asset file creation: Bp_Player_Class_Child
+[2025.05.13-22.26.15:200][  3]LogContentBrowser: Creating deferred item: Bp_Player_Class_Child
+[2025.05.13-22.26.15:212][  4]LogContentBrowser: Renaming the item being created (Deferred Item: Bp_Player_Class_Child).
+[2025.05.13-22.26.24:241][687]LogContentBrowser: Attempting asset rename: Bp_Player_Class_Child -> Bp_Wizard
+[2025.05.13-22.26.24:247][687]LogContentBrowser: End creating deferred item Bp_Player_Class_Child
+[2025.05.13-22.26.26:866][858]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.05.13-22.26.26:866][858]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.05.13-22.26.37:926][136]LogContentBrowser: Deferred new asset file creation: Bp_Player_Class_Child
+[2025.05.13-22.26.37:968][136]LogContentBrowser: Creating deferred item: Bp_Player_Class_Child
+[2025.05.13-22.26.37:979][137]LogContentBrowser: Renaming the item being created (Deferred Item: Bp_Player_Class_Child).
+[2025.05.13-22.26.45:409][693]LogContentBrowser: Attempting asset rename: Bp_Player_Class_Child -> Bp_Valkyrie
+[2025.05.13-22.26.45:416][693]LogContentBrowser: End creating deferred item Bp_Player_Class_Child
+[2025.05.13-22.27.00:574][975]LogContentBrowser: Deferred new asset file creation: Bp_Player_Class_Child
+[2025.05.13-22.27.00:602][975]LogContentBrowser: Creating deferred item: Bp_Player_Class_Child
+[2025.05.13-22.27.00:614][976]LogContentBrowser: Renaming the item being created (Deferred Item: Bp_Player_Class_Child).
+[2025.05.13-22.27.07:288][479]LogContentBrowser: Attempting asset rename: Bp_Player_Class_Child -> Bp_Warrior
+[2025.05.13-22.27.07:296][479]LogContentBrowser: End creating deferred item Bp_Player_Class_Child
+[2025.05.13-22.27.09:184][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Warrior" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Warrior.uasset" SILENT=true
+[2025.05.13-22.27.09:189][610]LogSavePackage: Moving output files for package: /Game/Players/Bp_Warrior
+[2025.05.13-22.27.09:190][610]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_WarriorAE69B0114DF3A6CFE5B4F58C69277DA6.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Warrior.uasset'
+[2025.05.13-22.27.09:206][610]AssetCheck: New page: Asset Save: Bp_Warrior
+[2025.05.13-22.27.09:206][610]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Warrior.Bp_Warrior
+[2025.05.13-22.27.11:120][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Valkyrie" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Valkyrie.uasset" SILENT=true
+[2025.05.13-22.27.11:126][713]LogSavePackage: Moving output files for package: /Game/Players/Bp_Valkyrie
+[2025.05.13-22.27.11:126][713]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Valkyrie4EAA9B8649EED0EEFEF5EF97F304C2D7.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Valkyrie.uasset'
+[2025.05.13-22.27.11:142][713]AssetCheck: New page: Asset Save: Bp_Valkyrie
+[2025.05.13-22.27.11:142][713]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Valkyrie.Bp_Valkyrie
+[2025.05.13-22.27.12:676][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Game_Mode" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Game_Mode.uasset" SILENT=true
+[2025.05.13-22.27.12:684][808]LogSavePackage: Moving output files for package: /Game/Players/Bp_Game_Mode
+[2025.05.13-22.27.12:684][808]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Game_ModeDDF86669438EEAE995239DBE460FEFD4.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Game_Mode.uasset'
+[2025.05.13-22.27.12:712][808]AssetCheck: New page: Asset Save: Bp_Game_Mode
+[2025.05.13-22.27.12:712][808]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Game_Mode.Bp_Game_Mode
+[2025.05.13-22.27.13:697][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Elf" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Elf.uasset" SILENT=true
+[2025.05.13-22.27.13:704][867]LogSavePackage: Moving output files for package: /Game/Players/Bp_Elf
+[2025.05.13-22.27.13:704][867]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_ElfFD0236524101FF69B02ACBBAD9382887.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Elf.uasset'
+[2025.05.13-22.27.13:721][867]AssetCheck: New page: Asset Save: Bp_Elf
+[2025.05.13-22.27.13:721][867]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Elf.Bp_Elf
+[2025.05.13-22.27.18:127][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Wizard" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Wizard.uasset" SILENT=true
+[2025.05.13-22.27.18:135][180]LogSavePackage: Moving output files for package: /Game/Players/Bp_Wizard
+[2025.05.13-22.27.18:135][180]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Wizard0E0D028E46FE38B0B87CE88A089ED9DE.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Wizard.uasset'
+[2025.05.13-22.27.18:153][180]AssetCheck: New page: Asset Save: Bp_Wizard
+[2025.05.13-22.27.18:153][180]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Wizard.Bp_Wizard
+[2025.05.13-22.28.47:065][401]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Players/Bp_Wizard.Bp_Wizard
+[2025.05.13-22.28.47:065][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.28.47:900][401]LogViewport: Scene viewport resized to 1233x686, mode Windowed.
