@@ -6164,3 +6164,499 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.05.13-22.19.56:250][308]LogSlate: Window 'Project Settings' being destroyed
 [2025.05.13-22.20.46:978][317]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2025.05.13-22.20.47:073][317]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2025.05.13-22.23.37:113][686]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.13-22.23.37:132][686]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.13-22.25.32:682][691]BlueprintLog: New page: Compile Bp_Player_Class
+[2025.05.13-22.25.32:689][691]LogBlueprint: Error: [AssetLog] E:\380Gauntlet\Gauntlet\Content\Players\Bp_Player_Class.uasset: [Compiler] The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2025.05.13-22.25.32:774][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.05.13-22.25.39:121][331]BlueprintLog: New page: Compile Bp_Player_Class
+[2025.05.13-22.25.39:211][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.05.13-22.25.40:545][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Player_Class" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Player_Class.uasset" SILENT=true
+[2025.05.13-22.25.40:558][459]LogSavePackage: Moving output files for package: /Game/Players/Bp_Player_Class
+[2025.05.13-22.25.40:559][459]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Player_Class432472904B7C7B854F7C2AAF2C9BCE86.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Player_Class.uasset'
+[2025.05.13-22.25.40:575][459]AssetCheck: New page: Asset Save: Bp_Player_Class
+[2025.05.13-22.25.40:575][459]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Player_Class.Bp_Player_Class
+[2025.05.13-22.25.56:146][591]LogContentBrowser: Deferred new asset file creation: Bp_Player_Class_Child
+[2025.05.13-22.25.56:182][591]LogContentBrowser: Creating deferred item: Bp_Player_Class_Child
+[2025.05.13-22.25.56:193][592]LogContentBrowser: Renaming the item being created (Deferred Item: Bp_Player_Class_Child).
+[2025.05.13-22.26.10:543][685]LogContentBrowser: Attempting asset rename: Bp_Player_Class_Child -> Bp_Elf
+[2025.05.13-22.26.10:650][685]LogContentBrowser: End creating deferred item Bp_Player_Class_Child
+[2025.05.13-22.26.15:164][  3]LogContentBrowser: Deferred new asset file creation: Bp_Player_Class_Child
+[2025.05.13-22.26.15:200][  3]LogContentBrowser: Creating deferred item: Bp_Player_Class_Child
+[2025.05.13-22.26.15:212][  4]LogContentBrowser: Renaming the item being created (Deferred Item: Bp_Player_Class_Child).
+[2025.05.13-22.26.24:241][687]LogContentBrowser: Attempting asset rename: Bp_Player_Class_Child -> Bp_Wizard
+[2025.05.13-22.26.24:247][687]LogContentBrowser: End creating deferred item Bp_Player_Class_Child
+[2025.05.13-22.26.26:866][858]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.05.13-22.26.26:866][858]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.05.13-22.26.37:926][136]LogContentBrowser: Deferred new asset file creation: Bp_Player_Class_Child
+[2025.05.13-22.26.37:968][136]LogContentBrowser: Creating deferred item: Bp_Player_Class_Child
+[2025.05.13-22.26.37:979][137]LogContentBrowser: Renaming the item being created (Deferred Item: Bp_Player_Class_Child).
+[2025.05.13-22.26.45:409][693]LogContentBrowser: Attempting asset rename: Bp_Player_Class_Child -> Bp_Valkyrie
+[2025.05.13-22.26.45:416][693]LogContentBrowser: End creating deferred item Bp_Player_Class_Child
+[2025.05.13-22.27.00:574][975]LogContentBrowser: Deferred new asset file creation: Bp_Player_Class_Child
+[2025.05.13-22.27.00:602][975]LogContentBrowser: Creating deferred item: Bp_Player_Class_Child
+[2025.05.13-22.27.00:614][976]LogContentBrowser: Renaming the item being created (Deferred Item: Bp_Player_Class_Child).
+[2025.05.13-22.27.07:288][479]LogContentBrowser: Attempting asset rename: Bp_Player_Class_Child -> Bp_Warrior
+[2025.05.13-22.27.07:296][479]LogContentBrowser: End creating deferred item Bp_Player_Class_Child
+[2025.05.13-22.27.09:184][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Warrior" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Warrior.uasset" SILENT=true
+[2025.05.13-22.27.09:189][610]LogSavePackage: Moving output files for package: /Game/Players/Bp_Warrior
+[2025.05.13-22.27.09:190][610]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_WarriorAE69B0114DF3A6CFE5B4F58C69277DA6.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Warrior.uasset'
+[2025.05.13-22.27.09:206][610]AssetCheck: New page: Asset Save: Bp_Warrior
+[2025.05.13-22.27.09:206][610]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Warrior.Bp_Warrior
+[2025.05.13-22.27.11:120][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Valkyrie" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Valkyrie.uasset" SILENT=true
+[2025.05.13-22.27.11:126][713]LogSavePackage: Moving output files for package: /Game/Players/Bp_Valkyrie
+[2025.05.13-22.27.11:126][713]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Valkyrie4EAA9B8649EED0EEFEF5EF97F304C2D7.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Valkyrie.uasset'
+[2025.05.13-22.27.11:142][713]AssetCheck: New page: Asset Save: Bp_Valkyrie
+[2025.05.13-22.27.11:142][713]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Valkyrie.Bp_Valkyrie
+[2025.05.13-22.27.12:676][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Game_Mode" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Game_Mode.uasset" SILENT=true
+[2025.05.13-22.27.12:684][808]LogSavePackage: Moving output files for package: /Game/Players/Bp_Game_Mode
+[2025.05.13-22.27.12:684][808]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Game_ModeDDF86669438EEAE995239DBE460FEFD4.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Game_Mode.uasset'
+[2025.05.13-22.27.12:712][808]AssetCheck: New page: Asset Save: Bp_Game_Mode
+[2025.05.13-22.27.12:712][808]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Game_Mode.Bp_Game_Mode
+[2025.05.13-22.27.13:697][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Elf" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Elf.uasset" SILENT=true
+[2025.05.13-22.27.13:704][867]LogSavePackage: Moving output files for package: /Game/Players/Bp_Elf
+[2025.05.13-22.27.13:704][867]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_ElfFD0236524101FF69B02ACBBAD9382887.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Elf.uasset'
+[2025.05.13-22.27.13:721][867]AssetCheck: New page: Asset Save: Bp_Elf
+[2025.05.13-22.27.13:721][867]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Elf.Bp_Elf
+[2025.05.13-22.27.18:127][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Wizard" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Wizard.uasset" SILENT=true
+[2025.05.13-22.27.18:135][180]LogSavePackage: Moving output files for package: /Game/Players/Bp_Wizard
+[2025.05.13-22.27.18:135][180]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Wizard0E0D028E46FE38B0B87CE88A089ED9DE.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Wizard.uasset'
+[2025.05.13-22.27.18:153][180]AssetCheck: New page: Asset Save: Bp_Wizard
+[2025.05.13-22.27.18:153][180]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Wizard.Bp_Wizard
+[2025.05.13-22.28.47:065][401]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Players/Bp_Wizard.Bp_Wizard
+[2025.05.13-22.28.47:065][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.28.47:900][401]LogViewport: Scene viewport resized to 1233x686, mode Windowed.
+[2025.05.13-22.29.46:914][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.13-22.29.46:916][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Level_test" FILE="../../../../380Gauntlet/Gauntlet/Saved/Autosaves/Game/Players/Level_test_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.05.13-22.29.46:923][332]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Players/Level_test_Auto9
+[2025.05.13-22.29.46:923][332]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Level_test_Auto9672CCAC34101A1394F89EB9FC2BCF761.tmp' to '../../../../380Gauntlet/Gauntlet/Saved/Autosaves/Game/Players/Level_test_Auto9.umap'
+[2025.05.13-22.29.46:944][332]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Players/Level_test' took 0.183
+[2025.05.13-22.29.46:944][332]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.183
+[2025.05.13-22.30.23:939][642]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2025.05.13-22.30.23:953][643]LogViewport: Scene viewport resized to 411x282, mode Windowed.
+[2025.05.13-22.30.34:543][  2]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2025.05.13-22.30.34:557][  3]LogViewport: Scene viewport resized to 411x282, mode Windowed.
+[2025.05.13-22.30.37:980][171]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2025.05.13-22.30.37:996][172]LogViewport: Scene viewport resized to 411x282, mode Windowed.
+[2025.05.13-22.30.38:985][217]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.13-22.30.40:316][268]Cmd: DELETE
+[2025.05.13-22.30.40:708][268]Cmd: ACTOR DELETE
+[2025.05.13-22.30.40:787][268]LogEditorActor: Deleted Actor: Bp_Player_Class_C
+[2025.05.13-22.30.40:870][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.13-22.30.40:872][268]LogEditorActor: Deleted 1 Actors (0.130 secs)
+[2025.05.13-22.30.50:323][898]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.13-22.30.50:333][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.13-22.30.50:334][898]PIE: New page: PIE session: Level_test (May 13, 2025, 8:30:50 AM)
+[2025.05.13-22.30.50:356][898]LogPlayLevel: Creating play world package: /Game/Players/UEDPIE_0_Level_test
+[2025.05.13-22.30.50:358][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001862s)
+[2025.05.13-22.30.50:358][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Players/Level_test.Level_test to /Game/Players/UEDPIE_0_Level_test.Level_test (0.001972s)
+[2025.05.13-22.30.50:358][898]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.13-22.30.50:359][898]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.30.50:359][898]LogAIModule: Creating AISystem for world Level_test
+[2025.05.13-22.30.50:359][898]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2025.05.13-22.30.50:415][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.13-22.30.50:416][898]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.05.13-22.30.50:416][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.13-22.30.50:416][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.13-22.30.50:416][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.13-22.30.50:416][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.13-22.30.50:417][898]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.13-22.30.50:417][898]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.13-22.30.50:417][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.13-22.30.50:417][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.13-22.30.50:417][898]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.13-22.30.50:417][898]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.13-22.30.50:417][898]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.13-22.30.50:419][898]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.13-22.30.50:440][898]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2025.05.13-22.30.50:440][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.13-22.30.50:440][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.13-22.30.50:440][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.13-22.30.50:441][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.05.13-22.30.50:441][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.05.13-22.30.50:442][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.05.13-22.30.50:442][898]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.05.13-22.30.50:442][898]LogInit: FAudioDevice initialized.
+[2025.05.13-22.30.50:442][898]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level_test'.
+[2025.05.13-22.30.50:454][898]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.13-22.30.50:455][898]LogWorld: Bringing World /Game/Players/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2025.05.13-15.30.50
+[2025.05.13-22.30.50:455][898]LogWorld: Bringing up level for play took: 0.000643
+[2025.05.13-22.30.50:457][898]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.05.13-22.30.50:459][898]PIE: Server logged in
+[2025.05.13-22.30.50:460][898]PIE: Play in editor total start time 0.126 seconds.
+[2025.05.13-22.31.14:507][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.13-22.31.14:507][659]LogWorld: BeginTearingDown for /Game/Players/UEDPIE_0_Level_test
+[2025.05.13-22.31.14:508][659]LogWorld: UWorld::CleanupWorld for Level_test, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.31.14:508][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.31.14:517][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.13-22.31.14:524][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.31.14:579][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.13-22.31.14:579][659]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.05.13-22.31.14:581][659]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.05.13-22.31.14:588][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.05.13-22.31.14:699][660]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.05.13-22.31.25:739][509]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.13-22.31.25:749][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.13-22.31.25:749][509]PIE: New page: PIE session: Level_test (May 13, 2025, 8:31:25 AM)
+[2025.05.13-22.31.25:751][509]LogPlayLevel: Creating play world package: /Game/Players/UEDPIE_0_Level_test
+[2025.05.13-22.31.25:753][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001997s)
+[2025.05.13-22.31.25:753][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Players/Level_test.Level_test to /Game/Players/UEDPIE_0_Level_test.Level_test (0.002113s)
+[2025.05.13-22.31.25:753][509]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.13-22.31.25:753][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.31.25:754][509]LogAIModule: Creating AISystem for world Level_test
+[2025.05.13-22.31.25:754][509]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2025.05.13-22.31.25:810][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.05.13-22.31.25:812][509]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.05.13-22.31.25:812][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.13-22.31.25:812][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.13-22.31.25:812][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.13-22.31.25:812][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.13-22.31.25:812][509]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.13-22.31.25:812][509]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.13-22.31.25:812][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.13-22.31.25:812][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.13-22.31.25:813][509]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.13-22.31.25:813][509]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.13-22.31.25:813][509]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.13-22.31.25:815][509]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.13-22.31.25:836][509]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2025.05.13-22.31.25:837][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.13-22.31.25:837][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.13-22.31.25:837][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.13-22.31.25:838][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.05.13-22.31.25:838][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.05.13-22.31.25:839][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.05.13-22.31.25:839][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.05.13-22.31.25:839][509]LogInit: FAudioDevice initialized.
+[2025.05.13-22.31.25:839][509]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level_test'.
+[2025.05.13-22.31.25:854][509]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.13-22.31.25:855][509]LogWorld: Bringing World /Game/Players/UEDPIE_0_Level_test.Level_test up for play (max tick rate 0) at 2025.05.13-15.31.25
+[2025.05.13-22.31.25:855][509]LogWorld: Bringing up level for play took: 0.000590
+[2025.05.13-22.31.25:857][509]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.05.13-22.31.25:859][509]PIE: Server logged in
+[2025.05.13-22.31.25:860][509]PIE: Play in editor total start time 0.111 seconds.
+[2025.05.13-22.31.27:524][602]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2025.05.13-22.31.27:549][603]LogViewport: Scene viewport resized to 411x282, mode Windowed.
+[2025.05.13-22.31.37:471][333]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.13-22.31.55:048][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.13-22.31.55:048][660]LogWorld: BeginTearingDown for /Game/Players/UEDPIE_0_Level_test
+[2025.05.13-22.31.55:048][660]LogWorld: UWorld::CleanupWorld for Level_test, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.31.55:048][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.31.55:061][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.13-22.31.55:069][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.31.55:124][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.13-22.31.55:124][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.05.13-22.31.55:126][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.05.13-22.31.55:133][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.05.13-22.31.55:174][661]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.05.13-22.32.03:932][267]LogTurnkeySupport: Display: Adding device menu item for GAMINGPC
+[2025.05.13-22.32.28:878][234]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.13-22.32.28:886][234]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.13-22.32.28:894][235]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.13-22.32.32:527][486]LogContentBrowser: Attempting asset rename: NewMaterial -> Green
+[2025.05.13-22.32.32:528][486]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.13-22.32.42:727][679]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Players/Green.Green
+[2025.05.13-22.32.42:730][679]LogMaterial: Display: Missing cached shadermap for Preview:Green in PCD3D_SM5, Default, SM5 (DDC key hash: A057D4B1A5A204635CE851E4D56ED48D0133801A), compiling. 
+[2025.05.13-22.32.42:760][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.32.42:862][679]LogMaterial: Display: Missing cached shadermap for Preview:Green in PCD3D_SM5, Default, SM5 (DDC key hash: 721EA351F4B4402B0BE732F963D823B920E8D834), compiling. 
+[2025.05.13-22.32.42:867][679]LogMaterial: Display: Missing cached shadermap for Preview:Green in PCD3D_SM5, Default, SM5 (DDC key hash: F0B8CBBC64C7999BB4CAA2315E299A0A400B0ACB), compiling. 
+[2025.05.13-22.32.42:909][679]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.32.42:909][679]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.32.42:909][679]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.32.42:916][679]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: ================================================
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: Total job queries 554, among them cache hits 363 (65.52%)
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: Tracking 132 distinct input hashes that result in 52 distinct outputs (39.39%)
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: Shaders Compiled: 125
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: Jobs assigned 135, completed 132 (97.78%)
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: Average time worker was idle: 140.52 s
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 3.75 s
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: Job execution time: average 6.19 s, max 21.84 s
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: Job life time (pending + execution): average 6.45 s, max 21.87
+[2025.05.13-22.32.45:710][913]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 67.85 s
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display: Jobs were issued in 85 batches (only local compilation was used), average 1.59 jobs/batch
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display: Average processing rate: 1.95 jobs/sec
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    7 times, average 1.19 sec, max 2.37 sec, min 0.74 sec)
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   11 times, average 1.14 sec, max 2.33 sec, min 0.66 sec)
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   14 times, average 1.05 sec, max 2.28 sec, min 0.64 sec)
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 1.00 sec, max 1.33 sec, min 0.86 sec)
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   14 times, average 0.95 sec, max 1.27 sec, min 0.77 sec)
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.60% of total time (compiled   14 times, average 1.05 sec, max 2.28 sec, min 0.64 sec)
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.32% of total time (compiled   14 times, average 0.95 sec, max 1.27 sec, min 0.77 sec)
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.71% of total time (compiled   11 times, average 1.14 sec, max 2.33 sec, min 0.66 sec)
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 7.15% of total time (compiled    7 times, average 1.19 sec, max 2.37 sec, min 0.74 sec)
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.63% of total time (compiled   12 times, average 0.65 sec, max 1.88 sec, min 0.25 sec)
+[2025.05.13-22.32.45:711][913]LogShaderCompilers: Display: ================================================
+[2025.05.13-22.32.46:547][938]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.32.46:547][938]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.32.46:547][938]MaterialEditorStats: Shader Count: 4
+[2025.05.13-22.33.02:004][283]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.33.02:004][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.33.03:392][430]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.13-22.33.03:392][430]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.33.03:392][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.33.04:276][488]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.13-22.33.04:276][488]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.33.04:276][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.33.05:971][675]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.13-22.33.05:971][675]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.33.05:971][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.36.30:468][857]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Players/FoodMat.FoodMat
+[2025.05.13-22.36.30:470][857]LogMaterial: Display: Missing cached shadermap for Preview:FoodMat in PCD3D_SM5, Default, SM5 (DDC key hash: A97383B7EC4F697442A2617F00E0B9B33939F90D), compiling. 
+[2025.05.13-22.36.30:491][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.36.30:493][857]LogShaderCompilers: Display: ================================================
+[2025.05.13-22.36.30:493][857]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.13-22.36.30:493][857]LogShaderCompilers: Display: Total job queries 568, among them cache hits 377 (66.37%)
+[2025.05.13-22.36.30:493][857]LogShaderCompilers: Display: Tracking 135 distinct input hashes that result in 52 distinct outputs (38.52%)
+[2025.05.13-22.36.30:493][857]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2025.05.13-22.36.30:493][857]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.13-22.36.30:493][857]LogShaderCompilers: Display: Shaders Compiled: 125
+[2025.05.13-22.36.30:493][857]LogShaderCompilers: Display: Jobs assigned 135, completed 135 (100.00%)
+[2025.05.13-22.36.30:493][857]LogShaderCompilers: Display: Average time worker was idle: 140.52 s
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 3.75 s
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display: Job execution time: average 6.13 s, max 21.84 s
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display: Job life time (pending + execution): average 6.38 s, max 21.87
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 68.57 s
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display: Jobs were issued in 85 batches (only local compilation was used), average 1.59 jobs/batch
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display: Average processing rate: 1.97 jobs/sec
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display: Effective parallelization: 1.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    7 times, average 1.19 sec, max 2.37 sec, min 0.74 sec)
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   12 times, average 1.17 sec, max 2.33 sec, min 0.66 sec)
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   15 times, average 1.08 sec, max 2.28 sec, min 0.64 sec)
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 1.00 sec, max 1.33 sec, min 0.86 sec)
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   15 times, average 0.98 sec, max 1.47 sec, min 0.77 sec)
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.31% of total time (compiled   15 times, average 1.08 sec, max 2.28 sec, min 0.64 sec)
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.12% of total time (compiled   15 times, average 0.98 sec, max 1.47 sec, min 0.77 sec)
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.55% of total time (compiled   12 times, average 1.17 sec, max 2.33 sec, min 0.66 sec)
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 6.90% of total time (compiled    7 times, average 1.19 sec, max 2.37 sec, min 0.74 sec)
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.39% of total time (compiled   12 times, average 0.65 sec, max 1.88 sec, min 0.25 sec)
+[2025.05.13-22.36.30:494][857]LogShaderCompilers: Display: ================================================
+[2025.05.13-22.36.30:584][857]LogMaterial: Display: Missing cached shadermap for Preview:FoodMat in PCD3D_SM5, Default, SM5 (DDC key hash: 5BD1B95DDEA44F1EB048C8449E34C063BF558D0C), compiling. 
+[2025.05.13-22.36.30:587][857]LogMaterial: Display: Missing cached shadermap for Preview:FoodMat in PCD3D_SM5, Default, SM5 (DDC key hash: 926B78D4EE67BD8F7C0F0700A2862665C9A1BFCE), compiling. 
+[2025.05.13-22.36.30:589][857]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9098B37B6A1F0A2AD11F7DE8A4E0181765B9EEAC), compiling. 
+[2025.05.13-22.36.30:611][857]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.36.30:611][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.36.30:612][857]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.36.30:616][857]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2025.05.13-22.36.30:693][859]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.36.30:693][859]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.36.30:693][859]MaterialEditorStats: Shader Count: 4
+[2025.05.13-22.36.34:089][223]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.36.34:089][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.36.35:536][369]LogMaterial: Display: Missing cached shadermap for Preview:Green in PCD3D_SM5, Default, SM5 (DDC key hash: F673AD6D69FD42110ED1A20D48A0D16F3AEAA542), compiling. 
+[2025.05.13-22.36.35:538][369]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0F5529CFB999DECFDB952D8D56104D5EE70FCEC0), compiling. 
+[2025.05.13-22.36.35:542][369]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.36.35:543][369]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.36.35:543][369]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.36.35:583][371]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.36.35:583][371]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.36.35:583][371]MaterialEditorStats: Shader Count: 4
+[2025.05.13-22.36.40:821][951]LogMaterial: Display: Missing cached shadermap for Preview:Green in PCD3D_SM5, Default, SM5 (DDC key hash: F295F904E97D4EBFE32AB05D48B2142AD40C39AD), compiling. 
+[2025.05.13-22.36.40:824][951]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DA0914D7AD0D37D15744AF83EA1413C8C8DD9CDA), compiling. 
+[2025.05.13-22.36.40:828][951]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.36.40:828][951]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.36.40:828][951]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.36.40:865][953]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.36.40:865][953]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.36.40:865][953]MaterialEditorStats: Shader Count: 4
+[2025.05.13-22.36.42:429][132]LogMaterial: Display: Missing cached shadermap for Preview:Green in PCD3D_SM5, Default, SM5 (DDC key hash: 42C74452CA6792EE446887EAE10A6A7C10C0D5AD), compiling. 
+[2025.05.13-22.36.42:432][132]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6AA7A69F9D8B679F1EBDD2610F43315217E076FC), compiling. 
+[2025.05.13-22.36.42:435][132]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.36.42:435][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.36.42:435][132]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.36.42:472][134]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.36.42:472][134]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.36.42:472][134]MaterialEditorStats: Shader Count: 4
+[2025.05.13-22.36.44:733][380]LogMaterial: Display: Missing cached shadermap for Preview:Green in PCD3D_SM5, Default, SM5 (DDC key hash: 8232BF5770D5D4384EAA714B89FBAEE4A0016D0D), compiling. 
+[2025.05.13-22.36.44:736][380]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 26BFC3AA0951BBB0989341C23524CBF066497AB8), compiling. 
+[2025.05.13-22.36.44:742][380]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.36.44:742][380]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.36.44:742][380]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.36.46:906][555]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.36.46:906][555]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.36.46:906][555]MaterialEditorStats: Shader Count: 4
+[2025.05.13-22.36.48:909][759]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.13-22.36.50:667][965]LogMaterialEditor: Saving and Compiling material Green
+[2025.05.13-22.36.52:175][965]LogMaterial: Display: Missing cached shadermap for Preview:Green in PCD3D_SM5, Default, SM5 (DDC key hash: 02C2B8EE39B5D1C150CC663BAD47CC2CC05D5077), compiling. 
+[2025.05.13-22.36.52:188][965]LogMaterial: Display: Missing cached shadermap for Green in PCD3D_SM5, Default, SM5 (DDC key hash: F5FAF38468E719D71527577478AA1459FA58DE69), compiling. 
+[2025.05.13-22.36.52:295][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.05.13-22.36.53:990][965]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2025.05.13-22.36.56:136][965]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2025.05.13-22.36.57:008][965]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002013s (0.923288s overbudget)
+[2025.05.13-22.36.57:052][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Green" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Green.uasset" SILENT=true
+[2025.05.13-22.36.57:077][965]LogSavePackage: Moving output files for package: /Game/Players/Green
+[2025.05.13-22.36.57:077][965]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/GreenAFB00BE5410D6BC22FBAEAA751F3383A.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Green.uasset'
+[2025.05.13-22.36.58:635][965]AssetCheck: New page: Asset Save: Green
+[2025.05.13-22.36.58:635][965]LogContentValidation: Display: Validating Material /Game/Players/Green.Green
+[2025.05.13-22.36.58:645][965]MaterialEditorStats: Base pass shader: 125 instructions
+[2025.05.13-22.36.58:645][965]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2025.05.13-22.36.58:645][965]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.13-22.36.58:645][965]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.36.58:645][965]MaterialEditorStats: Shader Count: 16
+[2025.05.13-22.37.02:174][205]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Players/Bp_Elf.Bp_Elf
+[2025.05.13-22.37.02:174][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.37.02:914][205]LogViewport: Scene viewport resized to 1233x686, mode Windowed.
+[2025.05.13-22.37.30:510][986]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2025.05.13-22.37.30:516][986]LogMaterial: Display: Missing cached shadermap for Preview:BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 767F6B9000268C92A55E0C73D8361F2F60AC12D9), compiling. 
+[2025.05.13-22.37.30:650][986]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.37.30:733][986]LogMaterial: Display: Missing cached shadermap for Preview:BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 222DC679E45050552025882FC0F69C538867C17D), compiling. 
+[2025.05.13-22.37.30:737][986]LogMaterial: Display: Missing cached shadermap for Preview:BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 07B308A2120113CF10C41A8C63BCB7C9B7D65496), compiling. 
+[2025.05.13-22.37.30:740][986]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E2367F3B3F15A2D86D6288C73A2BC4D94E455F91), compiling. 
+[2025.05.13-22.37.30:768][986]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.37.30:768][986]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.37.30:768][986]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.37.30:772][986]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2025.05.13-22.37.32:351][145]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.37.32:352][145]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.37.32:352][145]MaterialEditorStats: Shader Count: 4
+[2025.05.13-22.37.40:259][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Elf" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Elf.uasset" SILENT=true
+[2025.05.13-22.37.41:621][966]LogSavePackage: Moving output files for package: /Game/Players/Bp_Elf
+[2025.05.13-22.37.41:622][966]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Elf156DDCE6435EECE6118D5D86CC8E6611.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Elf.uasset'
+[2025.05.13-22.37.41:639][966]AssetCheck: New page: Asset Save: Bp_Elf
+[2025.05.13-22.37.41:639][966]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Elf.Bp_Elf
+[2025.05.13-22.37.43:785][188]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.37.43:785][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.37.44:685][282]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.37.44:685][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.37.45:937][422]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.37.45:937][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.37.54:961][ 95]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.13-22.37.54:969][ 95]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.13-22.37.54:976][ 96]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.13-22.37.57:623][285]LogContentBrowser: Attempting asset rename: NewMaterial -> Blue
+[2025.05.13-22.37.57:625][285]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.13-22.37.59:366][403]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Players/Blue.Blue
+[2025.05.13-22.37.59:367][403]LogMaterial: Display: Missing cached shadermap for Preview:Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 4C0F6F3862C4BEFB07D12CB8B1FAD411C33B68FE), compiling. 
+[2025.05.13-22.37.59:389][403]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.37.59:499][403]LogMaterial: Display: Missing cached shadermap for Preview:Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 86A86FA0A1744861C811E4EB5238F35BD67961F2), compiling. 
+[2025.05.13-22.37.59:503][403]LogMaterial: Display: Missing cached shadermap for Preview:Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 380D1722EE6BE0E2F6AC7A498CC9865049F92B68), compiling. 
+[2025.05.13-22.37.59:799][403]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.37.59:799][403]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.37.59:799][403]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.38.01:073][478]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.38.01:073][478]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.01:073][478]MaterialEditorStats: Shader Count: 2
+[2025.05.13-22.38.01:780][533]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2025.05.13-22.38.02:611][627]LogSlate: Window 'Blue' being destroyed
+[2025.05.13-22.38.08:919][171]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Players/Green.Green
+[2025.05.13-22.38.08:922][171]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9CAE15519DCEC756B0359133610179D6D3D40C04), compiling. 
+[2025.05.13-22.38.08:943][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.38.09:045][171]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C69BCAD9633A41E6C130FE0976D12688C5CE5FD3), compiling. 
+[2025.05.13-22.38.09:049][171]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D71AF1DC5A24FB4AAC849F695CDAE45C8979CE9), compiling. 
+[2025.05.13-22.38.09:053][171]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A9AE786F3107051608CEA162B8A3B01DE490FD1F), compiling. 
+[2025.05.13-22.38.09:201][171]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.38.09:201][171]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.09:201][171]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.38.09:206][171]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2025.05.13-22.38.10:850][321]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.38.10:850][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.10:850][321]MaterialEditorStats: Shader Count: 3
+[2025.05.13-22.38.12:576][509]LogMaterial: Display: Missing cached shadermap for Preview:Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 5A38E0BB1143AF4D50C3F901B79D260DA6A563F5), compiling. 
+[2025.05.13-22.38.12:578][509]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BAE0A449085148E0A171027E81459D02F115AC7A), compiling. 
+[2025.05.13-22.38.12:582][509]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.38.12:582][509]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.12:582][509]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.38.12:607][511]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.38.12:607][511]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.12:607][511]MaterialEditorStats: Shader Count: 4
+[2025.05.13-22.38.16:087][900]LogMaterial: Display: Missing cached shadermap for Preview:Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 1EA3A8721BA427278AAAAE216DB782671C074C1D), compiling. 
+[2025.05.13-22.38.16:089][900]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0F352C5833EDE816526087624BC3EF42A15F8270), compiling. 
+[2025.05.13-22.38.16:094][900]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.38.16:094][900]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.16:094][900]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.38.17:324][  4]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.38.17:324][  4]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.17:324][  4]MaterialEditorStats: Shader Count: 4
+[2025.05.13-22.38.18:493][138]LogMaterial: Display: Missing cached shadermap for Preview:Blue in PCD3D_SM5, Default, SM5 (DDC key hash: E4B37E2C1F447F3D3A7D140ADC6767DFE73E290B), compiling. 
+[2025.05.13-22.38.18:495][138]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CCAF93841BD7FC0B91F31BEEAC4643FB57125FD5), compiling. 
+[2025.05.13-22.38.18:499][138]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.38.18:500][138]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.18:500][138]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.38.18:542][140]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.38.18:542][140]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.18:542][140]MaterialEditorStats: Shader Count: 4
+[2025.05.13-22.38.19:943][298]LogMaterial: Display: Missing cached shadermap for Preview:Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 9521B0B5E4E196FB02C385C11CE5A3DA0EDDA603), compiling. 
+[2025.05.13-22.38.19:945][298]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AF30E51B0992DEFB523CD48E04B5AAF251541B1B), compiling. 
+[2025.05.13-22.38.19:948][298]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.38.19:948][298]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.19:948][298]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.38.19:988][300]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.38.19:988][300]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.19:988][300]MaterialEditorStats: Shader Count: 4
+[2025.05.13-22.38.23:074][663]LogMaterial: Display: Missing cached shadermap for Preview:Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 421F40E6EC18EA3730DE7FBF1B8DE40B5F03F8C0), compiling. 
+[2025.05.13-22.38.23:076][663]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C65A56E0EE5ECF02B7B86582866BCAB3639A092), compiling. 
+[2025.05.13-22.38.23:079][663]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.38.23:079][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.23:080][663]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.38.23:123][665]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.38.23:123][665]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.23:123][665]MaterialEditorStats: Shader Count: 2
+[2025.05.13-22.38.25:203][907]LogMaterial: Display: Missing cached shadermap for Preview:Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 8784745230FD36FBCE058BADEA0F89F19D2C0E33), compiling. 
+[2025.05.13-22.38.25:206][907]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2031FB3E36845ACC7193A24DC49B7F7B3E51B491), compiling. 
+[2025.05.13-22.38.25:209][907]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.13-22.38.25:209][907]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.25:209][907]MaterialEditorStats: Shader Count: 0
+[2025.05.13-22.38.25:247][909]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.13-22.38.25:247][909]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.25:247][909]MaterialEditorStats: Shader Count: 2
+[2025.05.13-22.38.26:920][103]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.13-22.38.28:740][317]LogMaterialEditor: Saving and Compiling material Blue
+[2025.05.13-22.38.29:149][317]LogMaterial: Display: Missing cached shadermap for Preview:Blue in PCD3D_SM5, Default, SM5 (DDC key hash: CFA09C4B75366ABF39C5326F7DE5D4BCEAEA9763), compiling. 
+[2025.05.13-22.38.29:161][317]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: E8BD5FE378376D99578F203CD186688178751CBC), compiling. 
+[2025.05.13-22.38.29:234][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.13-22.38.30:137][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.05.13-22.38.32:312][317]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2025.05.13-22.38.32:875][317]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003012s (0.617699s overbudget)
+[2025.05.13-22.38.32:908][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Blue" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Blue.uasset" SILENT=true
+[2025.05.13-22.38.32:910][317]LogSavePackage: Moving output files for package: /Game/Players/Blue
+[2025.05.13-22.38.32:910][317]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Blue27405C7949240F7D2C2A128DFA943000.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Blue.uasset'
+[2025.05.13-22.38.32:927][317]AssetCheck: New page: Asset Save: Blue
+[2025.05.13-22.38.32:927][317]LogContentValidation: Display: Validating Material /Game/Players/Blue.Blue
+[2025.05.13-22.38.32:928][317]MaterialEditorStats: Base pass shader: 125 instructions
+[2025.05.13-22.38.32:928][317]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2025.05.13-22.38.32:928][317]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.13-22.38.32:928][317]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.13-22.38.32:928][317]MaterialEditorStats: Shader Count: 16
+[2025.05.13-22.38.35:235][567]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.38.35:235][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.40.40:850][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.13-22.40.40:854][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Level_test" FILE="../../../../380Gauntlet/Gauntlet/Saved/Autosaves/Game/Players/Level_test_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.05.13-22.40.41:171][ 73]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Players/Level_test_Auto0
+[2025.05.13-22.40.41:171][ 73]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Level_test_Auto071C19B294D253A7DE2C2C88F8B2CA447.tmp' to '../../../../380Gauntlet/Gauntlet/Saved/Autosaves/Game/Players/Level_test_Auto0.umap'
+[2025.05.13-22.40.41:190][ 73]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Players/Level_test' took 0.369
+[2025.05.13-22.40.41:190][ 73]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.369
+[2025.05.13-22.41.29:888][651]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Players/Bp_Player_Class.Bp_Player_Class
+[2025.05.13-22.41.29:888][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.41.33:007][889]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.41.33:007][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.41.49:876][788]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Players/Bp_Player_Class.Bp_Player_Class
+[2025.05.13-22.41.49:877][788]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.41.56:219][241]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.41.56:219][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.42.01:337][568]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Players/Bp_Wizard.Bp_Wizard
+[2025.05.13-22.42.01:338][568]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.42.01:924][569]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2025.05.13-22.42.04:317][836]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.42.04:317][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.42.04:366][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Players/Bp_Wizard.Bp_Wizard
+[2025.05.13-22.42.04:367][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.42.06:298][  2]LogViewport: Scene viewport resized to 1233x686, mode Windowed.
+[2025.05.13-22.42.37:490][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Wizard" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Wizard.uasset" SILENT=true
+[2025.05.13-22.42.37:499][258]LogSavePackage: Moving output files for package: /Game/Players/Bp_Wizard
+[2025.05.13-22.42.37:525][258]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Wizard042D35504ADCDD0A784179BE738A1AC4.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Wizard.uasset'
+[2025.05.13-22.42.37:540][258]AssetCheck: New page: Asset Save: Bp_Wizard
+[2025.05.13-22.42.37:540][258]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Wizard.Bp_Wizard
+[2025.05.13-22.44.13:529][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Level_test" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Level_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.13-22.44.13:570][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.05.13-22.44.13:580][222]LogSavePackage: Moving output files for package: /Game/Players/Level_test
+[2025.05.13-22.44.13:581][222]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Level_testEE7D7AF8469F845AC80B619C8BDC845E.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Level_test.umap'
+[2025.05.13-22.44.14:108][222]AssetCheck: New page: Asset Save: Level_test
+[2025.05.13-22.44.14:108][222]LogContentValidation: Display: Validating World /Game/Players/Level_test.Level_test
