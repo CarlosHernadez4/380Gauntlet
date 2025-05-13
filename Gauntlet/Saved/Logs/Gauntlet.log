@@ -786,3 +786,7 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.05.13-22.01.06:680][422]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.267 and deleted 0 file(s) with total size 0 MiB.
 [2025.05.13-22.01.14:365][811]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Block.BP_Block
 [2025.05.13-22.01.14:365][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.05.31:827][ 43]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Bones.BP_Bones
+[2025.05.13-22.05.31:828][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.05.50:091][989]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Blocks.BP_Blocks
+[2025.05.13-22.05.50:091][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
