@@ -97399,3 +97399,227 @@ Make sure 'BP_Block_C' has been compiled for  Get Stats
 [2025.05.13-12.58.34:544][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.05.13-12.58.34:570][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
 [2025.05.13-12.58.34:702][711]LogPlayLevel: Display: Destroying online subsystem :Context_198
+[2025.05.13-13.31.23:688][ 92]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.291 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.13-14.31.23:564][371]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.177 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.13-15.31.23:629][460]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.235 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.13-16.31.23:580][388]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.197 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.13-17.31.23:552][499]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.163 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.13-18.31.23:636][863]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.250 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.13-19.31.23:547][182]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.160 and deleted 0 file(s) with total size 0 MiB.
+[2025.05.13-19.41.06:757][ 50]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Block.BP_Block
+[2025.05.13-19.41.06:845][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-19.41.09:941][ 50]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2025.05.13-19.41.10:446][ 50]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004011s (1.692548s overbudget)
+[2025.05.13-19.42.26:420][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Ghost.BP_Ghost
+[2025.05.13-19.42.26:421][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-19.43.04:899][549]BlueprintLog: New page: Compile BP_Ghost
+[2025.05.13-19.43.05:577][549]LogUObjectHash: Compacting FUObjectHashTables data took  12.94ms
+[2025.05.13-19.43.05:964][550]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.13-19.43.06:692][583]LogSavePackage: Moving output files for package: /Game/Carlos/Enemies/Blueprints/BP_Ghost
+[2025.05.13-19.43.06:694][583]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_GhostF9FA16C34C2E99A720410D8C8A40826D.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Enemies/Blueprints/BP_Ghost.uasset'
+[2025.05.13-19.43.06:724][583]AssetCheck: New page: Asset Save: BP_Ghost
+[2025.05.13-19.43.06:724][583]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Enemies/Blueprints/BP_Ghost.BP_Ghost
+[2025.05.13-19.43.08:080][660]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.13-19.43.08:104][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.13-19.43.08:110][660]PIE: New page: PIE session: Level1 (May 13, 2025, 5:43:08 AM)
+[2025.05.13-19.43.08:114][660]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2025.05.13-19.43.08:265][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150191s)
+[2025.05.13-19.43.08:266][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.151174s)
+[2025.05.13-19.43.08:266][660]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.13-19.43.08:270][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-19.43.08:273][660]LogAIModule: Creating AISystem for world Level1
+[2025.05.13-19.43.08:277][660]LogPlayLevel: PIE: World Init took: (0.011736s)
+[2025.05.13-19.43.08:360][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.05.13-19.43.08:369][660]LogAudio: Display: Creating Audio Device:                 Id: 136, Scope: Unique, Realtime: True
+[2025.05.13-19.43.08:372][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.13-19.43.08:372][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.13-19.43.08:372][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.13-19.43.08:372][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.13-19.43.08:372][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.13-19.43.08:372][660]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.13-19.43.08:372][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.13-19.43.08:372][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.13-19.43.08:376][660]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.13-19.43.08:376][660]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.13-19.43.08:376][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.13-19.43.08:382][660]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.13-19.43.08:427][660]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JVC HA-S75N)
+[2025.05.13-19.43.08:436][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.13-19.43.08:436][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.13-19.43.08:437][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.13-19.43.08:442][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=136
+[2025.05.13-19.43.08:442][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=136
+[2025.05.13-19.43.08:446][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=136
+[2025.05.13-19.43.08:446][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=136
+[2025.05.13-19.43.08:446][660]LogInit: FAudioDevice initialized.
+[2025.05.13-19.43.08:446][660]LogAudio: Display: Audio Device (ID: 136) registered with world 'Level1'.
+[2025.05.13-19.43.08:492][660]LogLoad: Game class is 'GameModeBase'
+[2025.05.13-19.43.08:566][660]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.13-12.43.08
+[2025.05.13-19.43.08:585][660]LogWorld: Bringing up level for play took: 0.092270
+[2025.05.13-19.43.08:598][660]LogOnline: OSS: Created online subsystem instance for: :Context_201
+[2025.05.13-19.43.08:692][660]PIE: Server logged in
+[2025.05.13-19.43.08:693][660]PIE: Play in editor total start time 0.595 seconds.
+[2025.05.13-19.43.31:298][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.13-19.43.31:298][994]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2025.05.13-19.43.31:306][994]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-19.43.31:317][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-19.43.31:355][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.13-19.43.31:364][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-19.43.31:451][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.13-19.43.31:456][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=136
+[2025.05.13-19.43.31:458][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=136
+[2025.05.13-19.43.31:510][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.05.13-19.43.31:609][995]LogPlayLevel: Display: Destroying online subsystem :Context_201
+[2025.05.13-19.43.50:381][267]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Grunts.BP_Grunts
+[2025.05.13-19.43.50:382][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-19.44.09:757][332]BlueprintLog: New page: Compile BP_Grunts
+[2025.05.13-19.44.09:910][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.05.13-19.44.10:378][340]LogSavePackage: Moving output files for package: /Game/Carlos/Enemies/Blueprints/BP_Grunts
+[2025.05.13-19.44.10:379][340]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_GruntsD9B9993640F896276529D2B9DDE11AB3.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Enemies/Blueprints/BP_Grunts.uasset'
+[2025.05.13-19.44.10:415][340]AssetCheck: New page: Asset Save: BP_Grunts
+[2025.05.13-19.44.10:416][340]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Enemies/Blueprints/BP_Grunts.BP_Grunts
+[2025.05.13-19.44.13:749][525]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Demons.BP_Demons
+[2025.05.13-19.44.13:750][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-19.44.20:860][855]LogSavePackage: Moving output files for package: /Game/Carlos/Enemies/Blueprints/BP_Demons
+[2025.05.13-19.44.20:863][855]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_Demons5504B97F45D7D8CB7C6C0DBDEAFE9466.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Enemies/Blueprints/BP_Demons.uasset'
+[2025.05.13-19.44.20:898][855]AssetCheck: New page: Asset Save: BP_Demons
+[2025.05.13-19.44.20:898][855]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Enemies/Blueprints/BP_Demons.BP_Demons
+[2025.05.13-19.44.21:013][862]BlueprintLog: New page: Compile BP_Demons
+[2025.05.13-19.44.21:240][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.13-19.44.32:754][414]LogSavePackage: Moving output files for package: /Game/Carlos/Enemies/Blueprints/BP_Lobbers
+[2025.05.13-19.44.32:756][414]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_LobbersEA08CFF94796ED18E68931AB2759DD40.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Enemies/Blueprints/BP_Lobbers.uasset'
+[2025.05.13-19.44.32:788][414]AssetCheck: New page: Asset Save: BP_Lobbers
+[2025.05.13-19.44.32:788][414]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Enemies/Blueprints/BP_Lobbers.BP_Lobbers
+[2025.05.13-19.44.33:039][429]BlueprintLog: New page: Compile BP_Lobbers
+[2025.05.13-19.44.33:223][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2025.05.13-19.44.34:643][490]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Sorcerer.BP_Sorcerer
+[2025.05.13-19.44.34:644][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-19.44.46:083][ 76]BlueprintLog: New page: Compile BP_Sorcerer
+[2025.05.13-19.44.46:255][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2025.05.13-19.45.14:378][712]LogSavePackage: Moving output files for package: /Game/Carlos/Enemies/Blueprints/BP_Sorcerer
+[2025.05.13-19.45.14:380][712]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_SorcererC4C10E434599C81C5C6BE5852A39A682.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Enemies/Blueprints/BP_Sorcerer.uasset'
+[2025.05.13-19.45.14:408][712]AssetCheck: New page: Asset Save: BP_Sorcerer
+[2025.05.13-19.45.14:408][712]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Enemies/Blueprints/BP_Sorcerer.BP_Sorcerer
+[2025.05.13-19.45.24:826][272]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.13-19.45.24:836][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.13-19.45.24:837][272]PIE: New page: PIE session: Level1 (May 13, 2025, 5:45:24 AM)
+[2025.05.13-19.45.24:838][272]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2025.05.13-19.45.24:944][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104932s)
+[2025.05.13-19.45.24:944][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.105073s)
+[2025.05.13-19.45.24:944][272]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.13-19.45.24:944][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-19.45.24:944][272]LogAIModule: Creating AISystem for world Level1
+[2025.05.13-19.45.24:945][272]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2025.05.13-19.45.25:068][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.05.13-19.45.25:076][272]LogAudio: Display: Creating Audio Device:                 Id: 137, Scope: Unique, Realtime: True
+[2025.05.13-19.45.25:076][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.13-19.45.25:077][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.13-19.45.25:077][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.13-19.45.25:077][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.13-19.45.25:077][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.13-19.45.25:077][272]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.13-19.45.25:077][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.13-19.45.25:077][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.13-19.45.25:077][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.13-19.45.25:077][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.13-19.45.25:077][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.13-19.45.25:080][272]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.13-19.45.25:132][272]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JVC HA-S75N)
+[2025.05.13-19.45.25:137][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.13-19.45.25:137][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.13-19.45.25:137][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.13-19.45.25:149][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=137
+[2025.05.13-19.45.25:149][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=137
+[2025.05.13-19.45.25:152][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=137
+[2025.05.13-19.45.25:152][272]LogInit: FAudioDevice initialized.
+[2025.05.13-19.45.25:152][272]LogAudio: Display: Audio Device (ID: 137) registered with world 'Level1'.
+[2025.05.13-19.45.25:155][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=137
+[2025.05.13-19.45.25:167][272]LogLoad: Game class is 'GameModeBase'
+[2025.05.13-19.45.25:216][272]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.13-12.45.25
+[2025.05.13-19.45.25:217][272]LogWorld: Bringing up level for play took: 0.049582
+[2025.05.13-19.45.25:223][272]LogOnline: OSS: Created online subsystem instance for: :Context_205
+[2025.05.13-19.45.25:301][272]PIE: Server logged in
+[2025.05.13-19.45.25:302][272]PIE: Play in editor total start time 0.466 seconds.
+[2025.05.13-19.45.57:552][870]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-15042.111 Y=-2261.100 Z=50.000] for [BP_Ghost_C]
+[2025.05.13-19.45.57:558][870]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ghost_C_88 via property K2Node_DynamicCast_AsBP_Ghost, but BP_Ghost_C_88 is not valid (pending kill or garbage)". Node:  Set members in S_EnemyStats Graph:  EventGraph Function:  Execute Ubergraph BP Block Blueprint:  BP_Block
+[2025.05.13-19.45.57:558][870]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Level_13_B0432F0149067147026B04B503074291". Node:  Set members in S_EnemyStats Graph:  EventGraph Function:  Execute Ubergraph BP Block Blueprint:  BP_Block
+[2025.05.13-19.45.57:558][870]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set members in S_EnemyStats Graph:  EventGraph Function:  Execute Ubergraph BP Block Blueprint:  BP_Block
+[2025.05.13-19.46.07:179][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.13-19.46.07:179][424]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2025.05.13-19.46.07:191][424]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-19.46.07:204][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-19.46.07:900][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.13-19.46.08:031][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-19.46.08:323][424]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.13-19.46.08:326][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=137
+[2025.05.13-19.46.08:334][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=137
+[2025.05.13-19.46.08:348][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.13-19.46.08:402][424]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2025.05.13-19.46.08:649][425]LogPlayLevel: Display: Destroying online subsystem :Context_205
+[2025.05.13-19.52.32:480][717]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:482][717]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:551][718]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:567][719]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:585][720]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:599][721]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:618][722]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:635][723]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:652][724]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:667][725]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:686][726]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:705][727]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:719][728]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:738][729]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:755][730]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:767][731]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:785][732]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:802][733]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:815][734]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:834][735]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:849][736]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:867][737]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:884][738]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:901][739]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:917][740]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:935][741]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:951][742]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:968][743]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.32:984][744]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:002][745]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:017][746]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:033][747]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:052][748]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:066][749]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:087][750]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:102][751]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:118][752]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:140][753]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:154][754]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:169][755]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:185][756]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:200][757]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:216][758]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:232][759]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:249][760]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:266][761]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:283][762]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:299][763]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.33:316][764]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Carlos/Items/KeyManager.KeyManager_C or BlueprintGeneratedClass /Game/Items/KeyManager.KeyManager_C
+[2025.05.13-19.52.36:896][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.05.13-19.52.37:297][966]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level1_Auto7
+[2025.05.13-19.52.37:299][966]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level1_Auto785EA2035434F97CA50CF1C932A502BD8.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Autosaves/Game/Maps/Level1_Auto7.umap'
+[2025.05.13-19.52.37:329][966]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.553
+[2025.05.13-19.52.37:330][966]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.553
+[2025.05.13-19.52.37:334][966]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Carlos/Enemies/Blueprints/BP_Block] ([2] browsable assets)...
+[2025.05.13-19.52.37:368][966]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Carlos/Enemies/Blueprints/BP_Block.BP_Block]
+[2025.05.13-19.52.37:368][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carlos/Enemies/Blueprints/BP_Block]
+[2025.05.13-19.52.37:419][966]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Carlos/Enemies/Blueprints/BP_Block_Auto7
+[2025.05.13-19.52.37:420][966]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_Block_Auto74136C3624E8751B1AEEDDC841BA5535A.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Autosaves/Game/Carlos/Enemies/Blueprints/BP_Block_Auto7.uasset'
+[2025.05.13-19.52.37:421][966]LogFileHelpers: Auto-saving content packages took 0.091
+[2025.05.13-19.52.58:576][219]BlueprintLog: New page: Compile BP_Block
+[2025.05.13-19.52.58:827][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.05.13-19.52.59:025][220]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.13-19.52.59:445][239]LogSavePackage: Moving output files for package: /Game/Carlos/Enemies/Blueprints/BP_Block
+[2025.05.13-19.52.59:448][239]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_Block142A35B849FB56DC511B21B637DBD2B2.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Enemies/Blueprints/BP_Block.uasset'
+[2025.05.13-19.52.59:650][239]AssetCheck: New page: Asset Save: BP_Block
+[2025.05.13-19.52.59:650][239]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Enemies/Blueprints/BP_Block.BP_Block
