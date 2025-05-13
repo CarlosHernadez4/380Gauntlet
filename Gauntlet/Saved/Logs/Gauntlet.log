@@ -843,3 +843,32 @@ Are you sure?
 [2025.05.13-22.39.18:665][640]Cmd: MAP CHECKDEP NOCLEARLOG
 [2025.05.13-22.39.18:666][640]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.482ms to complete.
 [2025.05.13-22.39.18:666][640]LogFileHelpers: Loading map 'Level2' took 1.100
+[2025.05.13-22.39.57:906][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.13-22.39.58:361][ 12]LogSavePackage: Moving output files for package: /Game/Maps/Level2
+[2025.05.13-22.39.58:362][ 12]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level2DB8A640443132F8991F983AAF163A104.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level2.umap'
+[2025.05.13-22.39.58:419][ 12]AssetCheck: New page: Asset Save: Level2
+[2025.05.13-22.39.58:420][ 12]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2025.05.13-22.40.28:086][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.05.13-22.40.28:524][381]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level3.Level3
+[2025.05.13-22.40.28:524][381]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.13-22.40.28:524][381]LightingResults: New page: Lighting Build
+[2025.05.13-22.40.28:524][381]LoadErrors: New page: Loading map: Level3.umap
+[2025.05.13-22.40.28:565][381]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.40.28:566][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.40.28:567][381]MapCheck: New page: Map Check
+[2025.05.13-22.40.28:567][381]LightingResults: New page: Lighting Build
+[2025.05.13-22.40.28:600][381]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.13-22.40.28:642][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.13-22.40.28:650][381]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-22.40.28:652][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-22.40.28:690][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.13-22.40.28:721][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.05.13-22.40.28:802][381]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2025.05.13-22.40.28:802][381]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.13-22.40.28:802][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.13-22.40.28:803][381]LogAIModule: Creating AISystem for world Level3
+[2025.05.13-22.40.29:279][381]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.13-22.40.29:339][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.05.13-22.40.29:359][381]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.13-22.40.29:360][381]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.495ms to complete.
+[2025.05.13-22.40.29:360][381]LogFileHelpers: Loading map 'Level3' took 0.836
