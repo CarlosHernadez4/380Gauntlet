@@ -734,10 +734,3 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.05.14-16.11.39:017][590]LogEnum: Warning: Enum name collision: 'E_EnemyType::NewEnumerator4' is in both '/Game/Enemies/Enum/E_EnemyType.E_EnemyType' and '/Game/Carlos/Enemies/Enum/E_EnemyType.E_EnemyType'
 [2025.05.14-16.11.39:017][590]LogEnum: Warning: Enum name collision: 'E_EnemyType::NewEnumerator5' is in both '/Game/Enemies/Enum/E_EnemyType.E_EnemyType' and '/Game/Carlos/Enemies/Enum/E_EnemyType.E_EnemyType'
 [2025.05.14-16.11.39:017][590]LogEnum: Warning: Enum name collision: 'E_EnemyType::NewEnumerator6' is in both '/Game/Enemies/Enum/E_EnemyType.E_EnemyType' and '/Game/Carlos/Enemies/Enum/E_EnemyType.E_EnemyType'
-[2025.05.14-16.11.42:147][590]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
-[2025.05.14-16.11.42:147][590]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049748s
-[2025.05.14-16.11.42:349][590]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002586s (0.796323s overbudget)
-[2025.05.14-16.11.42:459][590]LogSlate: Took 0.008311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2025.05.14-16.11.52:085][129]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Carlos/Enemies/Enum/S_EnemyStats.S_EnemyStats
-[2025.05.14-16.11.59:843][536]LogSlate: Window 'S_EnemyStats' being destroyed
-[2025.05.14-16.12.40:015][813]LogDerivedDataCache: C:/Users/sonsi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.240 and deleted 0 file(s) with total size 0 MiB.
