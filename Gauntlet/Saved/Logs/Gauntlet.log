@@ -5072,3 +5072,81 @@ BP_Grunts_C.BndEvt__BP_EnemyFollow_Sphere_K2Node_ComponentBoundEvent_2_Component
 [2025.05.14-00.15.17:797][826]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level168ABE4A04406C4E9B8CADAB2CED0BCE4.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level1.umap'
 [2025.05.14-00.15.17:840][826]AssetCheck: New page: Asset Save: Level1
 [2025.05.14-00.15.17:840][826]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2025.05.14-00.15.47:689][438]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death
+[2025.05.14-00.15.47:692][438]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.16.44:845][571]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_EnemyFollow.BP_EnemyFollow
+[2025.05.14-00.16.44:845][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.17.00:992][481]LogBlueprint: Warning: [AssetLog] C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Content\Carlos\Enemies\Blueprints\BP_Death.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Damage Enemy  and was replaced as a Custom Event!
+[2025.05.14-00.17.08:475][885]LogEditorTransaction: Undo Resize Node
+[2025.05.14-00.17.08:997][898]LogEditorTransaction: Undo Move Node
+[2025.05.14-00.17.10:810][993]LogEditorTransaction: Redo Move Node
+[2025.05.14-00.17.48:571][170]BlueprintLog: New page: Compile BP_Death
+[2025.05.14-00.17.48:583][170]LogBlueprint: Error: [AssetLog] C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Content\Carlos\Enemies\Blueprints\BP_Death.uasset: [Compiler] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2025.05.14-00.17.48:588][170]LogBlueprint: Error: [AssetLog] C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Content\Carlos\Enemies\Blueprints\BP_Death.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Bp_Projectal  to imply a specific type.
+[2025.05.14-00.17.48:589][170]LogBlueprint: Error: [AssetLog] C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Content\Carlos\Enemies\Blueprints\BP_Death.uasset: [Compiler] The current value of the ' Struct Ref ' pin is invalid: 'Struct Ref' in action 'Set members in S_EnemyStats' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.05.14-00.17.48:589][170]LogBlueprint: Error: [AssetLog] C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Content\Carlos\Enemies\Blueprints\BP_Death.uasset: [Compiler] Failed to generate a term for the  Struct Ref  pin; was it a struct reference that was left unset?
+[2025.05.14-00.17.48:590][170]LogBlueprint: Error: [AssetLog] C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Content\Carlos\Enemies\Blueprints\BP_Death.uasset: [Compiler] Failed to generate a term for the  Struct Ref  pin; was it a struct reference that was left unset?
+[2025.05.14-00.17.48:590][170]LogBlueprint: Error: [AssetLog] C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Content\Carlos\Enemies\Blueprints\BP_Death.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.05.14-00.17.48:697][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.14-00.17.49:212][184]LogSavePackage: Moving output files for package: /Game/Carlos/Enemies/Blueprints/BP_Death
+[2025.05.14-00.17.49:214][184]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_DeathAD226A7841C528B5323A88AD665E4942.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Enemies/Blueprints/BP_Death.uasset'
+[2025.05.14-00.17.49:239][184]AssetCheck: New page: Asset Save: BP_Death
+[2025.05.14-00.17.49:239][184]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death
+[2025.05.14-00.17.58:505][700]LogSavePackage: Moving output files for package: /Game/Carlos/Enemies/Blueprints/BP_Death
+[2025.05.14-00.17.58:507][700]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_DeathB318AC3647EEB376D5F07B9BA6968602.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Enemies/Blueprints/BP_Death.uasset'
+[2025.05.14-00.17.58:529][700]AssetCheck: New page: Asset Save: BP_Death
+[2025.05.14-00.17.58:529][700]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death
+[2025.05.14-00.17.58:750][713]BlueprintLog: New page: Compile BP_Death
+[2025.05.14-00.17.58:857][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.05.14-00.18.08:098][230]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Demons.BP_Demons
+[2025.05.14-00.18.08:098][230]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.18.36:255][734]LogSavePackage: Moving output files for package: /Game/Carlos/Enemies/Blueprints/BP_Demons
+[2025.05.14-00.18.36:257][734]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_Demons2AA9492A45397E92CE5E1E9CE8D79E54.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Enemies/Blueprints/BP_Demons.uasset'
+[2025.05.14-00.18.36:279][734]AssetCheck: New page: Asset Save: BP_Demons
+[2025.05.14-00.18.36:279][734]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Enemies/Blueprints/BP_Demons.BP_Demons
+[2025.05.14-00.18.36:598][753]BlueprintLog: New page: Compile BP_Demons
+[2025.05.14-00.18.36:733][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.14-00.18.50:362][549]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Ghost.BP_Ghost
+[2025.05.14-00.18.50:362][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.19.00:634][112]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Grunts.BP_Grunts
+[2025.05.14-00.19.00:635][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.19.15:046][927]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Lobbers.BP_Lobbers
+[2025.05.14-00.19.15:046][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.19.22:872][309]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Enemies/Blueprints/BP_Sorcerer.BP_Sorcerer
+[2025.05.14-00.19.22:872][309]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.19.30:685][691]LogSavePackage: Moving output files for package: /Game/Carlos/Enemies/Blueprints/BP_Sorcerer
+[2025.05.14-00.19.30:687][691]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_Sorcerer182F721E4BC4C12A937A0385BA5882E2.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Enemies/Blueprints/BP_Sorcerer.uasset'
+[2025.05.14-00.19.30:716][691]AssetCheck: New page: Asset Save: BP_Sorcerer
+[2025.05.14-00.19.30:716][691]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Enemies/Blueprints/BP_Sorcerer.BP_Sorcerer
+[2025.05.14-00.19.35:693][976]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.19.35:694][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.19.36:774][ 28]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.14-00.19.36:774][ 28]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.19.36:774][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.19.37:716][ 73]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.14-00.19.37:716][ 73]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.19.37:717][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.19.38:676][119]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.14-00.19.38:676][119]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.19.38:677][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.19.39:387][151]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.14-00.19.39:387][151]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.19.39:387][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.19.39:956][176]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.14-00.19.39:956][176]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.19.39:956][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.19.40:423][197]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.14-00.19.40:423][197]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.19.40:424][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.19.40:872][216]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.14-00.19.40:872][216]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.19.40:872][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.19.41:292][234]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.14-00.19.41:292][234]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.19.41:292][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.19.41:650][249]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.14-00.19.41:650][249]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.19.41:650][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.19.42:057][266]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.14-00.19.42:057][266]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.19.42:057][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
