@@ -5150,3 +5150,186 @@ BP_Grunts_C.BndEvt__BP_EnemyFollow_Sphere_K2Node_ComponentBoundEvent_2_Component
 [2025.05.14-00.19.42:057][266]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2025.05.14-00.19.42:057][266]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
 [2025.05.14-00.19.42:057][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.20.20:355][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.05.14-00.20.20:750][522]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2025.05.14-00.20.20:753][522]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level1D5E0186941D88D10AA58C09873E8E7DE.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level1.umap'
+[2025.05.14-00.20.20:814][522]AssetCheck: New page: Asset Save: Level1
+[2025.05.14-00.20.20:814][522]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2025.05.14-00.20.22:025][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.14-00.20.22:787][585]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level2.Level2
+[2025.05.14-00.20.22:788][585]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.14-00.20.22:788][585]LightingResults: New page: Lighting Build
+[2025.05.14-00.20.22:788][585]LoadErrors: New page: Loading map: Level2.umap
+[2025.05.14-00.20.22:833][585]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.20.22:833][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.20.22:834][585]MapCheck: New page: Map Check
+[2025.05.14-00.20.22:834][585]LightingResults: New page: Lighting Build
+[2025.05.14-00.20.22:876][585]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.20.22:908][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.05.14-00.20.22:918][585]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.20.22:925][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.20.22:975][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.05.14-00.20.23:009][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.14-00.20.23:148][585]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2025.05.14-00.20.23:148][585]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.20.23:148][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.20.23:149][585]LogAIModule: Creating AISystem for world Level2
+[2025.05.14-00.20.23:902][585]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.14-00.20.23:970][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.14-00.20.23:987][585]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.14-00.20.23:987][585]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.266ms to complete.
+[2025.05.14-00.20.23:988][585]LogFileHelpers: Loading map 'Level2' took 1.200
+[2025.05.14-00.21.08:192][ 60]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.21.25:864][ 17]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.21.39:803][774]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.21.41:756][883]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.21.43:527][983]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.21.58:283][840]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.22.05:492][236]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.22.13:542][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.14-00.22.13:978][697]LogSavePackage: Moving output files for package: /Game/Maps/Level2
+[2025.05.14-00.22.13:980][697]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level2B59E5EE34DA5E98BC65492BC453F4366.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level2.umap'
+[2025.05.14-00.22.14:028][697]AssetCheck: New page: Asset Save: Level2
+[2025.05.14-00.22.14:028][697]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2025.05.14-00.22.14:909][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.14-00.22.15:304][747]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level3.Level3
+[2025.05.14-00.22.15:304][747]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.14-00.22.15:304][747]LightingResults: New page: Lighting Build
+[2025.05.14-00.22.15:305][747]LoadErrors: New page: Loading map: Level3.umap
+[2025.05.14-00.22.15:319][747]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.22.15:319][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.22.15:320][747]MapCheck: New page: Map Check
+[2025.05.14-00.22.15:320][747]LightingResults: New page: Lighting Build
+[2025.05.14-00.22.15:355][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.22.15:385][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.14-00.22.15:393][747]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.22.15:396][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.22.15:434][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.14-00.22.15:468][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2025.05.14-00.22.15:556][747]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2025.05.14-00.22.15:556][747]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.22.15:556][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.22.15:556][747]LogAIModule: Creating AISystem for world Level3
+[2025.05.14-00.22.15:966][747]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.14-00.22.16:016][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.05.14-00.22.16:034][747]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.14-00.22.16:035][747]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.276ms to complete.
+[2025.05.14-00.22.16:035][747]LogFileHelpers: Loading map 'Level3' took 0.730
+[2025.05.14-00.22.30:564][570]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.22.36:489][911]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.22.38:959][ 51]LogViewport: Scene viewport resized to 1481x484, mode Windowed.
+[2025.05.14-00.22.39:002][ 52]LogViewport: Scene viewport resized to 1481x529, mode Windowed.
+[2025.05.14-00.22.39:075][ 54]LogViewport: Scene viewport resized to 1481x610, mode Windowed.
+[2025.05.14-00.22.39:152][ 56]LogViewport: Scene viewport resized to 1481x649, mode Windowed.
+[2025.05.14-00.22.39:217][ 58]LogViewport: Scene viewport resized to 1481x676, mode Windowed.
+[2025.05.14-00.22.39:287][ 60]LogViewport: Scene viewport resized to 1481x695, mode Windowed.
+[2025.05.14-00.22.39:346][ 62]LogViewport: Scene viewport resized to 1481x697, mode Windowed.
+[2025.05.14-00.22.39:416][ 64]LogViewport: Scene viewport resized to 1481x705, mode Windowed.
+[2025.05.14-00.22.48:122][548]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.22.51:274][723]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.22.59:766][212]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.23.03:219][403]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.23.06:414][574]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.23.08:849][705]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.23.13:969][984]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.23.16:262][110]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.23.21:510][386]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.23.26:145][639]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.23.28:282][759]LogViewport: Scene viewport resized to 1481x694, mode Windowed.
+[2025.05.14-00.23.28:354][760]LogViewport: Scene viewport resized to 1481x656, mode Windowed.
+[2025.05.14-00.23.28:414][761]LogViewport: Scene viewport resized to 1481x638, mode Windowed.
+[2025.05.14-00.23.29:857][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.14-00.23.30:128][839]LogSavePackage: Moving output files for package: /Game/Maps/Level3
+[2025.05.14-00.23.30:130][839]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level30F95AA5A4B1E4423457BA58E965A9B5F.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level3.umap'
+[2025.05.14-00.23.30:180][839]AssetCheck: New page: Asset Save: Level3
+[2025.05.14-00.23.30:180][839]LogContentValidation: Display: Validating World /Game/Maps/Level3.Level3
+[2025.05.14-00.23.30:990][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.14-00.23.31:870][884]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level4.Level4
+[2025.05.14-00.23.31:871][884]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.14-00.23.31:871][884]LightingResults: New page: Lighting Build
+[2025.05.14-00.23.31:871][884]LoadErrors: New page: Loading map: Level4.umap
+[2025.05.14-00.23.31:881][884]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.23.31:881][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.23.31:882][884]MapCheck: New page: Map Check
+[2025.05.14-00.23.31:882][884]LightingResults: New page: Lighting Build
+[2025.05.14-00.23.31:922][884]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.23.31:951][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.14-00.23.31:959][884]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.23.31:966][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.23.32:012][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.14-00.23.32:044][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.14-00.23.32:220][884]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level4'.
+[2025.05.14-00.23.32:220][884]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.23.32:220][884]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.23.32:221][884]LogAIModule: Creating AISystem for world Level4
+[2025.05.14-00.23.33:197][884]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.14-00.23.33:279][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.05.14-00.23.33:302][884]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.14-00.23.33:303][884]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.52ms to complete.
+[2025.05.14-00.23.33:303][884]LogFileHelpers: Loading map 'Level4' took 1.432
+[2025.05.14-00.23.52:929][903]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.23.56:758][ 88]Cmd: TRANSACTION UNDO
+[2025.05.14-00.23.56:759][ 88]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.14-00.24.01:284][257]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.24.15:200][880]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.24.17:979][  7]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.24.22:109][179]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.24.24:424][264]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.24.28:677][444]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.24.34:120][686]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.24.38:803][905]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.24.41:256][ 29]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.24.50:916][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.14-00.24.51:543][478]LogSavePackage: Moving output files for package: /Game/Maps/Level4
+[2025.05.14-00.24.51:545][478]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level47FC4238841B55920D80761A1A19EE680.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level4.umap'
+[2025.05.14-00.24.51:599][478]AssetCheck: New page: Asset Save: Level4
+[2025.05.14-00.24.51:599][478]LogContentValidation: Display: Validating World /Game/Maps/Level4.Level4
+[2025.05.14-00.24.55:218][628]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death_C
+[2025.05.14-00.24.55:218][628]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death_C
+[2025.05.14-00.24.55:220][628]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death as actor: BP_Death_C /Game/Maps/Level4.Level4:PersistentLevel.BP_Death_C_0
+[2025.05.14-00.24.55:222][628]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death as actor: BP_Death_C /Game/Maps/Level4.Level4:PersistentLevel.BP_Death_C_0
+[2025.05.14-00.24.56:148][672]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death_C
+[2025.05.14-00.24.56:148][672]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death_C
+[2025.05.14-00.24.56:152][672]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death as actor: BP_Death_C /Game/Maps/Level4.Level4:PersistentLevel.BP_Death_C_1
+[2025.05.14-00.24.56:153][672]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death as actor: BP_Death_C /Game/Maps/Level4.Level4:PersistentLevel.BP_Death_C_1
+[2025.05.14-00.24.56:264][672]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2025.05.14-00.25.03:962][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death_C
+[2025.05.14-00.25.03:962][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death_C
+[2025.05.14-00.25.03:965][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death as actor: BP_Death_C /Game/Maps/Level4.Level4:PersistentLevel.BP_Death_C_2
+[2025.05.14-00.25.03:966][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death as actor: BP_Death_C /Game/Maps/Level4.Level4:PersistentLevel.BP_Death_C_2
+[2025.05.14-00.25.05:037][ 62]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death_C
+[2025.05.14-00.25.05:037][ 62]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death_C
+[2025.05.14-00.25.05:041][ 62]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death as actor: BP_Death_C /Game/Maps/Level4.Level4:PersistentLevel.BP_Death_C_3
+[2025.05.14-00.25.05:042][ 62]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Enemies/Blueprints/BP_Death.BP_Death as actor: BP_Death_C /Game/Maps/Level4.Level4:PersistentLevel.BP_Death_C_3
+[2025.05.14-00.25.05:128][ 62]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2025.05.14-00.26.33:558][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2025.05.14-00.26.34:158][550]LogSavePackage: Moving output files for package: /Game/Maps/Level4
+[2025.05.14-00.26.34:160][550]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level4B8B70975489A963DD8DD7BB113BC0FF0.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level4.umap'
+[2025.05.14-00.26.34:209][550]AssetCheck: New page: Asset Save: Level4
+[2025.05.14-00.26.34:209][550]LogContentValidation: Display: Validating World /Game/Maps/Level4.Level4
+[2025.05.14-00.26.42:272][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.05.14-00.26.42:324][920]LogLinker: Warning: [AssetLog] C:\Users\sonsi\Game Development GitHub\School\Unreal\Gauntlet\380Gauntlet\Gauntlet\Content\Maps\CarlosTestScene.umap: Failed to load '/Game/Maps/CarlosTestScene_BuiltData': Can't find file.
+[2025.05.14-00.26.42:325][920]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Maps/CarlosTestScene_BuiltData'
+[2025.05.14-00.26.42:365][920]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/CarlosTestScene.CarlosTestScene
+[2025.05.14-00.26.42:366][920]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/CarlosTestScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.14-00.26.42:366][920]LightingResults: New page: Lighting Build
+[2025.05.14-00.26.42:366][920]LoadErrors: New page: Loading map: CarlosTestScene.umap
+[2025.05.14-00.26.42:382][920]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.26.42:383][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.26.42:384][920]MapCheck: New page: Map Check
+[2025.05.14-00.26.42:384][920]LightingResults: New page: Lighting Build
+[2025.05.14-00.26.42:411][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.26.42:461][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.05.14-00.26.42:471][920]LogWorld: UWorld::CleanupWorld for CarlosTestScene, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.26.42:471][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.26.42:505][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.05.14-00.26.42:539][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.14-00.26.42:547][920]LogAudio: Display: Audio Device (ID: 1) registered with world 'CarlosTestScene'.
+[2025.05.14-00.26.42:547][920]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.26.42:547][920]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.26.42:548][920]LogAIModule: Creating AISystem for world CarlosTestScene
+[2025.05.14-00.26.42:586][920]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.14-00.26.42:619][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.14-00.26.42:636][920]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.14-00.26.42:636][920]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2025.05.14-00.26.42:636][920]LogFileHelpers: Loading map 'CarlosTestScene' took 0.271
