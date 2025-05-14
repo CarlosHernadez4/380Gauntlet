@@ -1726,3 +1726,238 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.05.14-17.01.54:413][444]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Projectal.Bp_Projectal
 [2025.05.14-17.01.55:460][549]BlueprintLog: New page: Compile Bp_Projectal
 [2025.05.14-17.01.55:560][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.05.14-17.08.41:146][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.05.14-17.08.41:149][568]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.056
+[2025.05.14-17.08.41:150][568]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Players/Bp_Projectal] ([2] browsable assets)...
+[2025.05.14-17.08.41:287][568]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Players/Bp_Projectal.Bp_Projectal]
+[2025.05.14-17.08.41:288][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Players/Bp_Projectal]
+[2025.05.14-17.08.41:288][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Projectal" FILE="../../../../380Gauntlet/Gauntlet/Saved/Autosaves/Game/Players/Bp_Projectal_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.05.14-17.08.41:590][568]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Players/Bp_Projectal_Auto1
+[2025.05.14-17.08.41:606][568]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Projectal_Auto1FF3E87DE467FEE77069193A287F2C9EF.tmp' to '../../../../380Gauntlet/Gauntlet/Saved/Autosaves/Game/Players/Bp_Projectal_Auto1.uasset'
+[2025.05.14-17.08.41:609][568]LogFileHelpers: Auto-saving content packages took 0.460
+[2025.05.14-17.10.17:024][137]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.14-17.10.29:783][439]LogEditorTransaction: Undo Modify Component(s)
+[2025.05.14-17.10.37:763][284]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Bp_Projectal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.750 Y=-0.000 Z=0.688
+[2025.05.14-17.10.37:764][284]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Bp_Projectal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.750 Y=-0.000 Z=0.688
+[2025.05.14-17.10.37:774][285]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Bp_Projectal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.750 Y=-0.000 Z=0.688
+[2025.05.14-17.10.37:774][285]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Bp_Projectal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.750 Y=-0.000 Z=0.688
+[2025.05.14-17.10.38:719][394]LogEditorTransaction: Undo Modify Component(s)
+[2025.05.14-17.11.17:001][470]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Players/Bp_Player_Class.Bp_Player_Class
+[2025.05.14-17.11.17:001][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-17.11.46:984][263]LogEditorTransaction: Undo Modify Component(s)
+[2025.05.14-17.12.01:133][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Projectal" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset" SILENT=true
+[2025.05.14-17.12.01:138][660]LogSavePackage: Moving output files for package: /Game/Players/Bp_Projectal
+[2025.05.14-17.12.01:139][660]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Projectal4CE08102419B9F853CEC75B8CAD8215B.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset'
+[2025.05.14-17.12.01:160][660]AssetCheck: New page: Asset Save: Bp_Projectal
+[2025.05.14-17.12.01:160][660]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Projectal.Bp_Projectal
+[2025.05.14-17.12.38:469][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Projectal" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset" SILENT=true
+[2025.05.14-17.12.38:476][ 57]LogSavePackage: Moving output files for package: /Game/Players/Bp_Projectal
+[2025.05.14-17.12.38:503][ 57]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_ProjectalFA1595484C0414FFECE74AA3C8BB6710.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset'
+[2025.05.14-17.12.38:521][ 57]AssetCheck: New page: Asset Save: Bp_Projectal
+[2025.05.14-17.12.38:521][ 57]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Projectal.Bp_Projectal
+[2025.05.14-17.12.40:111][201]BlueprintLog: New page: Compile Bp_Projectal
+[2025.05.14-17.12.40:301][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.05.14-17.12.40:528][202]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-17.12.43:005][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../380Gauntlet/Gauntlet/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.14-17.12.43:079][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2025.05.14-17.12.43:333][412]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2025.05.14-17.12.43:345][412]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Level118A1CF5E491988798ADE159195DDA500.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Maps/Level1.umap'
+[2025.05.14-17.12.43:386][412]AssetCheck: New page: Asset Save: Level1
+[2025.05.14-17.12.43:386][412]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2025.05.14-17.12.44:146][471]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.14-17.12.44:159][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-17.12.44:159][471]PIE: New page: PIE session: Level1 (May 14, 2025, 3:12:44 AM)
+[2025.05.14-17.12.44:184][471]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-17.12.44:275][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091197s)
+[2025.05.14-17.12.44:276][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.091342s)
+[2025.05.14-17.12.44:276][471]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-17.12.44:276][471]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-17.12.44:276][471]LogAIModule: Creating AISystem for world Level1
+[2025.05.14-17.12.44:276][471]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2025.05.14-17.12.44:342][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2025.05.14-17.12.44:345][471]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.05.14-17.12.44:345][471]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-17.12.44:345][471]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-17.12.44:345][471]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-17.12.44:345][471]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-17.12.44:345][471]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.14-17.12.44:345][471]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.14-17.12.44:345][471]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.14-17.12.44:345][471]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-17.12.44:346][471]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-17.12.44:346][471]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-17.12.44:346][471]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-17.12.44:348][471]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-17.12.44:371][471]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2025.05.14-17.12.44:371][471]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-17.12.44:372][471]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-17.12.44:372][471]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-17.12.44:373][471]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.05.14-17.12.44:373][471]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.05.14-17.12.44:375][471]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.05.14-17.12.44:375][471]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.05.14-17.12.44:375][471]LogInit: FAudioDevice initialized.
+[2025.05.14-17.12.44:375][471]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2025.05.14-17.12.44:389][471]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-17.12.44:426][471]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.05.14-10.12.44
+[2025.05.14-17.12.44:428][471]LogWorld: Bringing up level for play took: 0.038482
+[2025.05.14-17.12.44:430][471]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.05.14-17.12.44:482][471]PIE: Server logged in
+[2025.05.14-17.12.44:482][471]PIE: Play in editor total start time 0.326 seconds.
+[2025.05.14-17.13.04:925][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-17.13.04:925][824]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-17.13.04:927][824]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-17.13.04:932][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-17.13.04:947][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-17.13.04:957][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-17.13.05:022][824]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-17.13.05:025][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.14-17.13.05:027][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.14-17.13.05:031][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-17.13.05:052][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.05.14-17.13.05:126][825]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.05.14-17.13.34:955][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Projectal" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset" SILENT=true
+[2025.05.14-17.13.34:961][142]LogSavePackage: Moving output files for package: /Game/Players/Bp_Projectal
+[2025.05.14-17.13.34:962][142]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_ProjectalC426A06642C83439A6CBAEAC57ECA7B2.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset'
+[2025.05.14-17.13.34:980][142]AssetCheck: New page: Asset Save: Bp_Projectal
+[2025.05.14-17.13.34:981][142]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Projectal.Bp_Projectal
+[2025.05.14-17.13.45:744][ 25]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.14-17.13.45:855][ 25]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.05.14-17.13.45:860][ 25]LogPlayLevel: [PlayLevel] Compiling Bp_Projectal before play...
+[2025.05.14-17.13.45:983][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2025.05.14-17.13.45:985][ 25]LogPlayLevel: PlayLevel: Blueprint regeneration took 129 ms (1 blueprints)
+[2025.05.14-17.13.45:985][ 25]PIE: New page: PIE session: Level1 (May 14, 2025, 3:13:45 AM)
+[2025.05.14-17.13.45:985][ 25]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-17.13.46:069][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083716s)
+[2025.05.14-17.13.46:069][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.083789s)
+[2025.05.14-17.13.46:069][ 25]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-17.13.46:069][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-17.13.46:070][ 25]LogAIModule: Creating AISystem for world Level1
+[2025.05.14-17.13.46:070][ 25]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2025.05.14-17.13.46:135][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.05.14-17.13.46:136][ 25]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.05.14-17.13.46:136][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-17.13.46:136][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-17.13.46:136][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-17.13.46:136][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-17.13.46:136][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.14-17.13.46:136][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.14-17.13.46:136][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.14-17.13.46:136][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-17.13.46:136][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-17.13.46:136][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-17.13.46:136][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-17.13.46:138][ 25]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-17.13.46:162][ 25]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2025.05.14-17.13.46:162][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-17.13.46:162][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-17.13.46:162][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-17.13.46:163][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.05.14-17.13.46:164][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.05.14-17.13.46:166][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.05.14-17.13.46:166][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.05.14-17.13.46:166][ 25]LogInit: FAudioDevice initialized.
+[2025.05.14-17.13.46:166][ 25]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2025.05.14-17.13.46:178][ 25]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-17.13.46:216][ 25]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.05.14-10.13.46
+[2025.05.14-17.13.46:217][ 25]LogWorld: Bringing up level for play took: 0.038674
+[2025.05.14-17.13.46:219][ 25]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.05.14-17.13.46:259][ 25]PIE: Server logged in
+[2025.05.14-17.13.46:260][ 25]PIE: Play in editor total start time 0.404 seconds.
+[2025.05.14-17.14.00:545][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-17.14.00:545][982]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-17.14.00:547][982]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-17.14.00:551][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-17.14.00:563][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-17.14.00:574][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-17.14.00:639][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-17.14.00:642][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.05.14-17.14.00:643][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.05.14-17.14.00:666][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2025.05.14-17.14.01:250][983]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.05.14-17.14.01:260][984]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-17.14.53:431][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Projectal" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset" SILENT=true
+[2025.05.14-17.14.53:437][879]LogSavePackage: Moving output files for package: /Game/Players/Bp_Projectal
+[2025.05.14-17.14.53:437][879]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Projectal59A1904242B28B7B666540B640B91E67.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset'
+[2025.05.14-17.14.53:456][879]AssetCheck: New page: Asset Save: Bp_Projectal
+[2025.05.14-17.14.53:456][879]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Projectal.Bp_Projectal
+[2025.05.14-17.14.54:366][971]BlueprintLog: New page: Compile Bp_Projectal
+[2025.05.14-17.14.54:459][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2025.05.14-17.14.54:542][972]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-17.14.57:255][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Projectal" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset" SILENT=true
+[2025.05.14-17.14.58:066][975]LogSavePackage: Moving output files for package: /Game/Players/Bp_Projectal
+[2025.05.14-17.14.58:067][975]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Projectal6FB6B98A4E3603D1236CCB8E22CFD07C.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset'
+[2025.05.14-17.14.58:085][975]AssetCheck: New page: Asset Save: Bp_Projectal
+[2025.05.14-17.14.58:086][975]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Projectal.Bp_Projectal
+[2025.05.14-17.15.30:961][365]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Players/Bp_Food.Bp_Food
+[2025.05.14-17.15.30:962][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-17.16.51:166][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Projectal" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset" SILENT=true
+[2025.05.14-17.16.51:175][118]LogSavePackage: Moving output files for package: /Game/Players/Bp_Projectal
+[2025.05.14-17.16.51:176][118]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Projectal93339C7341D7FC2B90C94BA3499BB1DA.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset'
+[2025.05.14-17.16.51:196][118]AssetCheck: New page: Asset Save: Bp_Projectal
+[2025.05.14-17.16.51:196][118]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Projectal.Bp_Projectal
+[2025.05.14-17.16.59:947][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Projectal" FILE="../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset" SILENT=true
+[2025.05.14-17.16.59:954][ 18]LogSavePackage: Moving output files for package: /Game/Players/Bp_Projectal
+[2025.05.14-17.16.59:954][ 18]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Bp_Projectal05A27E0542D6D95443F4A4BAE5FF6284.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Players/Bp_Projectal.uasset'
+[2025.05.14-17.16.59:971][ 18]AssetCheck: New page: Asset Save: Bp_Projectal
+[2025.05.14-17.16.59:972][ 18]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Projectal.Bp_Projectal
+[2025.05.14-17.17.01:232][138]BlueprintLog: New page: Compile Bp_Projectal
+[2025.05.14-17.17.01:339][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2025.05.14-17.17.02:501][139]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-17.17.07:455][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../380Gauntlet/Gauntlet/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.14-17.17.07:523][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2025.05.14-17.17.07:823][443]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2025.05.14-17.17.07:823][443]LogSavePackage: Moving '../../../../380Gauntlet/Gauntlet/Saved/Level1A625346941F459F3E607A59C4E72044E.tmp' to '../../../../380Gauntlet/Gauntlet/Content/Maps/Level1.umap'
+[2025.05.14-17.17.07:859][443]AssetCheck: New page: Asset Save: Level1
+[2025.05.14-17.17.07:859][443]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2025.05.14-17.17.08:468][450]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.14-17.17.08:480][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-17.17.08:480][450]PIE: New page: PIE session: Level1 (May 14, 2025, 3:17:08 AM)
+[2025.05.14-17.17.08:480][450]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-17.17.08:560][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079551s)
+[2025.05.14-17.17.08:560][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.079633s)
+[2025.05.14-17.17.08:560][450]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-17.17.08:560][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-17.17.08:560][450]LogAIModule: Creating AISystem for world Level1
+[2025.05.14-17.17.08:560][450]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2025.05.14-17.17.08:626][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2025.05.14-17.17.08:627][450]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.05.14-17.17.08:627][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-17.17.08:627][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-17.17.08:627][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-17.17.08:627][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-17.17.08:627][450]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.14-17.17.08:627][450]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.14-17.17.08:627][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.14-17.17.08:627][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-17.17.08:628][450]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-17.17.08:628][450]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-17.17.08:628][450]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-17.17.08:630][450]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-17.17.08:651][450]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2025.05.14-17.17.08:651][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-17.17.08:651][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-17.17.08:651][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-17.17.08:652][450]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.05.14-17.17.08:652][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.05.14-17.17.08:654][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.05.14-17.17.08:654][450]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.05.14-17.17.08:654][450]LogInit: FAudioDevice initialized.
+[2025.05.14-17.17.08:654][450]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2025.05.14-17.17.08:663][450]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-17.17.08:696][450]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.05.14-10.17.08
+[2025.05.14-17.17.08:697][450]LogWorld: Bringing up level for play took: 0.034083
+[2025.05.14-17.17.08:699][450]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.05.14-17.17.08:737][450]PIE: Server logged in
+[2025.05.14-17.17.08:737][450]PIE: Play in editor total start time 0.26 seconds.
+[2025.05.14-17.17.27:705][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-17.17.27:705][790]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-17.17.27:706][790]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-17.17.27:711][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-17.17.27:726][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-17.17.27:737][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-17.17.27:808][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-17.17.27:812][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.14-17.17.27:814][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.14-17.17.27:837][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2025.05.14-17.17.27:932][791]LogPlayLevel: Display: Destroying online subsystem :Context_35
