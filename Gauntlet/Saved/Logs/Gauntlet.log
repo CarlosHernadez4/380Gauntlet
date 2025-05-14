@@ -4098,3 +4098,977 @@ BP_Grunts_C.BndEvt__BP_EnemyFollow_Sphere_K2Node_ComponentBoundEvent_2_Component
 [2025.05.14-00.07.29:058][480]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2025.05.14-00.07.29:058][480]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
 [2025.05.14-00.07.29:058][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.07.51:052][ 31]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2
+[2025.05.14-00.07.51:052][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.07.52:708][ 88]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Maps/BP_ToLevel3.BP_ToLevel3
+[2025.05.14-00.07.52:708][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.07.54:277][141]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlos/Maps/BP_ToLevel4.BP_ToLevel4
+[2025.05.14-00.07.54:277][141]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.07.56:614][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1_C
+[2025.05.14-00.07.56:614][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1_C
+[2025.05.14-00.07.56:615][233]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1 as actor: BP_ToLevel1_C /Game/Maps/Level1.Level1:PersistentLevel.BP_ToLevel1_C_0
+[2025.05.14-00.07.56:616][233]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1 as actor: BP_ToLevel1_C /Game/Maps/Level1.Level1:PersistentLevel.BP_ToLevel1_C_0
+[2025.05.14-00.07.58:458][328]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2_C
+[2025.05.14-00.07.58:458][328]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2_C
+[2025.05.14-00.07.58:460][328]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2 as actor: BP_ToLevel2_C /Game/Maps/Level1.Level1:PersistentLevel.BP_ToLevel2_C_0
+[2025.05.14-00.07.58:461][328]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2 as actor: BP_ToLevel2_C /Game/Maps/Level1.Level1:PersistentLevel.BP_ToLevel2_C_0
+[2025.05.14-00.07.59:583][383]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2_C
+[2025.05.14-00.07.59:583][383]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2_C
+[2025.05.14-00.07.59:586][383]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2 as actor: BP_ToLevel2_C /Game/Maps/Level1.Level1:PersistentLevel.BP_ToLevel2_C_2
+[2025.05.14-00.07.59:588][383]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2 as actor: BP_ToLevel2_C /Game/Maps/Level1.Level1:PersistentLevel.BP_ToLevel2_C_2
+[2025.05.14-00.07.59:646][384]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.02:019][519]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.02:102][524]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.02:194][529]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.02:247][532]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.02:648][546]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.02:852][550]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.02:958][554]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.03:439][583]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.03:758][602]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.04:039][617]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.10:402][980]Cmd: DELETE
+[2025.05.14-00.08.10:402][980]Cmd: ACTOR DELETE
+[2025.05.14-00.08.10:424][980]LogEditorActor: Deleted Actor: BP_ToLevel2_C
+[2025.05.14-00.08.10:554][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.05.14-00.08.10:562][980]LogEditorActor: Deleted 1 Actors (0.160 secs)
+[2025.05.14-00.08.10:601][981]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.12:199][ 72]Cmd: DELETE
+[2025.05.14-00.08.12:199][ 72]Cmd: ACTOR DELETE
+[2025.05.14-00.08.12:221][ 72]LogEditorActor: Deleted Actor: BP_ToLevel2_C
+[2025.05.14-00.08.12:375][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2025.05.14-00.08.12:385][ 72]LogEditorActor: Deleted 1 Actors (0.186 secs)
+[2025.05.14-00.08.12:409][ 73]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.12:990][100]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2_C
+[2025.05.14-00.08.12:990][100]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2_C
+[2025.05.14-00.08.12:994][100]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2 as actor: BP_ToLevel2_C /Game/Maps/Level1.Level1:PersistentLevel.BP_ToLevel2_C_3
+[2025.05.14-00.08.12:996][100]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2 as actor: BP_ToLevel2_C /Game/Maps/Level1.Level1:PersistentLevel.BP_ToLevel2_C_3
+[2025.05.14-00.08.13:940][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2_C
+[2025.05.14-00.08.13:940][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2_C
+[2025.05.14-00.08.13:943][147]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2 as actor: BP_ToLevel2_C /Game/Maps/Level1.Level1:PersistentLevel.BP_ToLevel2_C_4
+[2025.05.14-00.08.13:944][147]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2 as actor: BP_ToLevel2_C /Game/Maps/Level1.Level1:PersistentLevel.BP_ToLevel2_C_4
+[2025.05.14-00.08.13:988][148]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.14:875][200]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.14:980][206]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.15:015][208]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.15:333][221]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.15:399][223]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.15:617][227]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.15:701][230]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.16:164][255]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.17:377][326]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.14-00.08.17:396][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-00.08.17:396][326]PIE: New page: PIE session: Level1 (May 13, 2025, 10:08:17 AM)
+[2025.05.14-00.08.17:396][326]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-00.08.17:482][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086158s)
+[2025.05.14-00.08.17:482][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.086258s)
+[2025.05.14-00.08.17:482][326]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.08.17:482][326]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.08.17:482][326]LogAIModule: Creating AISystem for world Level1
+[2025.05.14-00.08.17:484][326]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2025.05.14-00.08.17:540][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.05.14-00.08.17:547][326]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2025.05.14-00.08.17:547][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-00.08.17:547][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-00.08.17:547][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-00.08.17:547][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-00.08.17:547][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.14-00.08.17:547][326]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.14-00.08.17:547][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.14-00.08.17:547][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-00.08.17:547][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-00.08.17:547][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-00.08.17:547][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-00.08.17:550][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-00.08.17:596][326]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JVC HA-S75N)
+[2025.05.14-00.08.17:597][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-00.08.17:597][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-00.08.17:597][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-00.08.17:597][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2025.05.14-00.08.17:597][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2025.05.14-00.08.17:599][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2025.05.14-00.08.17:599][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2025.05.14-00.08.17:599][326]LogInit: FAudioDevice initialized.
+[2025.05.14-00.08.17:599][326]LogAudio: Display: Audio Device (ID: 42) registered with world 'Level1'.
+[2025.05.14-00.08.17:612][326]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-00.08.17:647][326]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.13-17.08.17
+[2025.05.14-00.08.17:648][326]LogWorld: Bringing up level for play took: 0.036699
+[2025.05.14-00.08.17:652][326]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2025.05.14-00.08.17:689][326]PIE: Server logged in
+[2025.05.14-00.08.17:690][326]PIE: Play in editor total start time 0.302 seconds.
+[2025.05.14-00.08.18:923][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.08.18:923][386]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-00.08.18:924][386]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.08.18:928][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.08.18:942][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-00.08.18:949][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.08.19:009][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.08.19:010][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.05.14-00.08.19:012][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.05.14-00.08.19:016][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.08.19:034][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.05.14-00.08.19:076][387]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2025.05.14-00.08.37:221][356]LogSavePackage: Moving output files for package: /Game/Carlos/Maps/BP_ToLevel2
+[2025.05.14-00.08.37:222][356]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_ToLevel2F553B250489843D8E05C69B9A0A2367B.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Maps/BP_ToLevel2.uasset'
+[2025.05.14-00.08.37:258][356]AssetCheck: New page: Asset Save: BP_ToLevel2
+[2025.05.14-00.08.37:258][356]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2
+[2025.05.14-00.08.37:486][370]BlueprintLog: New page: Compile BP_ToLevel2
+[2025.05.14-00.08.37:605][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.05.14-00.08.37:705][371]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.08.41:077][564]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.14-00.08.41:093][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-00.08.41:093][564]PIE: New page: PIE session: Level1 (May 13, 2025, 10:08:41 AM)
+[2025.05.14-00.08.41:093][564]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-00.08.41:187][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094073s)
+[2025.05.14-00.08.41:187][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.094171s)
+[2025.05.14-00.08.41:187][564]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.08.41:187][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.08.41:188][564]LogAIModule: Creating AISystem for world Level1
+[2025.05.14-00.08.41:189][564]LogPlayLevel: PIE: World Init took: (0.001450s)
+[2025.05.14-00.08.41:252][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.05.14-00.08.41:256][564]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2025.05.14-00.08.41:256][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-00.08.41:256][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-00.08.41:256][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-00.08.41:256][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-00.08.41:256][564]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.14-00.08.41:256][564]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.14-00.08.41:256][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.14-00.08.41:256][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-00.08.41:257][564]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-00.08.41:257][564]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-00.08.41:257][564]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-00.08.41:260][564]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-00.08.41:304][564]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JVC HA-S75N)
+[2025.05.14-00.08.41:304][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-00.08.41:304][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-00.08.41:304][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-00.08.41:305][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2025.05.14-00.08.41:305][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2025.05.14-00.08.41:307][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2025.05.14-00.08.41:307][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2025.05.14-00.08.41:307][564]LogInit: FAudioDevice initialized.
+[2025.05.14-00.08.41:307][564]LogAudio: Display: Audio Device (ID: 43) registered with world 'Level1'.
+[2025.05.14-00.08.41:319][564]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-00.08.41:362][564]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.13-17.08.41
+[2025.05.14-00.08.41:364][564]LogWorld: Bringing up level for play took: 0.043753
+[2025.05.14-00.08.41:366][564]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2025.05.14-00.08.41:418][564]PIE: Server logged in
+[2025.05.14-00.08.41:419][564]PIE: Play in editor total start time 0.33 seconds.
+[2025.05.14-00.08.44:227][723]LogLevel: Warning: WARNING: The map '/Game/Carlos/Maps/Level2' does not exist.
+[2025.05.14-00.08.44:227][723]LogLevel: Warning: WARNING: The map '/Game/Carlos/Maps/Level2' does not exist.
+[2025.05.14-00.08.44:242][724]LogNet: Browse: /Game/Carlos/Maps/Level2
+[2025.05.14-00.08.44:244][724]LogLoad: LoadMap: /Game/Carlos/Maps/Level2
+[2025.05.14-00.08.44:244][724]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-00.08.44:247][724]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.08.44:252][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.08.44:314][724]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.08.44:330][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.05.14-00.08.44:338][724]LogLinker: Warning: Failed to load '/Game/Carlos/Maps/Level2': Can't find file.
+[2025.05.14-00.08.44:339][724]LogNet: Browse: /Engine/Maps/Templates/OpenWorld?Name=Player
+[2025.05.14-00.08.44:339][724]LogLoad: LoadMap: /Engine/Maps/Templates/OpenWorld?Name=Player
+[2025.05.14-00.08.44:392][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.05.14-00.08.44:406][724]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2025.05.14-00.08.44:408][724]LogAudio: Display: Audio Device (ID: 43) registered with world 'OpenWorld'.
+[2025.05.14-00.08.44:409][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.08.44:410][724]LogAIModule: Creating AISystem for world OpenWorld
+[2025.05.14-00.08.44:411][724]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.14-00.08.44:411][724]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2025.05.14-00.08.44:422][724]LogWorldPartition: Display: GenerateStreaming started...
+[2025.05.14-00.08.44:422][724]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.05.14-00.08.44:422][724]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2025.05.14-00.08.44:423][724]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2025.05.14-00.08.44:423][724]LogWorldPartition: Display: GetPartitionedActors took 224 us
+[2025.05.14-00.08.44:450][724]LogMaterial: Display: Missing cached shadermap for M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 46A9DEE59559941731CB787B98CF0AA33BC0F488), compiling. 
+[2025.05.14-00.08.45:043][724]LogWorldPartition: Display: GenerateStreaming took 620 ms
+[2025.05.14-00.08.45:067][724]LogWorldPartition: Display: WorldPartition initialize took 656 ms
+[2025.05.14-00.08.45:068][724]LogPlayLevel: PIE: World Init took: (0.660009s)
+[2025.05.14-00.08.45:068][724]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-00.08.45:623][724]LogWorld: Bringing World /Engine/Maps/Templates/UEDPIE_0_OpenWorld.OpenWorld up for play (max tick rate 60) at 2025.05.13-17.08.45
+[2025.05.14-00.08.45:624][724]LogWorld: Bringing up level for play took: 0.104160
+[2025.05.14-00.08.45:626][724]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.05.14-00.08.45:647][724]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=52.602 Y=52.602 Z=0.000
+[2025.05.14-00.08.45:649][724]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2025.05.14-00.08.45:650][724]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=52.602 Y=52.602 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2025.05.14-00.08.45:668][724]LogStreaming: Display: FlushAsyncLoading: 49 QueuedPackages, 0 AsyncPackages
+[2025.05.14-00.08.46:700][724]LogLoad: Took 2.359497 seconds to LoadMap(/Engine/Maps/Templates/OpenWorld)
+[2025.05.14-00.08.46:701][724]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Failed to load package '/Game/Carlos/Maps/Level2'
+[2025.05.14-00.08.46:710][724]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Failed to load package '/Game/Carlos/Maps/Level2''. Shutting down PIE.
+[2025.05.14-00.08.46:711][724]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Failed to load package '/Game/Carlos/Maps/Level2''. Shutting down PIE.
+[2025.05.14-00.08.46:856][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.08.46:856][724]LogWorld: BeginTearingDown for /Engine/Maps/Templates/UEDPIE_0_OpenWorld
+[2025.05.14-00.08.46:967][724]LogWorld: UWorld::CleanupWorld for OpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.08.46:971][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.08.47:373][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-00.08.47:410][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.08.47:614][724]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.08.47:615][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.05.14-00.08.47:620][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.05.14-00.08.47:632][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.08.47:704][724]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2025.05.14-00.08.50:160][725]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2025.05.14-00.08.57:377][881]LogShaderCompilers: Display: ================================================
+[2025.05.14-00.08.57:377][881]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.14-00.08.57:377][881]LogShaderCompilers: Display: Total job queries 122, among them cache hits 1 (0.82%)
+[2025.05.14-00.08.57:378][881]LogShaderCompilers: Display: Tracking 51 distinct input hashes that result in 29 distinct outputs (56.86%)
+[2025.05.14-00.08.57:379][881]LogShaderCompilers: Display: RAM used: 0.08 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2025.05.14-00.08.57:379][881]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.14-00.08.57:379][881]LogShaderCompilers: Display: Shaders Compiled: 121
+[2025.05.14-00.08.57:379][881]LogShaderCompilers: Display: Jobs assigned 121, completed 51 (42.15%)
+[2025.05.14-00.08.57:379][881]LogShaderCompilers: Display: Average time worker was idle: 1354.01 s
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display: Time job spent in pending queue: average 0.33 s, longest 8.52 s
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display: Job execution time: average 7.37 s, max 12.77 s
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display: Job life time (pending + execution): average 8.15 s, max 12.77
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.99 s
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 4.32 jobs/batch
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display: Average processing rate: 1.76 jobs/sec
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display: Effective parallelization: 3.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 2.74 sec, max 3.39 sec, min 2.08 sec)
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 2.68 sec, max 4.75 sec, min 1.82 sec)
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 2.58 sec, max 3.15 sec, min 2.10 sec)
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 2.42 sec, max 3.75 sec, min 1.50 sec)
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    3 times, average 2.39 sec, max 3.13 sec, min 2.01 sec)
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.86% of total time (compiled    4 times, average 2.68 sec, max 4.75 sec, min 1.82 sec)
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 8.91% of total time (compiled    4 times, average 2.42 sec, max 3.75 sec, min 1.50 sec)
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.56% of total time (compiled    3 times, average 2.74 sec, max 3.39 sec, min 2.08 sec)
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.11% of total time (compiled    3 times, average 2.58 sec, max 3.15 sec, min 2.10 sec)
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy - 7.10% of total time (compiled    4 times, average 1.93 sec, max 3.12 sec, min 1.38 sec)
+[2025.05.14-00.08.57:380][881]LogShaderCompilers: Display: ================================================
+[2025.05.14-00.09.25:485][ 20]LogSavePackage: Moving output files for package: /Game/Carlos/Maps/BP_ToLevel2
+[2025.05.14-00.09.25:489][ 20]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_ToLevel216965D31457D8E362F83D2BFA4FC319A.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Maps/BP_ToLevel2.uasset'
+[2025.05.14-00.09.25:725][ 20]AssetCheck: New page: Asset Save: BP_ToLevel2
+[2025.05.14-00.09.25:725][ 20]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Maps/BP_ToLevel2.BP_ToLevel2
+[2025.05.14-00.09.26:452][ 62]BlueprintLog: New page: Compile BP_ToLevel2
+[2025.05.14-00.09.26:698][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2025.05.14-00.09.26:821][ 63]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2025.05.14-00.09.28:996][174]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.14-00.09.29:024][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-00.09.29:025][174]PIE: New page: PIE session: Level1 (May 13, 2025, 10:09:29 AM)
+[2025.05.14-00.09.29:075][174]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-00.09.29:222][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147092s)
+[2025.05.14-00.09.29:222][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.147791s)
+[2025.05.14-00.09.29:223][174]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.09.29:231][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.09.29:244][174]LogAIModule: Creating AISystem for world Level1
+[2025.05.14-00.09.29:252][174]LogPlayLevel: PIE: World Init took: (0.030332s)
+[2025.05.14-00.09.29:330][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.05.14-00.09.29:337][174]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.05.14-00.09.29:339][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-00.09.29:339][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-00.09.29:339][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-00.09.29:340][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-00.09.29:340][174]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.14-00.09.29:340][174]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.14-00.09.29:340][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.14-00.09.29:340][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-00.09.29:343][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-00.09.29:343][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-00.09.29:343][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-00.09.29:348][174]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-00.09.29:411][174]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JVC HA-S75N)
+[2025.05.14-00.09.29:414][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-00.09.29:414][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-00.09.29:414][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-00.09.29:418][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.05.14-00.09.29:418][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.05.14-00.09.29:421][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.05.14-00.09.29:421][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.05.14-00.09.29:421][174]LogInit: FAudioDevice initialized.
+[2025.05.14-00.09.29:421][174]LogAudio: Display: Audio Device (ID: 44) registered with world 'Level1'.
+[2025.05.14-00.09.29:454][174]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-00.09.29:536][174]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.13-17.09.29
+[2025.05.14-00.09.29:546][174]LogWorld: Bringing up level for play took: 0.091444
+[2025.05.14-00.09.29:556][174]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2025.05.14-00.09.29:651][174]PIE: Server logged in
+[2025.05.14-00.09.29:652][174]PIE: Play in editor total start time 0.638 seconds.
+[2025.05.14-00.09.37:922][643]LogNet: Browse: /Game/Maps/Level2
+[2025.05.14-00.09.37:922][643]LogLoad: LoadMap: /Game/Maps/Level2
+[2025.05.14-00.09.37:922][643]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-00.09.37:924][643]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.09.37:930][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.09.38:015][643]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.09.38:034][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.05.14-00.09.38:245][643]LogAudio: Display: Audio Device (ID: 44) registered with world 'Level2'.
+[2025.05.14-00.09.38:245][643]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.09.38:245][643]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.09.38:246][643]LogAIModule: Creating AISystem for world Level2
+[2025.05.14-00.09.38:246][643]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2025.05.14-00.09.38:246][643]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-00.09.38:708][643]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.05.13-17.09.38
+[2025.05.14-00.09.38:709][643]LogWorld: Bringing up level for play took: 0.462931
+[2025.05.14-00.09.38:710][643]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.05.14-00.09.38:810][643]LogLoad: Took 0.887580 seconds to LoadMap(/Game/Maps/Level2)
+[2025.05.14-00.09.41:523][800]LogBlueprintUserMessages: [BP_ToLevel3_C_1] false
+[2025.05.14-00.09.41:635][800]LogBlueprintUserMessages: [BP_ToLevel3_C_1] false
+[2025.05.14-00.09.41:745][800]LogBlueprintUserMessages: [BP_ToLevel3_C_1] false
+[2025.05.14-00.09.41:857][800]LogBlueprintUserMessages: [BP_ToLevel3_C_1] false
+[2025.05.14-00.09.41:981][800]LogBlueprintUserMessages: [BP_ToLevel3_C_1] false
+[2025.05.14-00.09.42:100][800]LogBlueprintUserMessages: [BP_ToLevel3_C_1] false
+[2025.05.14-00.09.42:230][800]LogBlueprintUserMessages: [BP_ToLevel3_C_1] false
+[2025.05.14-00.09.42:365][800]LogBlueprintUserMessages: [BP_ToLevel3_C_1] false
+[2025.05.14-00.09.42:500][800]LogBlueprintUserMessages: [BP_ToLevel3_C_1] false
+[2025.05.14-00.09.42:713][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.09.42:713][802]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level2
+[2025.05.14-00.09.42:714][802]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.09.42:720][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.09.42:739][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-00.09.42:749][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.09.42:806][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.09.42:825][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.05.14-00.09.42:827][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.05.14-00.09.42:855][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.05.14-00.09.42:918][803]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2025.05.14-00.10.03:518][957]LogSavePackage: Moving output files for package: /Game/Carlos/Maps/BP_ToLevel3
+[2025.05.14-00.10.03:520][957]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_ToLevel38FF8105F4D9CC808856B08AB4800CBD0.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Maps/BP_ToLevel3.uasset'
+[2025.05.14-00.10.03:548][957]AssetCheck: New page: Asset Save: BP_ToLevel3
+[2025.05.14-00.10.03:548][957]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Maps/BP_ToLevel3.BP_ToLevel3
+[2025.05.14-00.10.03:755][969]BlueprintLog: New page: Compile BP_ToLevel3
+[2025.05.14-00.10.03:845][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.14-00.10.15:233][574]LogSavePackage: Moving output files for package: /Game/Carlos/Maps/BP_ToLevel4
+[2025.05.14-00.10.15:235][574]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_ToLevel4A5C3611B4482B0ADE876A5A258A6FEBD.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Maps/BP_ToLevel4.uasset'
+[2025.05.14-00.10.15:267][574]AssetCheck: New page: Asset Save: BP_ToLevel4
+[2025.05.14-00.10.15:267][574]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Maps/BP_ToLevel4.BP_ToLevel4
+[2025.05.14-00.10.15:597][593]BlueprintLog: New page: Compile BP_ToLevel4
+[2025.05.14-00.10.15:690][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.05.14-00.10.28:912][321]LogSavePackage: Moving output files for package: /Game/Carlos/Maps/BP_ToLevel1
+[2025.05.14-00.10.28:916][321]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_ToLevel1D8BAF197470426422AD6C78E76EE5ADE.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Maps/BP_ToLevel1.uasset'
+[2025.05.14-00.10.28:945][321]AssetCheck: New page: Asset Save: BP_ToLevel1
+[2025.05.14-00.10.28:945][321]LogContentValidation: Display: Validating Blueprint /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1
+[2025.05.14-00.10.29:428][349]BlueprintLog: New page: Compile BP_ToLevel1
+[2025.05.14-00.10.29:527][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.14-00.10.47:356][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.05.14-00.10.47:682][331]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2025.05.14-00.10.47:685][331]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level1A4B163B74E5531ED3148B3900C9834FF.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level1.umap'
+[2025.05.14-00.10.47:764][331]AssetCheck: New page: Asset Save: Level1
+[2025.05.14-00.10.47:764][331]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2025.05.14-00.10.48:300][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2025.05.14-00.10.51:822][358]LogSlate: Window 'Save Content' being destroyed
+[2025.05.14-00.10.51:885][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Elf" FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Players/Bp_Elf.uasset" SILENT=true
+[2025.05.14-00.10.51:899][358]LogSavePackage: Moving output files for package: /Game/Players/Bp_Elf
+[2025.05.14-00.10.51:901][358]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Bp_Elf5C758E9A44B9E2B055BB96A5C3B6B608.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Players/Bp_Elf.uasset'
+[2025.05.14-00.10.51:916][358]LogSavePackage: Moving output files for package: /Game/Players/Bp_Valkyrie
+[2025.05.14-00.10.51:918][358]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Bp_Valkyrie612BD8094B83B6FEB7785A80B72CD45B.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Players/Bp_Valkyrie.uasset'
+[2025.05.14-00.10.51:922][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Bp_Warrior" FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Players/Bp_Warrior.uasset" SILENT=true
+[2025.05.14-00.10.51:933][358]LogSavePackage: Moving output files for package: /Game/Players/Bp_Warrior
+[2025.05.14-00.10.51:934][358]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Bp_Warrior14F2CB5243F07A090D1A64867C9AD077.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Players/Bp_Warrior.uasset'
+[2025.05.14-00.10.51:993][358]LogSavePackage: Moving output files for package: /Game/Carlos/Maps/Map_Texture/Wall_Yellow
+[2025.05.14-00.10.51:995][358]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Wall_Yellow8917C3CA4689A8F5219E759BD883A0E9.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Carlos/Maps/Map_Texture/Wall_Yellow.uasset'
+[2025.05.14-00.10.52:731][358]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level2.Level2
+[2025.05.14-00.10.52:734][358]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.14-00.10.52:735][358]LightingResults: New page: Lighting Build
+[2025.05.14-00.10.52:736][358]LoadErrors: New page: Loading map: Level2.umap
+[2025.05.14-00.10.52:786][358]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.10.52:789][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.10.52:790][358]MapCheck: New page: Map Check
+[2025.05.14-00.10.52:790][358]LightingResults: New page: Lighting Build
+[2025.05.14-00.10.52:861][358]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.10.52:915][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.05.14-00.10.52:924][358]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.10.52:930][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.10.53:000][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.05.14-00.10.53:069][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.05.14-00.10.53:208][358]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2025.05.14-00.10.53:208][358]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.10.53:208][358]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.10.53:209][358]LogAIModule: Creating AISystem for world Level2
+[2025.05.14-00.10.54:008][358]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.14-00.10.54:109][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.05.14-00.10.54:129][358]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.14-00.10.54:132][358]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.816ms to complete.
+[2025.05.14-00.10.54:132][358]LogFileHelpers: Loading map 'Level2' took 1.399
+[2025.05.14-00.10.54:169][358]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.14-00.10.54:169][358]LogContentValidation: Display: Validating Material /Game/Carlos/Maps/Map_Texture/Wall_Yellow.Wall_Yellow
+[2025.05.14-00.10.54:169][358]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Valkyrie.Bp_Valkyrie
+[2025.05.14-00.10.54:169][358]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Elf.Bp_Elf
+[2025.05.14-00.10.54:169][358]LogContentValidation: Display: Validating Blueprint /Game/Players/Bp_Warrior.Bp_Warrior
+[2025.05.14-00.10.59:580][649]Cmd: DELETE
+[2025.05.14-00.10.59:580][649]Cmd: ACTOR DELETE
+[2025.05.14-00.10.59:631][649]LogEditorActor: Deleted Actor: BP_ToLevel3_C
+[2025.05.14-00.10.59:688][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.05.14-00.10.59:697][649]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2025.05.14-00.10.59:738][650]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.00:382][677]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Maps/BP_ToLevel3.BP_ToLevel3_C
+[2025.05.14-00.11.00:382][677]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Maps/BP_ToLevel3.BP_ToLevel3_C
+[2025.05.14-00.11.00:386][677]LogActorFactory: Actor Factory spawned Blueprint /Game/Maps/BP_ToLevel3.BP_ToLevel3 as actor: BP_ToLevel3_C /Game/Maps/Level2.Level2:PersistentLevel.BP_ToLevel3_C_0
+[2025.05.14-00.11.00:389][677]LogActorFactory: Actor Factory spawned Blueprint /Game/Maps/BP_ToLevel3.BP_ToLevel3 as actor: BP_ToLevel3_C /Game/Maps/Level2.Level2:PersistentLevel.BP_ToLevel3_C_0
+[2025.05.14-00.11.01:879][750]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Maps/BP_ToLevel3.BP_ToLevel3_C
+[2025.05.14-00.11.01:879][750]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Maps/BP_ToLevel3.BP_ToLevel3_C
+[2025.05.14-00.11.01:883][750]LogActorFactory: Actor Factory spawned Blueprint /Game/Maps/BP_ToLevel3.BP_ToLevel3 as actor: BP_ToLevel3_C /Game/Maps/Level2.Level2:PersistentLevel.BP_ToLevel3_C_2
+[2025.05.14-00.11.01:884][750]LogActorFactory: Actor Factory spawned Blueprint /Game/Maps/BP_ToLevel3.BP_ToLevel3 as actor: BP_ToLevel3_C /Game/Maps/Level2.Level2:PersistentLevel.BP_ToLevel3_C_2
+[2025.05.14-00.11.01:947][751]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.02:786][798]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.02:864][802]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.02:898][804]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.02:934][806]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.02:969][808]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.03:172][817]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.03:255][820]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.03:305][822]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.03:465][825]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.03:687][831]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.04:119][857]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.04:482][877]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.06:092][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.05.14-00.11.06:500][957]LogSavePackage: Moving output files for package: /Game/Maps/Level2
+[2025.05.14-00.11.06:502][957]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level2BB7CC9FE4389FC20AC917DB3126BDC42.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level2.umap'
+[2025.05.14-00.11.06:548][957]AssetCheck: New page: Asset Save: Level2
+[2025.05.14-00.11.06:549][957]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2025.05.14-00.11.07:236][998]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.14-00.11.07:251][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-00.11.07:251][998]PIE: New page: PIE session: Level2 (May 13, 2025, 10:11:07 AM)
+[2025.05.14-00.11.07:283][998]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level2
+[2025.05.14-00.11.07:402][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118823s)
+[2025.05.14-00.11.07:402][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2.Level2 to /Game/Maps/UEDPIE_0_Level2.Level2 (0.118943s)
+[2025.05.14-00.11.07:402][998]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.11.07:402][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.11.07:402][998]LogAIModule: Creating AISystem for world Level2
+[2025.05.14-00.11.07:402][998]LogPlayLevel: PIE: World Init took: (0.001769s)
+[2025.05.14-00.11.07:459][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.14-00.11.07:461][998]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.05.14-00.11.07:462][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-00.11.07:462][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-00.11.07:462][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-00.11.07:462][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-00.11.07:462][998]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.14-00.11.07:462][998]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.14-00.11.07:462][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.14-00.11.07:462][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-00.11.07:462][998]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-00.11.07:462][998]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-00.11.07:462][998]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-00.11.07:465][998]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-00.11.07:512][998]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JVC HA-S75N)
+[2025.05.14-00.11.07:512][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-00.11.07:512][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-00.11.07:512][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-00.11.07:514][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.05.14-00.11.07:514][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.05.14-00.11.07:516][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.05.14-00.11.07:516][998]LogInit: FAudioDevice initialized.
+[2025.05.14-00.11.07:516][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.05.14-00.11.07:516][998]LogAudio: Display: Audio Device (ID: 45) registered with world 'Level2'.
+[2025.05.14-00.11.07:534][998]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-00.11.07:596][998]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.05.13-17.11.07
+[2025.05.14-00.11.07:597][998]LogWorld: Bringing up level for play took: 0.061938
+[2025.05.14-00.11.07:599][998]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2025.05.14-00.11.07:692][998]PIE: Server logged in
+[2025.05.14-00.11.07:694][998]PIE: Play in editor total start time 0.445 seconds.
+[2025.05.14-00.11.10:384][148]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.10:439][148]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.10:498][148]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.10:562][148]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.10:625][148]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.10:690][148]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.10:753][148]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.10:815][148]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.10:884][148]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.12:161][222]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.12:162][222]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.13:574][305]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.13:645][305]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.13:719][305]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.13:783][305]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.13:853][305]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.13:930][305]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.13:999][305]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.14:059][305]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.14:122][305]LogBlueprintUserMessages: [BP_ToLevel3_C_2] false
+[2025.05.14-00.11.15:192][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.11.15:192][364]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level2
+[2025.05.14-00.11.15:194][364]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.11.15:201][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.11.15:222][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-00.11.15:229][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.11.15:313][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.11.15:314][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.05.14-00.11.15:316][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.05.14-00.11.15:348][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.14-00.11.15:416][365]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2025.05.14-00.11.18:806][559]Cmd: DELETE
+[2025.05.14-00.11.18:806][559]Cmd: ACTOR DELETE
+[2025.05.14-00.11.18:832][559]LogEditorActor: Deleted Actor: BP_ToLevel3_C
+[2025.05.14-00.11.18:882][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.05.14-00.11.18:885][559]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2025.05.14-00.11.18:896][560]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.23:238][806]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel3.BP_ToLevel3_C
+[2025.05.14-00.11.23:238][806]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel3.BP_ToLevel3_C
+[2025.05.14-00.11.23:240][806]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel3.BP_ToLevel3 as actor: BP_ToLevel3_C /Game/Maps/Level2.Level2:PersistentLevel.BP_ToLevel3_C_0
+[2025.05.14-00.11.23:243][806]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel3.BP_ToLevel3 as actor: BP_ToLevel3_C /Game/Maps/Level2.Level2:PersistentLevel.BP_ToLevel3_C_0
+[2025.05.14-00.11.23:981][835]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel3.BP_ToLevel3_C
+[2025.05.14-00.11.23:981][835]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel3.BP_ToLevel3_C
+[2025.05.14-00.11.23:985][835]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel3.BP_ToLevel3 as actor: BP_ToLevel3_C /Game/Maps/Level2.Level2:PersistentLevel.BP_ToLevel3_C_1
+[2025.05.14-00.11.23:986][835]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel3.BP_ToLevel3 as actor: BP_ToLevel3_C /Game/Maps/Level2.Level2:PersistentLevel.BP_ToLevel3_C_1
+[2025.05.14-00.11.24:042][836]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.25:710][933]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.26:675][977]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.26:729][980]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.26:765][982]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.26:814][985]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.26:866][988]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.26:919][991]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.26:997][995]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.27:068][999]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.27:104][  1]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.27:141][  3]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.27:240][  8]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.27:293][ 11]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.27:362][ 15]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.27:430][ 19]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.27:810][ 40]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level2.
+[2025.05.14-00.11.29:632][148]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.14-00.11.29:653][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-00.11.29:653][148]PIE: New page: PIE session: Level2 (May 13, 2025, 10:11:29 AM)
+[2025.05.14-00.11.29:654][148]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level2
+[2025.05.14-00.11.29:797][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142660s)
+[2025.05.14-00.11.29:797][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2.Level2 to /Game/Maps/UEDPIE_0_Level2.Level2 (0.142751s)
+[2025.05.14-00.11.29:797][148]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.11.29:797][148]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.11.29:797][148]LogAIModule: Creating AISystem for world Level2
+[2025.05.14-00.11.29:798][148]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2025.05.14-00.11.29:849][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.05.14-00.11.29:854][148]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.05.14-00.11.29:854][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-00.11.29:854][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-00.11.29:854][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-00.11.29:854][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-00.11.29:854][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.14-00.11.29:854][148]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.14-00.11.29:854][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.14-00.11.29:854][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-00.11.29:855][148]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-00.11.29:855][148]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-00.11.29:855][148]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-00.11.29:857][148]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-00.11.29:901][148]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JVC HA-S75N)
+[2025.05.14-00.11.29:902][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-00.11.29:902][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-00.11.29:902][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-00.11.29:902][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2025.05.14-00.11.29:902][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2025.05.14-00.11.29:906][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2025.05.14-00.11.29:906][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2025.05.14-00.11.29:906][148]LogInit: FAudioDevice initialized.
+[2025.05.14-00.11.29:906][148]LogAudio: Display: Audio Device (ID: 46) registered with world 'Level2'.
+[2025.05.14-00.11.29:922][148]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-00.11.29:968][148]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.05.13-17.11.29
+[2025.05.14-00.11.29:970][148]LogWorld: Bringing up level for play took: 0.047928
+[2025.05.14-00.11.29:972][148]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2025.05.14-00.11.30:061][148]PIE: Server logged in
+[2025.05.14-00.11.30:062][148]PIE: Play in editor total start time 0.417 seconds.
+[2025.05.14-00.11.33:267][300]LogNet: Browse: /Game/Maps/Level3
+[2025.05.14-00.11.33:268][300]LogLoad: LoadMap: /Game/Maps/Level3
+[2025.05.14-00.11.33:268][300]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level2
+[2025.05.14-00.11.33:271][300]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.11.33:278][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.11.33:372][300]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.11.33:404][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2025.05.14-00.11.33:536][300]LogAudio: Display: Audio Device (ID: 46) registered with world 'Level3'.
+[2025.05.14-00.11.33:536][300]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.11.33:536][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.11.33:537][300]LogAIModule: Creating AISystem for world Level3
+[2025.05.14-00.11.33:537][300]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2025.05.14-00.11.33:537][300]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-00.11.33:828][300]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2025.05.13-17.11.33
+[2025.05.14-00.11.33:829][300]LogWorld: Bringing up level for play took: 0.290947
+[2025.05.14-00.11.33:829][300]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.05.14-00.11.33:945][300]LogLoad: Took 0.677906 seconds to LoadMap(/Game/Maps/Level3)
+[2025.05.14-00.11.36:631][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.36:674][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.36:718][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.36:760][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.36:798][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.36:838][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.36:880][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.36:922][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.36:962][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.37:005][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.37:042][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.37:082][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.37:130][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.37:180][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.37:228][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.37:270][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.37:314][457]LogBlueprintUserMessages: [BP_ToLevel4_C_1] false
+[2025.05.14-00.11.37:392][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.11.37:392][458]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level3
+[2025.05.14-00.11.37:393][458]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.11.37:397][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.11.37:412][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-00.11.37:418][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.11.37:488][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.11.37:488][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.05.14-00.11.37:490][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.05.14-00.11.37:495][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.11.37:514][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2025.05.14-00.11.37:677][459]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2025.05.14-00.11.50:940][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.05.14-00.11.51:367][151]LogSavePackage: Moving output files for package: /Game/Maps/Level2
+[2025.05.14-00.11.51:369][151]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level2808F70CB49AE1D1D9E8D7DBD69CF101A.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level2.umap'
+[2025.05.14-00.11.51:415][151]AssetCheck: New page: Asset Save: Level2
+[2025.05.14-00.11.51:415][151]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2025.05.14-00.11.54:055][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.05.14-00.11.54:544][294]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level3.Level3
+[2025.05.14-00.11.54:544][294]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.14-00.11.54:544][294]LightingResults: New page: Lighting Build
+[2025.05.14-00.11.54:544][294]LoadErrors: New page: Loading map: Level3.umap
+[2025.05.14-00.11.54:565][294]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.11.54:565][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.11.54:566][294]MapCheck: New page: Map Check
+[2025.05.14-00.11.54:567][294]LightingResults: New page: Lighting Build
+[2025.05.14-00.11.54:629][294]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.11.54:663][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.05.14-00.11.54:672][294]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.11.54:676][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.11.54:748][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.05.14-00.11.54:818][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.14-00.11.54:892][294]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2025.05.14-00.11.54:894][294]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.11.54:894][294]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.11.54:895][294]LogAIModule: Creating AISystem for world Level3
+[2025.05.14-00.11.55:399][294]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.14-00.11.55:480][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.05.14-00.11.55:502][294]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.14-00.11.55:503][294]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.296ms to complete.
+[2025.05.14-00.11.55:503][294]LogFileHelpers: Loading map 'Level3' took 0.958
+[2025.05.14-00.12.01:320][612]Cmd: DELETE
+[2025.05.14-00.12.01:320][612]Cmd: ACTOR DELETE
+[2025.05.14-00.12.01:337][612]LogEditorActor: Deleted Actor: BP_ToLevel4_C
+[2025.05.14-00.12.01:392][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.14-00.12.01:399][612]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2025.05.14-00.12.01:438][613]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.12.05:721][823]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel4.BP_ToLevel4_C
+[2025.05.14-00.12.05:721][823]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel4.BP_ToLevel4_C
+[2025.05.14-00.12.05:723][823]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel4.BP_ToLevel4 as actor: BP_ToLevel4_C /Game/Maps/Level3.Level3:PersistentLevel.BP_ToLevel4_C_0
+[2025.05.14-00.12.05:724][823]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel4.BP_ToLevel4 as actor: BP_ToLevel4_C /Game/Maps/Level3.Level3:PersistentLevel.BP_ToLevel4_C_0
+[2025.05.14-00.12.07:102][897]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel4.BP_ToLevel4_C
+[2025.05.14-00.12.07:102][897]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel4.BP_ToLevel4_C
+[2025.05.14-00.12.07:105][897]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel4.BP_ToLevel4 as actor: BP_ToLevel4_C /Game/Maps/Level3.Level3:PersistentLevel.BP_ToLevel4_C_2
+[2025.05.14-00.12.07:107][897]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel4.BP_ToLevel4 as actor: BP_ToLevel4_C /Game/Maps/Level3.Level3:PersistentLevel.BP_ToLevel4_C_2
+[2025.05.14-00.12.07:165][898]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.12.07:838][936]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.12.08:015][944]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.12.08:608][957]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.12.08:792][968]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.12.08:895][974]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.12.09:029][982]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.12.09:183][991]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.12.09:538][ 12]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.12.09:877][ 30]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level3.
+[2025.05.14-00.12.10:841][ 85]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.14-00.12.10:858][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-00.12.10:858][ 85]PIE: New page: PIE session: Level3 (May 13, 2025, 10:12:10 AM)
+[2025.05.14-00.12.10:858][ 85]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level3
+[2025.05.14-00.12.10:954][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096380s)
+[2025.05.14-00.12.10:954][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level3.Level3 to /Game/Maps/UEDPIE_0_Level3.Level3 (0.096476s)
+[2025.05.14-00.12.10:954][ 85]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.12.10:954][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.12.10:955][ 85]LogAIModule: Creating AISystem for world Level3
+[2025.05.14-00.12.10:956][ 85]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2025.05.14-00.12.11:015][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.14-00.12.11:020][ 85]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2025.05.14-00.12.11:020][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-00.12.11:020][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-00.12.11:020][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-00.12.11:020][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-00.12.11:020][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.14-00.12.11:020][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.14-00.12.11:020][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.14-00.12.11:020][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-00.12.11:020][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-00.12.11:020][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-00.12.11:020][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-00.12.11:023][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-00.12.11:066][ 85]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JVC HA-S75N)
+[2025.05.14-00.12.11:066][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-00.12.11:066][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-00.12.11:066][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-00.12.11:067][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2025.05.14-00.12.11:067][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2025.05.14-00.12.11:069][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2025.05.14-00.12.11:069][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2025.05.14-00.12.11:069][ 85]LogInit: FAudioDevice initialized.
+[2025.05.14-00.12.11:069][ 85]LogAudio: Display: Audio Device (ID: 47) registered with world 'Level3'.
+[2025.05.14-00.12.11:082][ 85]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-00.12.11:117][ 85]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2025.05.13-17.12.11
+[2025.05.14-00.12.11:118][ 85]LogWorld: Bringing up level for play took: 0.035272
+[2025.05.14-00.12.11:120][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2025.05.14-00.12.11:221][ 85]PIE: Server logged in
+[2025.05.14-00.12.11:222][ 85]PIE: Play in editor total start time 0.37 seconds.
+[2025.05.14-00.12.15:150][262]LogNet: Browse: /Game/Maps/Level4
+[2025.05.14-00.12.15:150][262]LogLoad: LoadMap: /Game/Maps/Level4
+[2025.05.14-00.12.15:150][262]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level3
+[2025.05.14-00.12.15:154][262]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.12.15:158][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.12.15:211][262]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.12.15:232][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.05.14-00.12.15:534][262]LogAudio: Display: Audio Device (ID: 47) registered with world 'Level4'.
+[2025.05.14-00.12.15:534][262]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.12.15:534][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.12.15:534][262]LogAIModule: Creating AISystem for world Level4
+[2025.05.14-00.12.15:535][262]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2025.05.14-00.12.15:535][262]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-00.12.16:237][262]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2025.05.13-17.12.16
+[2025.05.14-00.12.16:239][262]LogWorld: Bringing up level for play took: 0.703057
+[2025.05.14-00.12.16:239][262]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.05.14-00.12.16:475][262]LogLoad: Took 1.324849 seconds to LoadMap(/Game/Maps/Level4)
+[2025.05.14-00.12.19:254][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.19:377][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.19:486][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.19:600][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.19:700][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.19:815][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.19:923][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.20:042][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.20:153][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.20:258][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.20:366][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.20:498][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.20:664][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.20:796][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.20:905][405]LogBlueprintUserMessages: [BP_ToLevel1_C_1] false
+[2025.05.14-00.12.22:502][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.12.22:502][476]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level4
+[2025.05.14-00.12.22:505][476]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.12.22:517][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.12.22:538][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-00.12.22:547][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.12.22:657][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.12.22:659][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.05.14-00.12.22:661][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.05.14-00.12.22:723][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2025.05.14-00.12.22:801][477]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2025.05.14-00.12.38:485][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.14-00.12.38:800][325]LogSavePackage: Moving output files for package: /Game/Maps/Level3
+[2025.05.14-00.12.38:803][325]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level389D6312D483E2D3D491B83A61E011917.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level3.umap'
+[2025.05.14-00.12.38:860][325]AssetCheck: New page: Asset Save: Level3
+[2025.05.14-00.12.38:860][325]LogContentValidation: Display: Validating World /Game/Maps/Level3.Level3
+[2025.05.14-00.12.39:348][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.05.14-00.12.40:286][346]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level4.Level4
+[2025.05.14-00.12.40:286][346]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.14-00.12.40:286][346]LightingResults: New page: Lighting Build
+[2025.05.14-00.12.40:286][346]LoadErrors: New page: Loading map: Level4.umap
+[2025.05.14-00.12.40:296][346]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.12.40:296][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.12.40:297][346]MapCheck: New page: Map Check
+[2025.05.14-00.12.40:297][346]LightingResults: New page: Lighting Build
+[2025.05.14-00.12.40:368][346]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.12.40:396][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.14-00.12.40:404][346]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.12.40:413][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.12.40:493][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.05.14-00.12.40:567][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.05.14-00.12.40:740][346]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level4'.
+[2025.05.14-00.12.40:740][346]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.12.40:740][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.12.40:740][346]LogAIModule: Creating AISystem for world Level4
+[2025.05.14-00.12.41:768][346]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.14-00.12.41:874][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.05.14-00.12.41:891][346]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.14-00.12.41:891][346]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.299ms to complete.
+[2025.05.14-00.12.41:891][346]LogFileHelpers: Loading map 'Level4' took 1.605
+[2025.05.14-00.12.47:455][606]Cmd: DELETE
+[2025.05.14-00.12.47:455][606]Cmd: ACTOR DELETE
+[2025.05.14-00.12.47:508][606]LogEditorActor: Deleted Actor: BP_ToLevel1_C
+[2025.05.14-00.12.47:590][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.05.14-00.12.47:600][606]LogEditorActor: Deleted 1 Actors (0.146 secs)
+[2025.05.14-00.12.47:624][607]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.12.50:862][751]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.05.14-00.12.50:862][751]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.05.14-00.12.51:580][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.14-00.12.57:628][782]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.14-00.13.02:329][ 18]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1_C
+[2025.05.14-00.13.02:329][ 18]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1_C
+[2025.05.14-00.13.02:332][ 18]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1 as actor: BP_ToLevel1_C /Game/Maps/Level4.Level4:PersistentLevel.BP_ToLevel1_C_0
+[2025.05.14-00.13.02:334][ 18]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1 as actor: BP_ToLevel1_C /Game/Maps/Level4.Level4:PersistentLevel.BP_ToLevel1_C_0
+[2025.05.14-00.13.03:855][ 92]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1_C
+[2025.05.14-00.13.03:855][ 92]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1_C
+[2025.05.14-00.13.03:860][ 92]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1 as actor: BP_ToLevel1_C /Game/Maps/Level4.Level4:PersistentLevel.BP_ToLevel1_C_2
+[2025.05.14-00.13.03:864][ 92]LogActorFactory: Actor Factory spawned Blueprint /Game/Carlos/Maps/BP_ToLevel1.BP_ToLevel1 as actor: BP_ToLevel1_C /Game/Maps/Level4.Level4:PersistentLevel.BP_ToLevel1_C_2
+[2025.05.14-00.13.03:932][ 93]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.06:836][264]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.06:888][267]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.06:973][272]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.07:023][275]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.07:073][278]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.07:108][280]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.07:221][286]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.07:258][288]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.07:298][290]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.07:336][292]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.07:375][294]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.07:410][296]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.07:716][314]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.07:980][329]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level4.
+[2025.05.14-00.13.14:407][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.05.14-00.13.15:075][698]LogSavePackage: Moving output files for package: /Game/Maps/Level4
+[2025.05.14-00.13.15:078][698]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level4A614F1354F7629242E28449A3CDD28F2.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level4.umap'
+[2025.05.14-00.13.15:127][698]AssetCheck: New page: Asset Save: Level4
+[2025.05.14-00.13.15:127][698]LogContentValidation: Display: Validating World /Game/Maps/Level4.Level4
+[2025.05.14-00.13.16:237][762]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.14-00.13.16:258][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-00.13.16:258][762]PIE: New page: PIE session: Level4 (May 13, 2025, 10:13:16 AM)
+[2025.05.14-00.13.16:293][762]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level4
+[2025.05.14-00.13.16:472][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178781s)
+[2025.05.14-00.13.16:472][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level4.Level4 to /Game/Maps/UEDPIE_0_Level4.Level4 (0.179021s)
+[2025.05.14-00.13.16:472][762]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.13.16:472][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.13.16:472][762]LogAIModule: Creating AISystem for world Level4
+[2025.05.14-00.13.16:472][762]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2025.05.14-00.13.16:525][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.05.14-00.13.16:528][762]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2025.05.14-00.13.16:528][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-00.13.16:528][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-00.13.16:528][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-00.13.16:528][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-00.13.16:528][762]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.14-00.13.16:528][762]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.14-00.13.16:528][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.14-00.13.16:528][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-00.13.16:529][762]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-00.13.16:529][762]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-00.13.16:529][762]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-00.13.16:531][762]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-00.13.16:580][762]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JVC HA-S75N)
+[2025.05.14-00.13.16:580][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-00.13.16:580][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-00.13.16:580][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-00.13.16:580][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2025.05.14-00.13.16:580][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2025.05.14-00.13.16:582][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2025.05.14-00.13.16:582][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2025.05.14-00.13.16:582][762]LogInit: FAudioDevice initialized.
+[2025.05.14-00.13.16:582][762]LogAudio: Display: Audio Device (ID: 48) registered with world 'Level4'.
+[2025.05.14-00.13.16:598][762]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-00.13.16:674][762]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2025.05.13-17.13.16
+[2025.05.14-00.13.16:675][762]LogWorld: Bringing up level for play took: 0.078019
+[2025.05.14-00.13.16:678][762]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2025.05.14-00.13.16:913][762]PIE: Server logged in
+[2025.05.14-00.13.16:914][762]PIE: Play in editor total start time 0.665 seconds.
+[2025.05.14-00.13.26:796][160]LogNet: Browse: /Game/Maps/Level1
+[2025.05.14-00.13.26:796][160]LogLoad: LoadMap: /Game/Maps/Level1
+[2025.05.14-00.13.26:796][160]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level4
+[2025.05.14-00.13.26:804][160]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.13.26:812][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.13.26:880][160]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.13.26:923][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2025.05.14-00.13.27:094][160]LogAudio: Display: Audio Device (ID: 48) registered with world 'Level1'.
+[2025.05.14-00.13.27:094][160]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.13.27:094][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.13.27:094][160]LogAIModule: Creating AISystem for world Level1
+[2025.05.14-00.13.27:095][160]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2025.05.14-00.13.27:095][160]LogLoad: Game class is 'Bp_Game_Mode_C'
+[2025.05.14-00.13.27:431][160]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.13-17.13.27
+[2025.05.14-00.13.27:432][160]LogWorld: Bringing up level for play took: 0.336508
+[2025.05.14-00.13.27:432][160]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.05.14-00.13.27:482][160]LogLoad: Took 0.685805 seconds to LoadMap(/Game/Maps/Level1)
+[2025.05.14-00.13.30:943][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.13.30:943][364]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2025.05.14-00.13.30:945][364]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.13.30:950][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.13.30:966][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-00.13.30:974][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.13.31:031][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.13.31:037][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.05.14-00.13.31:038][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.05.14-00.13.31:042][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-00.13.31:064][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.14-00.13.31:122][365]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2025.05.14-00.13.49:501][318]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.05.14-00.13.49:501][318]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.05.14-00.13.50:087][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.14-00.13.53:144][342]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.14-00.13.54:092][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.14-00.13.54:566][387]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2025.05.14-00.13.54:566][387]Cmd: MAP LOAD FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.14-00.13.54:566][387]LightingResults: New page: Lighting Build
+[2025.05.14-00.13.54:566][387]LoadErrors: New page: Loading map: Level1.umap
+[2025.05.14-00.13.54:584][387]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.13.54:585][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.13.54:586][387]MapCheck: New page: Map Check
+[2025.05.14-00.13.54:586][387]LightingResults: New page: Lighting Build
+[2025.05.14-00.13.54:648][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.14-00.13.54:694][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2025.05.14-00.13.54:705][387]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-00.13.54:709][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-00.13.54:770][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.05.14-00.13.54:826][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.14-00.13.54:900][387]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2025.05.14-00.13.54:900][387]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.05.14-00.13.54:900][387]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.14-00.13.54:900][387]LogAIModule: Creating AISystem for world Level1
+[2025.05.14-00.13.55:360][387]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.14-00.13.55:435][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.14-00.13.55:450][387]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.14-00.13.55:450][387]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.267ms to complete.
+[2025.05.14-00.13.55:450][387]LogFileHelpers: Loading map 'Level1' took 0.884
+[2025.05.14-00.13.59:535][588]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.05.14-00.13.59:535][588]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.05.14-00.14.00:063][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.05.14-00.14.19:466][611]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.14-00.14.23:283][797]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.14-00.14.23:300][797]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.14-00.14.23:316][798]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.14-00.14.43:976][  2]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2025.05.14-00.14.43:981][  2]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.14-00.14.57:662][746]LogContentBrowser: Attempting asset rename: NewFolder -> DoNotUse_UseOtherVersion
+[2025.05.14-00.15.03:140][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel1.BP_ToLevel1_C' ref from Metadata '/Game/Maps/BP_ToLevel1.PackageMetaData'
+[2025.05.14-00.15.03:140][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel1.SKEL_BP_ToLevel1_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/BP_ToLevel1.PackageMetaData'
+[2025.05.14-00.15.03:140][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel1.SKEL_BP_ToLevel1_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Maps/BP_ToLevel1.PackageMetaData'
+[2025.05.14-00.15.03:140][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel1.SKEL_BP_ToLevel1_C:ReceiveTick' ref from Metadata '/Game/Maps/BP_ToLevel1.PackageMetaData'
+[2025.05.14-00.15.03:140][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel1.SKEL_BP_ToLevel1_C:BndEvt__BP_ToLevel2_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Maps/BP_ToLevel1.PackageMetaData'
+[2025.05.14-00.15.03:140][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel1.SKEL_BP_ToLevel1_C:UserConstructionScript' ref from Metadata '/Game/Maps/BP_ToLevel1.PackageMetaData'
+[2025.05.14-00.15.03:140][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel1.SKEL_BP_ToLevel1_C' ref from Metadata '/Game/Maps/BP_ToLevel1.PackageMetaData'
+[2025.05.14-00.15.03:147][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.BP_ToLevel2:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Maps/BP_ToLevel2.PackageMetaData'
+[2025.05.14-00.15.03:147][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.BP_ToLevel2_C' ref from Metadata '/Game/Maps/BP_ToLevel2.PackageMetaData'
+[2025.05.14-00.15.03:147][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.BP_ToLevel2:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/BP_ToLevel2.PackageMetaData'
+[2025.05.14-00.15.03:147][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.BP_ToLevel2:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Maps/BP_ToLevel2.PackageMetaData'
+[2025.05.14-00.15.03:147][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.BP_ToLevel2:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Maps/BP_ToLevel2.PackageMetaData'
+[2025.05.14-00.15.03:147][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.SKEL_BP_ToLevel2_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/BP_ToLevel2.PackageMetaData'
+[2025.05.14-00.15.03:147][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.SKEL_BP_ToLevel2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Maps/BP_ToLevel2.PackageMetaData'
+[2025.05.14-00.15.03:147][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.SKEL_BP_ToLevel2_C:ReceiveTick' ref from Metadata '/Game/Maps/BP_ToLevel2.PackageMetaData'
+[2025.05.14-00.15.03:147][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.SKEL_BP_ToLevel2_C:BndEvt__BP_ToLevel2_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Maps/BP_ToLevel2.PackageMetaData'
+[2025.05.14-00.15.03:147][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.SKEL_BP_ToLevel2_C:UserConstructionScript' ref from Metadata '/Game/Maps/BP_ToLevel2.PackageMetaData'
+[2025.05.14-00.15.03:147][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.SKEL_BP_ToLevel2_C' ref from Metadata '/Game/Maps/BP_ToLevel2.PackageMetaData'
+[2025.05.14-00.15.03:150][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel3.BP_ToLevel3_C' ref from Metadata '/Game/Maps/BP_ToLevel3.PackageMetaData'
+[2025.05.14-00.15.03:150][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel3.SKEL_BP_ToLevel3_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/BP_ToLevel3.PackageMetaData'
+[2025.05.14-00.15.03:150][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel3.SKEL_BP_ToLevel3_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Maps/BP_ToLevel3.PackageMetaData'
+[2025.05.14-00.15.03:150][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel3.SKEL_BP_ToLevel3_C:ReceiveTick' ref from Metadata '/Game/Maps/BP_ToLevel3.PackageMetaData'
+[2025.05.14-00.15.03:150][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel3.SKEL_BP_ToLevel3_C:BndEvt__BP_ToLevel2_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Maps/BP_ToLevel3.PackageMetaData'
+[2025.05.14-00.15.03:150][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel3.SKEL_BP_ToLevel3_C:UserConstructionScript' ref from Metadata '/Game/Maps/BP_ToLevel3.PackageMetaData'
+[2025.05.14-00.15.03:150][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel3.SKEL_BP_ToLevel3_C' ref from Metadata '/Game/Maps/BP_ToLevel3.PackageMetaData'
+[2025.05.14-00.15.03:151][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel4.BP_ToLevel4_C' ref from Metadata '/Game/Maps/BP_ToLevel4.PackageMetaData'
+[2025.05.14-00.15.03:151][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel4.SKEL_BP_ToLevel4_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/BP_ToLevel4.PackageMetaData'
+[2025.05.14-00.15.03:151][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel4.SKEL_BP_ToLevel4_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Maps/BP_ToLevel4.PackageMetaData'
+[2025.05.14-00.15.03:151][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel4.SKEL_BP_ToLevel4_C:ReceiveTick' ref from Metadata '/Game/Maps/BP_ToLevel4.PackageMetaData'
+[2025.05.14-00.15.03:151][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel4.SKEL_BP_ToLevel4_C:BndEvt__BP_ToLevel2_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Maps/BP_ToLevel4.PackageMetaData'
+[2025.05.14-00.15.03:151][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel4.SKEL_BP_ToLevel4_C:UserConstructionScript' ref from Metadata '/Game/Maps/BP_ToLevel4.PackageMetaData'
+[2025.05.14-00.15.03:151][ 27]LogMetaData: Removing '/Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel4.SKEL_BP_ToLevel4_C' ref from Metadata '/Game/Maps/BP_ToLevel4.PackageMetaData'
+[2025.05.14-00.15.03:200][ 27]LogSavePackage: Moving output files for package: /Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel1
+[2025.05.14-00.15.03:200][ 27]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_ToLevel1E26BD7234E22B92C455EA5BFA632EE3E.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/DoNotUse_UseOtherVersion/BP_ToLevel1.uasset'
+[2025.05.14-00.15.03:212][ 27]LogSavePackage: Moving output files for package: /Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2
+[2025.05.14-00.15.03:212][ 27]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_ToLevel20A8F27984DC0ABD52BA7E5B1B1AD356B.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.uasset'
+[2025.05.14-00.15.03:216][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BP_ToLevel2" FILE="../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/BP_ToLevel2.uasset" SILENT=true
+[2025.05.14-00.15.03:219][ 27]LogSavePackage: Moving output files for package: /Game/Maps/BP_ToLevel2
+[2025.05.14-00.15.03:222][ 27]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_ToLevel2B82741B24A03331044E011BAB45F83B4.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/BP_ToLevel2.uasset'
+[2025.05.14-00.15.03:237][ 27]LogSavePackage: Moving output files for package: /Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel3
+[2025.05.14-00.15.03:237][ 27]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_ToLevel3DCA193B64340C7040BAA05BE1040E2DD.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/DoNotUse_UseOtherVersion/BP_ToLevel3.uasset'
+[2025.05.14-00.15.03:249][ 27]LogSavePackage: Moving output files for package: /Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel4
+[2025.05.14-00.15.03:249][ 27]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/BP_ToLevel4C231696F4E6CE5A10843D58DF2530AE9.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/DoNotUse_UseOtherVersion/BP_ToLevel4.uasset'
+[2025.05.14-00.15.03:379][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.05.14-00.15.03:435][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.05.14-00.15.03:493][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.05.14-00.15.03:558][ 27]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.14-00.15.03:558][ 27]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/BP_ToLevel2.BP_ToLevel2
+[2025.05.14-00.15.03:558][ 27]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/BP_ToLevel2.Default__BP_ToLevel2_C
+[2025.05.14-00.15.03:558][ 27]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/BP_ToLevel2.BP_ToLevel2_C
+[2025.05.14-00.15.03:558][ 27]LogContentValidation: Display: Validating Blueprint /Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel4.BP_ToLevel4
+[2025.05.14-00.15.03:558][ 27]LogContentValidation: Display: Validating Blueprint /Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel2.BP_ToLevel2
+[2025.05.14-00.15.03:558][ 27]LogContentValidation: Display: Validating Blueprint /Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel3.BP_ToLevel3
+[2025.05.14-00.15.03:558][ 27]LogContentValidation: Display: Validating Blueprint /Game/Maps/DoNotUse_UseOtherVersion/BP_ToLevel1.BP_ToLevel1
+[2025.05.14-00.15.17:450][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.05.14-00.15.17:795][826]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2025.05.14-00.15.17:797][826]LogSavePackage: Moving '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Saved/Level168ABE4A04406C4E9B8CADAB2CED0BCE4.tmp' to '../../../../../Users/sonsi/Game Development GitHub/School/Unreal/Gauntlet/380Gauntlet/Gauntlet/Content/Maps/Level1.umap'
+[2025.05.14-00.15.17:840][826]AssetCheck: New page: Asset Save: Level1
+[2025.05.14-00.15.17:840][826]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
